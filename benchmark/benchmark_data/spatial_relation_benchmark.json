@@ -1,0 +1,702 @@
+[
+  {
+    "question": "What is the spatial relationship between the initial brain MRI (Fig-1) and the C-spine MRI (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC9829566_jcen-2022-e2021-11-003f1.jpg",
+      "PMC9829566_jcen-2022-e2021-11-003f1.jpg_2.jpg",
+      "PMC9829566_jcen-2022-e2021-11-003f1.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 (initial brain MRI) is positioned to the left of Fig-2 (C-spine MRI) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the axial T2-weighted MRI (Fig-1) and the fused PET/CT images (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8286007_WJNM-20-198-g001.jpg",
+      "PMC8286007_WJNM-20-198-g001.jpg_2.jpg",
+      "PMC8286007_WJNM-20-198-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (fused PET/CT images) is positioned to the right of Fig-1 (axial T2-weighted MRI) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the preoperative CT reconstruction (Fig-2) and the postoperative CT reconstruction (Fig-6) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8140488_12891_2021_4335_Fig4_HTML.jpg",
+      "PMC8140488_12891_2021_4335_Fig4_HTML.jpg_4.jpg",
+      "PMC8140488_12891_2021_4335_Fig4_HTML.jpg_2.jpg"
+    ],
+    "gt": "Fig-2 (preoperative CT reconstruction) is positioned to the left and above Fig-6 (postoperative CT reconstruction) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the two sub-images depicting the in vitro internalization of fluorescently labeled EVs into THP-1 cells (Fig-6 and Fig-7) based on their bounding box locations?",
+    "images": [
+      "PMC6091278_fimmu-09-01789-g001.jpg",
+      "PMC6091278_fimmu-09-01789-g001.jpg_1.jpg",
+      "PMC6091278_fimmu-09-01789-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-7 is positioned to the right of Fig-6 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the chest CT scan at the level of the pulmonary artery (Fig-2) and the chest CT scan at the level of the heart (Fig-3) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC6225587_12879_2018_3451_Fig1_HTML.jpg",
+      "PMC6225587_12879_2018_3451_Fig1_HTML.jpg_2.jpg",
+      "PMC6225587_12879_2018_3451_Fig1_HTML.jpg_1.jpg"
+    ],
+    "gt": "Fig-3 (chest CT scan at the level of the heart) is positioned to the right of Fig-2 (chest CT scan at the level of the pulmonary artery) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the two histological sections (Fig-1 and Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC3048271_11999_2010_1649_Fig2_HTML.jpg",
+      "PMC3048271_11999_2010_1649_Fig2_HTML.jpg_0.jpg",
+      "PMC3048271_11999_2010_1649_Fig2_HTML.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 is positioned to the left of Fig-2 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the axial Gd-enhanced 3D bFFE image (Fig-1) and the Gd-enhanced 3D PDDE image (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC4106890_pone.0103215.g002.jpg",
+      "PMC4106890_pone.0103215.g002.jpg_0.jpg",
+      "PMC4106890_pone.0103215.g002.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 (axial Gd-enhanced 3D bFFE image) is positioned to the left of Fig-2 (Gd-enhanced 3D PDDE image) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the two preoperative MRI images (Fig-1 and Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC3488640_jkns-52-325-g001.jpg",
+      "PMC3488640_jkns-52-325-g001.jpg_1.jpg",
+      "PMC3488640_jkns-52-325-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 is positioned to the right of Fig-1 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the collagen IV staining image of Ker-CT skin equivalents (Fig-1) and the non-linear collagen IV staining image of skin equivalents with H-Ras keratinocytes (Fig-7) based on their bounding box locations in the compound image?",
+    "images": [
+      "PMC2774948_pone.0007908.g004.jpg",
+      "PMC2774948_pone.0007908.g004.jpg_0.jpg",
+      "PMC2774948_pone.0007908.g004.jpg_4.jpg"
+    ],
+    "gt": "Fig-7 (non-linear collagen IV staining image) is positioned to the right and below Fig-1 (collagen IV staining image of Ker-CT skin equivalents) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the electron microscopy image (Fig-5) and the p62-positive intranuclear inclusions in sweat gland cells (Fig-4) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8268606_12883_2021_2306_Fig2_HTML.jpg",
+      "PMC8268606_12883_2021_2306_Fig2_HTML.jpg_2.jpg",
+      "PMC8268606_12883_2021_2306_Fig2_HTML.jpg_1.jpg"
+    ],
+    "gt": "Fig-5 (electron microscopy image) is positioned to the left and below Fig-4 (p62-positive intranuclear inclusions in sweat gland cells) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the ultrasonogram depicting normal eye structures (Fig-1) and the ultrasonogram demonstrating the normal lacrimal gland (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8772537_animals-12-00132-g001.jpg",
+      "PMC8772537_animals-12-00132-g001.jpg_1.jpg",
+      "PMC8772537_animals-12-00132-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-1 (ultrasonogram depicting normal eye structures) is positioned to the left of Fig-2 (ultrasonogram demonstrating the normal lacrimal gland) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the sub-images Fig-7 and Fig-8 in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC4481067_13064_2015_41_Fig2_HTML.jpg",
+      "PMC4481067_13064_2015_41_Fig2_HTML.jpg_7.jpg",
+      "PMC4481067_13064_2015_41_Fig2_HTML.jpg_6.jpg"
+    ],
+    "gt": "Fig-8 is positioned to the right of Fig-7 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-8",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the echocardiographic image (Fig-1) and the bullseye map (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8932383_mdcvj-18-2-1072-g1.jpg",
+      "PMC8932383_mdcvj-18-2-1072-g1.jpg_0.jpg",
+      "PMC8932383_mdcvj-18-2-1072-g1.jpg_4.jpg"
+    ],
+    "gt": "Fig-2 (bullseye map) is positioned to the right of Fig-1 (echocardiographic image) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the dermoscopic images of the patients shown in Fig-2 and Fig-3 based on their bounding box locations?",
+    "images": [
+      "PMC8809169_IDOJ-13-86-g001.jpg",
+      "PMC8809169_IDOJ-13-86-g001.jpg_1.jpg",
+      "PMC8809169_IDOJ-13-86-g001.jpg_2.jpg"
+    ],
+    "gt": "Fig-3 is positioned to the right of Fig-2 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the single coil lead (Fig-1) and the dual coil lead (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC5592174_jkms-32-1610-g001.jpg",
+      "PMC5592174_jkms-32-1610-g001.jpg_1.jpg",
+      "PMC5592174_jkms-32-1610-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-1 (single coil lead) is positioned to the left of Fig-2 (dual coil lead) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the endoscopic view (Fig-2) and the axial CT view (Fig-1) of the duodenal fistula in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC10927354_10-1055-a-2268-5793_22690728.jpg",
+      "PMC10927354_10-1055-a-2268-5793_22690728.jpg_1.jpg",
+      "PMC10927354_10-1055-a-2268-5793_22690728.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (endoscopic view) is positioned to the right of Fig-1 (axial CT view) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the T1-weighted MRI (Fig-1) and the MRA (Fig-2) of the brain in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC7779121_cureus-0012-00000011774-i02.jpg",
+      "PMC7779121_cureus-0012-00000011774-i02.jpg_0.jpg",
+      "PMC7779121_cureus-0012-00000011774-i02.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 (T1-weighted MRI) is positioned to the left of Fig-2 (MRA) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the fluorescence microscopy images of E. coli MC1061 cells expressing N22-48-sfGFP (Fig-1) and those under arabinose growth conditions with Ffh present (Fig-2) based on their bounding box locations?",
+    "images": [
+      "PMC6581901_41598_2019_45233_Fig2_HTML.jpg",
+      "PMC6581901_41598_2019_45233_Fig2_HTML.jpg_1.jpg",
+      "PMC6581901_41598_2019_45233_Fig2_HTML.jpg_2.jpg"
+    ],
+    "gt": "Fig-1 (fluorescence microscopy image of E. coli MC1061 cells expressing N22-48-sfGFP) is positioned to the left of Fig-2 (fluorescence microscopy image under arabinose growth conditions with Ffh present) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the transverse noncontrast CT image (Fig-1) and the coronal reformation during the portal phase (Fig-2) of the perivascular epithelioid cell tumor in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC4736062_JCIS-5-69-g003.jpg",
+      "PMC4736062_JCIS-5-69-g003.jpg_0.jpg",
+      "PMC4736062_JCIS-5-69-g003.jpg_2.jpg"
+    ],
+    "gt": "Fig-1 (transverse noncontrast CT image) is positioned to the left of Fig-2 (coronal reformation during the portal phase) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the 7-day culture image (Fig-3) and the section in situ hybridization image (Fig-6) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC3760860_pone.0074484.g002.jpg",
+      "PMC3760860_pone.0074484.g002.jpg_4.jpg",
+      "PMC3760860_pone.0074484.g002.jpg_5.jpg"
+    ],
+    "gt": "Fig-3 (7-day culture) is positioned to the left and above Fig-6 (section in situ hybridization) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the axial MRI scan of the 79-year-old male patient (Fig-3) and the axial MRI scan of the 70-year-old male patient (Fig-5) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC9353167_btrt-10-172-g001.jpg",
+      "PMC9353167_btrt-10-172-g001.jpg_4.jpg",
+      "PMC9353167_btrt-10-172-g001.jpg_2.jpg"
+    ],
+    "gt": "Fig-3 (axial MRI scan of the 79-year-old male patient) is positioned to the right and above Fig-5 (axial MRI scan of the 70-year-old male patient) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the venous phase CT image (Fig-1) and the delayed phase CT image (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC6837772_SAJR-22-1283-g003.jpg",
+      "PMC6837772_SAJR-22-1283-g003.jpg_1.jpg",
+      "PMC6837772_SAJR-22-1283-g003.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (delayed phase CT image) is positioned to the right of Fig-1 (venous phase CT image) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the representative photograph of skin sections from Nc/Nga mice treated with vehicle (Fig-3) and the representative photograph of skin sections from mice treated with DNCB + SYT (Fig-7) based on their bounding box locations?",
+    "images": [
+      "PMC2396474_nem015f1.jpg",
+      "PMC2396474_nem015f1.jpg_4.jpg",
+      "PMC2396474_nem015f1.jpg_0.jpg"
+    ],
+    "gt": "Fig-3 (Nc/Nga mice treated with vehicle) is positioned to the right and above Fig-7 (mice treated with DNCB + SYT) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the axial CT scan of the male patient (Fig-1) and the axial CT scan of the female patient (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC9714446_fonc-12-1038135-g001.jpg",
+      "PMC9714446_fonc-12-1038135-g001.jpg_1.jpg",
+      "PMC9714446_fonc-12-1038135-g001.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (axial CT scan of the female patient) is positioned to the right of Fig-1 (axial CT scan of the male patient) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the immunofluorescence microscopy image (Fig-2) and the schematic domain map (Fig-4) of plectin in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8466646_cells-10-02480-g001.jpg",
+      "PMC8466646_cells-10-02480-g001.jpg_1.jpg",
+      "PMC8466646_cells-10-02480-g001.jpg_3.jpg"
+    ],
+    "gt": "Fig-2 (immunofluorescence microscopy image) is positioned to the right and above Fig-4 (schematic domain map) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the image depicting anterior Fgf8 expression (Fig-1) and the image showing lateral-posterior electroporation (Fig-4) based on their bounding box locations?",
+    "images": [
+      "PMC1890288_1749-8104-2-10-8.jpg",
+      "PMC1890288_1749-8104-2-10-8.jpg_0.jpg",
+      "PMC1890288_1749-8104-2-10-8.jpg_3.jpg"
+    ],
+    "gt": "Fig-1 (anterior Fgf8 expression) is positioned to the left of Fig-4 (lateral-posterior electroporation) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the reconstructed image with a 50 cm FOV (Fig-1) and the reconstructed image with a 70 cm FOV (Fig-4) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC10476990_ACM2-24-e14010-g006.jpg",
+      "PMC10476990_ACM2-24-e14010-g006.jpg_2.jpg",
+      "PMC10476990_ACM2-24-e14010-g006.jpg_0.jpg"
+    ],
+    "gt": "Fig-4 (reconstructed image with a 70 cm FOV) is positioned to the right and below Fig-1 (reconstructed image with a 50 cm FOV) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the lower magnification image (Fig-1) and the higher magnification image (Fig-2) of the core-shell capsule structure based on their bounding box locations?",
+    "images": [
+      "PMC8003018_ijms-22-03096-g007.jpg",
+      "PMC8003018_ijms-22-03096-g007.jpg_1.jpg",
+      "PMC8003018_ijms-22-03096-g007.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (higher magnification image) is positioned to the right of Fig-1 (lower magnification image) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the two immunohistochemistry images (Fig-3 and Fig-4) of megalin staining in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC7806827_41598_2020_80940_Fig6_HTML.jpg",
+      "PMC7806827_41598_2020_80940_Fig6_HTML.jpg_3.jpg",
+      "PMC7806827_41598_2020_80940_Fig6_HTML.jpg_2.jpg"
+    ],
+    "gt": "Fig-3 is positioned to the left of Fig-4 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the images depicting the palmaris longus tendon transfer (Fig-1) and the pronator teres transfer (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC6862848_40779_2019_225_Fig1_HTML.jpg",
+      "PMC6862848_40779_2019_225_Fig1_HTML.jpg_2.jpg",
+      "PMC6862848_40779_2019_225_Fig1_HTML.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (pronator teres transfer) is positioned to the right of Fig-1 (palmaris longus tendon transfer) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the axial CT scan of the male patient with GGOs (Fig-1) and the axial CT scan of the female patient with a crazy-paving pattern (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC7670585_CRJ2020-1237418.001.jpg",
+      "PMC7670585_CRJ2020-1237418.001.jpg_1.jpg",
+      "PMC7670585_CRJ2020-1237418.001.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (axial CT scan of the female patient with a crazy-paving pattern) is positioned to the right of Fig-1 (axial CT scan of the male patient with GGOs) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the two sub-images of the bone marrow aspirate smear (Fig-1 and Fig-2) based on their bounding box locations?",
+    "images": [
+      "PMC3945145_jkms-29-452-g003.jpg",
+      "PMC3945145_jkms-29-452-g003.jpg_0.jpg",
+      "PMC3945145_jkms-29-452-g003.jpg_1.jpg"
+    ],
+    "gt": "Fig-2 is positioned to the right of Fig-1 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the bar graph (Fig-2) quantifying Congo red-positive plaque counts in the hippocampus and the representative micrograph (Fig-5) showing Congo red staining of plaques in the neocortex based on their bounding box locations?",
+    "images": [
+      "PMC3978916_alzrt232-7.jpg",
+      "PMC3978916_alzrt232-7.jpg_7.jpg",
+      "PMC3978916_alzrt232-7.jpg_1.jpg"
+    ],
+    "gt": "Fig-2 (bar graph) is positioned to the right and above Fig-5 (micrograph) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the flow cytometry analysis images (Fig-1 and Fig-4) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC5503595_oncotarget-08-39064-g004a.jpg",
+      "PMC5503595_oncotarget-08-39064-g004a.jpg_0.jpg",
+      "PMC5503595_oncotarget-08-39064-g004a.jpg_4.jpg"
+    ],
+    "gt": "Fig-1 is positioned to the left of Fig-4 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the ultra-widefield fundus photograph (Fig-1) and the ultra-widefield swept-source optical coherence tomography (UWF SS-OCT) image (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC10721405_kjo-2023-0074f2.jpg",
+      "PMC10721405_kjo-2023-0074f2.jpg_1.jpg",
+      "PMC10721405_kjo-2023-0074f2.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (UWF SS-OCT image) is positioned to the right of Fig-1 (ultra-widefield fundus photograph) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the histological images Fig-2 and Fig-3 of the pulmonary parenchyma in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC9346522_jvs-23-e52-g003.jpg",
+      "PMC9346522_jvs-23-e52-g003.jpg_1.jpg",
+      "PMC9346522_jvs-23-e52-g003.jpg_2.jpg"
+    ],
+    "gt": "Fig-3 is positioned to the right of Fig-2 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the in situ hybridization images (Fig-1 and Fig-8) of Cbln1 expression in Fezf2 WT and Fezf2 null mice, respectively, based on their bounding box locations?",
+    "images": [
+      "PMC10027075_SN-JNSJ230092F002.jpg",
+      "PMC10027075_SN-JNSJ230092F002.jpg_0.jpg",
+      "PMC10027075_SN-JNSJ230092F002.jpg_6.jpg"
+    ],
+    "gt": "Fig-8 (Fezf2 null mice) is positioned to the right and below Fig-1 (Fezf2 WT mice) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-8",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the photomicrograph of heart sections from septic MCAT +/+ mice (Fig-1) and the photomicrograph of heart sections from WT mice at 24 h post-CLP (Fig-5) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC5389950_40635_2017_134_Fig4_HTML.jpg",
+      "PMC5389950_40635_2017_134_Fig4_HTML.jpg_4.jpg",
+      "PMC5389950_40635_2017_134_Fig4_HTML.jpg_1.jpg"
+    ],
+    "gt": "Fig-5 (WT mice at 24 h post-CLP) is positioned to the right and below Fig-1 (septic MCAT +/+ mice) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the histological sections treated with 400 mg/kg TME (Fig-5) and 200 mg/kg TME (Fig-4) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC9611308_molecules-27-06941-g006.jpg",
+      "PMC9611308_molecules-27-06941-g006.jpg_3.jpg",
+      "PMC9611308_molecules-27-06941-g006.jpg_0.jpg"
+    ],
+    "gt": "Fig-5 (400 mg/kg TME treatment) is positioned to the right of Fig-4 (200 mg/kg TME treatment) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the post-contrast FLAIR images of the 13-year-old male (Fig-2) and the 42-year-old female (Fig-3) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8476614_41598_2021_98557_Fig3_HTML.jpg",
+      "PMC8476614_41598_2021_98557_Fig3_HTML.jpg_2.jpg",
+      "PMC8476614_41598_2021_98557_Fig3_HTML.jpg_0.jpg"
+    ],
+    "gt": "Fig-2 (post-contrast FLAIR image of the 13-year-old male) is positioned to the right and above Fig-3 (post-contrast FLAIR image of the 42-year-old female) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the control group (Fig-4) and Group I (Fig-1) in the compound histologic image based on their bounding box locations?",
+    "images": [
+      "PMC7434463_IJN-15-5265-g0002.jpg",
+      "PMC7434463_IJN-15-5265-g0002.jpg_2.jpg",
+      "PMC7434463_IJN-15-5265-g0002.jpg_3.jpg"
+    ],
+    "gt": "Fig-4 (control group) is positioned to the right and below Fig-1 (Group I) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the diffusion-weighted MRI (DWI) view (Fig-1) and the CT scan view (Fig-4) of the brain in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC8986495_aaem-10-e10-g001.jpg",
+      "PMC8986495_aaem-10-e10-g001.jpg_0.jpg",
+      "PMC8986495_aaem-10-e10-g001.jpg_1.jpg"
+    ],
+    "gt": "Fig-4 (CT scan view) is positioned to the right of Fig-1 (diffusion-weighted MRI view) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the electron micrograph of morulae (Fig-1) and the electron micrograph of RC bodies (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC6921006_microorganisms-07-00528-g003.jpg",
+      "PMC6921006_microorganisms-07-00528-g003.jpg_0.jpg",
+      "PMC6921006_microorganisms-07-00528-g003.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 (morulae) is positioned to the left of Fig-2 (RC bodies) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the sagittal view (Fig-1) and the transverse view (Fig-2) of the nasal region in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC10967109_13005_2024_420_Fig3_HTML.jpg",
+      "PMC10967109_13005_2024_420_Fig3_HTML.jpg_0.jpg",
+      "PMC10967109_13005_2024_420_Fig3_HTML.jpg_1.jpg"
+    ],
+    "gt": "Fig-1 (sagittal view) is positioned to the left of Fig-2 (transverse view) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the confocal section from the top (Fig-5) and the section through the middle of the cell (Fig-3) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC2192386_JCB0010058.f2.jpg",
+      "PMC2192386_JCB0010058.f2.jpg_3.jpg",
+      "PMC2192386_JCB0010058.f2.jpg_0.jpg"
+    ],
+    "gt": "Fig-5 (top section) is positioned below Fig-3 (middle section) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the transmission electron microscopic areas (Fig-2) and the higher magnification fields (Fig-3) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC4331612_401_2014_1378_Fig2_HTML.jpg",
+      "PMC4331612_401_2014_1378_Fig2_HTML.jpg_1.jpg",
+      "PMC4331612_401_2014_1378_Fig2_HTML.jpg_3.jpg"
+    ],
+    "gt": "Fig-2 (transmission electron microscopic areas) is positioned to the right and above Fig-3 (higher magnification fields) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between the sub-image depicting DCs (Fig-5) and the sub-image depicting macrophages (Fig-2) in the compound image based on their bounding box locations?",
+    "images": [
+      "PMC5599647_41598_2017_11271_Fig2_HTML.jpg",
+      "PMC5599647_41598_2017_11271_Fig2_HTML.jpg_0.jpg",
+      "PMC5599647_41598_2017_11271_Fig2_HTML.jpg_5.jpg"
+    ],
+    "gt": "Fig-5 (depicting DCs) is positioned to the left and below Fig-2 (depicting macrophages) in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between Fig-7 and Fig-5 in the compound image of the Alzheimer's disease patient's brain?",
+    "images": [
+      "PMC3636379_11357_2012_9403_Fig3_HTML.jpg",
+      "PMC3636379_11357_2012_9403_Fig3_HTML.jpg_8.jpg",
+      "PMC3636379_11357_2012_9403_Fig3_HTML.jpg_3.jpg"
+    ],
+    "gt": "Fig-7 is positioned to the left and below Fig-5 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between Fig-1 and Fig-5 in the compound image?",
+    "images": [
+      "PMC5133605_srep38199-f3.jpg",
+      "PMC5133605_srep38199-f3.jpg_0.jpg",
+      "PMC5133605_srep38199-f3.jpg_4.jpg"
+    ],
+    "gt": "Fig-1 is positioned to the left and above Fig-5 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What is the spatial relationship between Fig-1 and Fig-2 in the compound image of actomyosin cables in MDCK cells?",
+    "images": [
+      "PMC7810754_41467_2020_20563_Fig3_HTML.jpg",
+      "PMC7810754_41467_2020_20563_Fig3_HTML.jpg_1.jpg",
+      "PMC7810754_41467_2020_20563_Fig3_HTML.jpg_0.jpg"
+    ],
+    "gt": "Fig-1 is positioned to the left of Fig-2 in the compound image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  }
+]

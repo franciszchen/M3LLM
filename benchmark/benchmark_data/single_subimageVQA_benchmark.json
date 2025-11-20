@@ -1,0 +1,602 @@
+[
+  {
+    "question": "In the given ultrasound image (Fig-1), what specific anatomical structures are visualized when the reference point is positioned in the pulmonary artery and then aligned with the fetal spine?",
+    "images": [
+      "PMC4032184_ijwh-6-501Fig3.jpg",
+      "PMC4032184_ijwh-6-501Fig3.jpg_1.jpg"
+    ],
+    "gt": "When the reference point is positioned in the pulmonary artery and aligned with the fetal spine, the ductal arch becomes clearly visible in the sagittal plane.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What are the key visible characteristics of the control small intestine histology at day 0 in (Fig-2)?",
+    "images": [
+      "PMC3380849_pgen.1002766.g005.jpg",
+      "PMC3380849_pgen.1002766.g005.jpg_0.jpg"
+    ],
+    "gt": "The histological sections of the control intestine at day 0 in (Fig-2) exhibit well-preserved villous architecture with no signs of inflammation or structural damage. Villi are intact, and epithelial cells appear normal without any infiltration by immune cells. Goblet cell distribution is consistent throughout the tissue section, indicating a healthy baseline state.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific features of the Golgi body protrusions are visible in (Fig-4)?",
+    "images": [
+      "PMC9585722_fpls-13-1010569-g002.jpg",
+      "PMC9585722_fpls-13-1010569-g002.jpg_1.jpg"
+    ],
+    "gt": "In (Fig-4), the Golgi body protrusions are depicted as dynamic extensions from the main Golgi body structure, indicated by yellow arrows. These protrusions can wrap around the ER tubules labeled with GFP-HDEL (in green). The scale bar indicates that each unit represents 1 micrometer, emphasizing the microscopic level of detail captured in this time-lapse sequence.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What are the key visible features of the IHCs and OHCs in the control group as shown in (Fig-2)?",
+    "images": [
+      "PMC9386133_fphar-13-887833-g003.jpg",
+      "PMC9386133_fphar-13-887833-g003.jpg_4.jpg"
+    ],
+    "gt": "The scanning electron microscope image (Fig-2) demonstrates that the IHCs and OHCs in the control group are neatly arranged with no visible signs of damage or loss. The hair-like structures on each cell appear intact and well-organized, indicating healthy cochlear function without any apparent abnormalities.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the BDA injection sites in the GPi in (Fig-2)?",
+    "images": [
+      "PMC5406426_429_2016_1306_Fig2_HTML.jpg",
+      "PMC5406426_429_2016_1306_Fig2_HTML.jpg_1.jpg"
+    ],
+    "gt": "The BDA injection sites in the GPi (Fig-2) are marked by dense staining, indicating the presence of the tracer. Both injection sites are clearly confined within their respective target nuclei without any observable leakage along the tracts leading to or from these regions. The sites are precisely localized and isolated, highlighting the success of the injection procedure and the absence of diffusion outside the targeted areas.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific imaging feature is observed in the SPECT/CT image (Fig-5) and what does it indicate?",
+    "images": [
+      "PMC6288946_12876_2018_915_Fig1_HTML.jpg",
+      "PMC6288946_12876_2018_915_Fig1_HTML.jpg_3.jpg"
+    ],
+    "gt": "The SPECT/CT image (Fig-5) reveals a spotty radiotracer uptake in the distal jejunum, as indicated by arrows. This localized accumulation suggests a potential site of bleeding or abnormal activity within this segment of the small intestine, indicating small intestinal metastasis of colon cancer.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What specific expressions are observed in the primary tumor in (Fig-5)?",
+    "images": [
+      "PMC7926624_children-08-00163-g002.jpg",
+      "PMC7926624_children-08-00163-g002.jpg_2.jpg"
+    ],
+    "gt": "In (Fig-5), AQP1 expression is prominent in vascular structures and specific tumor regions, CXCR4 expression is observed in some tumor cells, and MAP2 expression is seen in certain areas of the tumor, indicating a more mature neuronal phenotype.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What are the key visual indicators of OSBP2 gene duplication in the FISH results shown in (Fig-3)?",
+    "images": [
+      "PMC7290341_genes-11-00480-g002.jpg",
+      "PMC7290341_genes-11-00480-g002.jpg_2.jpg"
+    ],
+    "gt": "The FISH results in (Fig-3) show multiple green signals per chromosome, indicating the duplication of the OSBP2 gene. Each sample exhibits distinct red signals for the NWD1 gene and green signals for the OSBP2 gene, with the presence of multiple green signals confirming the duplication event.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What are the key visible differences in CALML3 immunoreactivity between the malignant and benign areas in (Fig-4)?",
+    "images": [
+      "PMC3723245_IJD2013-592843.003.jpg",
+      "PMC3723245_IJD2013-592843.003.jpg_3.jpg"
+    ],
+    "gt": "The CALML3 immunostained section (Fig-4) shows a marked decrease in immunoreactivity within the malignant areas on the left side of the panel, indicated by minimal brownish-red staining. In contrast, the intact benign oral mucosa in the upper right regions exhibits strong and consistent CALML3 expression with notable brownish-red cytoplasmic staining, indicating a differential pattern that helps distinguish between cancerous and noncancerous tissues.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What specific visual features indicate organized tissue structure in the well with 14×10^6 cells/ml (Fig-5)?",
+    "images": [
+      "PMC4573092_gr5.jpg",
+      "PMC4573092_gr5.jpg_2.jpg"
+    ],
+    "gt": "In the well with 14×10^6 cells/ml (Fig-5), the aligned collagen fibers in parallel arrays and the evenly distributed blood vessels throughout the matrix are the key visual features indicating organized tissue structure.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "In (Fig-2), what specific anatomical feature is used to measure the diameter of the arcus aorta?",
+    "images": [
+      "PMC10170372_NCI-10-263-g001.jpg",
+      "PMC10170372_NCI-10-263-g001.jpg_1.jpg"
+    ],
+    "gt": "The diameter of the arcus aorta in (Fig-2) is measured from the widest part of its lumen on the axial section where the longest axis is visible.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the key visible feature of the tumor cells in the immunohistochemical staining (Fig-2)?",
+    "images": [
+      "PMC10185901_fonc-13-1073728-g002.jpg",
+      "PMC10185901_fonc-13-1073728-g002.jpg_0.jpg"
+    ],
+    "gt": "The key visible feature in the immunohistochemical staining (Fig-2) is the loss of SMARCB1 expression in the tumor cells, indicated by the absence of nuclear staining. In contrast, intratumoral lymphocytes exhibit strong positive staining for SMARCB1 (nuclear stain), highlighting the differential pattern and supporting the diagnosis of SMARCB1-deficient renal medullary carcinoma.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible differences in staining patterns between the tumor area and the adjacent inflammatory cells in (Fig-2)?",
+    "images": [
+      "PMC6896585_40425_2019_828_Fig1_HTML.jpg",
+      "PMC6896585_40425_2019_828_Fig1_HTML.jpg_0.jpg"
+    ],
+    "gt": "In (Fig-2), the tumor area (tu) shows dense green staining, indicating high levels of S100B expression. The adjacent inflammatory cells (infl) exhibit intense red staining, indicating elevated S100A8/A9 presence. This differential pattern suggests a strong inflammatory response surrounding the tumor cells.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific anatomical features are visible in the right atrium and incomplete right ventricle in (Fig-2)?",
+    "images": [
+      "PMC9144843_jcdd-09-00155-g001.jpg",
+      "PMC9144843_jcdd-09-00155-g001.jpg_0.jpg"
+    ],
+    "gt": "The right atrium is well-defined and aligned with the incomplete right ventricle, which shows signs of incompleteness with its trabeculated myocardium visible. This visualization highlights the spatial relationship between the right atrium and the incomplete right ventricle, emphasizing their alignment without a direct connection.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What cellular structures are clearly visible in the Vero E6 cells treated with cysteamine (Fig-4)?",
+    "images": [
+      "PMC8750154_cells-11-00052-g002.jpg",
+      "PMC8750154_cells-11-00052-g002.jpg_3.jpg"
+    ],
+    "gt": "The electron micrograph (Fig-4) shows a regular morphology and well-preserved cellular structures including the nucleus (N), nucleolus (Nu), mitochondria (m), and lipolysosomes (LL). No signs of viral presence are evident in these cells.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What specific subcellular structures are visible in the steady-state localization of 5′NT in (Fig-2)?",
+    "images": [
+      "PMC2132730_JCB14553.f12.jpg",
+      "PMC2132730_JCB14553.f12.jpg_0.jpg"
+    ],
+    "gt": "In the electron micrograph (Fig-2), 5′NT is prominently present at the apical plasma membrane, marked by cup-shaped structures (left arrowhead). Additionally, occasional tubular-vesicular elements just beneath the apical surface are observed (right arrowhead).",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the colony-forming efficiencies of Donor A hMSCs on uncoated and keratin-coated TCPS surfaces after one passage (P5), as shown in (Fig-2)?",
+    "images": [
+      "PMC4466490_SCI2015-752424.005.jpg",
+      "PMC4466490_SCI2015-752424.005.jpg_0.jpg"
+    ],
+    "gt": "The bar graph (Fig-2) demonstrates that there is no significant difference in the colony-forming efficiencies of Donor A hMSCs after one passage (P5) on uncoated and keratin-coated TCPS surfaces. Both conditions exhibit similar efficiency levels, indicating that the coating did not affect colony formation at this stage.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific visual features indicate the placement and securing of the connective tissue graft in (Fig-3)?",
+    "images": [
+      "PMC5341325_JISP-20-464-g003.jpg",
+      "PMC5341325_JISP-20-464-g003.jpg_2.jpg"
+    ],
+    "gt": "The connective tissue graft is secured with 5-0 Vicryl sutures, which are visible as thin black lines holding the graft material in place against the gingival tissues. Mild bleeding and inflammation around the surgical site indicate recent manipulation of the soft tissues.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What specific staining patterns are observed in the confocal microscopy image (Fig-5) and what do they represent?",
+    "images": [
+      "PMC11045568_418_2024_2268_Fig6_HTML.jpg",
+      "PMC11045568_418_2024_2268_Fig6_HTML.jpg_4.jpg"
+    ],
+    "gt": "The confocal microscopy image (Fig-5) reveals distinct red-stained collagen fibers interspersed among green-colored cellular components. The red staining represents collagen fibers stained with Picrosirius Red (PSR), while the green fluorescence indicates cellular components. This staining pattern highlights the extracellular matrix and cell distribution within the sample, providing insights into tissue structure and integrity.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "What are the key visible features of the airway epithelium in the histological section (Fig-4)?",
+    "images": [
+      "PMC4463814_phy20003-e12352-f6.jpg",
+      "PMC4463814_phy20003-e12352-f6.jpg_3.jpg"
+    ],
+    "gt": "The histological section (Fig-4) shows an intact airway epithelium with well-preserved ciliated columnar cells and no signs of inflammation or cellular disruption in the surrounding tissue. This indicates that intratracheal pravastatin does not adversely affect the structural integrity of the airway epithelium.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What specific histological features are visible in the chronic phase of Takayasu arteritis as shown in (Fig-2)?",
+    "images": [
+      "PMC10386905_cureus-0015-00000042667-i01.jpg",
+      "PMC10386905_cureus-0015-00000042667-i01.jpg_0.jpg"
+    ],
+    "gt": "The chronic phase of Takayasu arteritis in (Fig-2) is characterized by dense fibrous tissue and clusters of mononuclear cells in the media (M), indicating an ongoing inflammatory response. Additionally, there is marked fibrosis of the adventitia (A), suggesting significant structural remodeling due to prolonged inflammation.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific features in (Fig-3) indicate that there has been fluorescent dye leakage from the PS beads?",
+    "images": [
+      "PMC5090179_TSTA11661315F05.jpg",
+      "PMC5090179_TSTA11661315F05.jpg_3.jpg"
+    ],
+    "gt": "In (Fig-3), the green fluorescent spots scattered throughout the placental tissue indicate that the fluorescent dye has leaked from the PS beads. Additionally, the red arrows highlight clusters of accumulated PS beads, further confirming the leakage and accumulation of the beads within the tissue matrix.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the soft tissue mass in (Fig-2)?",
+    "images": [
+      "PMC7701930_JCB-12-42254-g001.jpg",
+      "PMC7701930_JCB-12-42254-g001.jpg_1.jpg"
+    ],
+    "gt": "The axial CT image (Fig-2) reveals a heterogeneously enhancing, bulky soft tissue mass located in the posterior hypopharyngeal wall at the level of the false vocal cords. This lesion extends and infiltrates into the paraglottic fat anteriorly, indicating potential aggressive behavior or advanced disease stage. No significant lymphadenopathy is observed within this slice.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific anatomical structure is segmented and highlighted in red in the three sequential sagittal slices shown in (Fig-2)?",
+    "images": [
+      "PMC6407445_HTL.2018.5030.01.jpg",
+      "PMC6407445_HTL.2018.5030.01.jpg_0.jpg"
+    ],
+    "gt": "The specific anatomical structure segmented and highlighted in red in the three sequential sagittal slices shown in (Fig-2) is the colon.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key imaging features of the cavernomas in the brainstem region as shown in (Fig-2)?",
+    "images": [
+      "PMC6100658_jbsr-100-1-938-g18.jpg",
+      "PMC6100658_jbsr-100-1-938-g18.jpg_0.jpg"
+    ],
+    "gt": "The axial SWI scan (Fig-2) at the level of the brainstem shows a prominent cavernoma marked with an arrow. This lesion exhibits typical signal loss, indicating the presence of hemosiderin deposition within the cavernous malformation. The location of this lesion in the brainstem suggests a significant risk of hemorrhagic complications.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the diffuse infiltrates in (Fig-2)?",
+    "images": [
+      "PMC9333490_medi-101-e29447-g002.jpg",
+      "PMC9333490_medi-101-e29447-g002.jpg_1.jpg"
+    ],
+    "gt": "The chest X-ray (Fig-2) demonstrates extensive bilateral diffuse infiltrates involving all lung fields, characterized by widespread opacities and a lack of clear demarcation between affected areas. There is no evidence of pleural effusion, pneumothorax, or significant cardiomegaly in this image.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific visible features are noted in the nerve processes depicted in (Fig-2)?",
+    "images": [
+      "PMC8706318_jfmk-06-00101-g002.jpg",
+      "PMC8706318_jfmk-06-00101-g002.jpg_2.jpg"
+    ],
+    "gt": "The electron micrograph (Fig-2) shows well-preserved nerve processes densely packed with neurotubules and neurofilaments. Additionally, there is evidence of slight vacuolization at the axonal level, indicating potential early signs of degeneration or stress within these structures.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the telopodes in (Fig-3)?",
+    "images": [
+      "PMC9367237_WJG-28-3994-g001.jpg",
+      "PMC9367237_WJG-28-3994-g001.jpg_3.jpg"
+    ],
+    "gt": "In (Fig-3), the key visible features are thin telopodes on the surface of two portions of the ganglion. These telopodes are indicative of cellular extensions involved in intercellular communication and suggest active biological processes at this depth within the tissue sample.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "According to the X-ray microanalysis mapping in (Fig-4), what is the visual evidence indicating the presence of iron within the infected macrophages?",
+    "images": [
+      "PMC10477971_Beilstein_J_Nanotechnol-14-893-g003.jpg",
+      "PMC10477971_Beilstein_J_Nanotechnol-14-893-g003.jpg_3.jpg"
+    ],
+    "gt": "The X-ray microanalysis mapping in (Fig-4) reveals the presence of iron within infected macrophages, highlighted by red coloration. This indicates intracellular accumulation of iron, likely due to the presence of SPIONs, and suggests active uptake or sequestration processes occurring within these cells.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What are the key visual features of the endocardial and epicardial contours in (Fig-2), and which structures are included or excluded from the left ventricular mass (LVM)?",
+    "images": [
+      "PMC10659619_medi-102-e36106-g002.jpg",
+      "PMC10659619_medi-102-e36106-g002.jpg_0.jpg"
+    ],
+    "gt": "The image (Fig-2) shows the endocardial contour (red line) and epicardial contour (green line) automatically traced to assess the left ventricle. The papillary muscles and trabeculae are included in the left ventricular volume calculations but are excluded from the left ventricular mass (LVM).",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "In (Fig-22), what are the key visible features indicating the localization and expression of IL-8 in the astrocytes?",
+    "images": [
+      "PMC3338363_1742-2094-9-52-2.jpg",
+      "PMC3338363_1742-2094-9-52-2.jpg_9.jpg"
+    ],
+    "gt": "The confocal microscopy image (Fig-22) demonstrates IL-8 expression localized within and around the cell membranes, indicated by immunofluorescence staining. The cell nuclei are highlighted in blue due to DAPI staining, providing a clear contrast to visualize the active cytokine production and localization.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-22"
+    ]
+  },
+  {
+    "question": "What do the solid line and shaded area represent in the FACS analysis of GFP expression (Fig-2)?",
+    "images": [
+      "PMC2830192_1743-422X-7-35-2.jpg",
+      "PMC2830192_1743-422X-7-35-2.jpg_0.jpg"
+    ],
+    "gt": "In the FACS analysis (Fig-2), the solid line represents the analysis of GFP expression on transfected 293T/CD20 cells, while the shaded area indicates the analysis on untransfected 293T cells.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific imaging features are observed in the axial contrast-enhanced CT scan (Fig-2) that suggest encapsulating peritoneal sclerosis (EPS)?",
+    "images": [
+      "PMC3841479_AJM-4-103-g002.jpg",
+      "PMC3841479_AJM-4-103-g002.jpg_0.jpg"
+    ],
+    "gt": "The axial contrast-enhanced CT scan (Fig-2) reveals a cluster of bowel loops with an associated fibrotic enhancing membrane, indicated by arrows. This fibrous encasement is characteristic of EPS, indicating thickening and fibrosis of the parietal peritoneum leading to adhesions between bowel segments.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific structures are visible in the Sertoli cells and their surroundings in (Fig-3)?",
+    "images": [
+      "PMC10258001_aging-15-204675-g004.jpg",
+      "PMC10258001_aging-15-204675-g004.jpg_0.jpg"
+    ],
+    "gt": "In the electron micrograph (Fig-3), early endosomes (Ee) and multivesicular bodies (MVBs) are visible within the Sertoli cells, along with apical blebs connected to the plasma membrane. Mitochondria are also present, indicating high metabolic activity. Exosomes, marked by arrowheads, are seen within the apical blebs, suggesting their involvement in cellular communication during spermatogenesis.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What specific imaging feature is observed in the muscularis propria on the axial diffusion-weighted image (Fig-2)?",
+    "images": [
+      "PMC11000365_40644_2024_696_Fig5_HTML.jpg",
+      "PMC11000365_40644_2024_696_Fig5_HTML.jpg_0.jpg"
+    ],
+    "gt": "The axial diffusion-weighted image (Fig-2) shows an area of interrupted intermediate signal intensity within the muscularis propria, indicating a disruption or abnormality in this layer. This finding suggests possible pathological changes affecting the integrity and function of the muscularis propria, consistent with muscle-invasive bladder cancer.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the visible signs of severe systemic infection in the deceased piglets depicted in (Fig-2)?",
+    "images": [
+      "PMC1764720_pone.0000147.g003.jpg",
+      "PMC1764720_pone.0000147.g003.jpg_0.jpg"
+    ],
+    "gt": "The deceased piglets in (Fig-2) exhibit signs of severe systemic infection, including mottled and discolored skin with areas of necrosis or hemorrhage. These visual indicators suggest a rapid onset of disease following exposure to *Streptococcus sciuri* strain HBXX06, highlighting the aggressive nature of the bacterial strain.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the radiotracer uptake in the lungs in (Fig-2)?",
+    "images": [
+      "PMC8100756_ntnov05p0417g005.jpg",
+      "PMC8100756_ntnov05p0417g005.jpg_4.jpg"
+    ],
+    "gt": "The SPECT-CT image (Fig-2) demonstrates significant radiotracer uptake in the lung parenchyma, with pronounced signal concentration observed at 12 hours post-injection. The high-resolution CT component confirms the presence of active metabolic or inflammatory processes in the lungs, indicative of potential pathological conditions such as infection or malignancy.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the filopodia in (Fig-2)?",
+    "images": [
+      "PMC9043539_d1ra07067c-f4.jpg",
+      "PMC9043539_d1ra07067c-f4.jpg_3.jpg"
+    ],
+    "gt": "The SEM image (Fig-2) shows elongated filopodia that have become straight and have a rope-like appearance. The filopodia vary in thickness and length, with the longest filament measured at 41.3 μm after stretching. This indicates that the filopodia are adapting their structure in response to the mechanical force applied by the magnetic stretching of the GRGDNP-coated beads.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What is the localization of GFP-GR and the status of ras and BPV transcripts in the nuclei of the cell shown in (Fig-2)?",
+    "images": [
+      "PMC2196867_JCB0011069.f2.jpg",
+      "PMC2196867_JCB0011069.f2.jpg_0.jpg"
+    ],
+    "gt": "In the absence of hormone, GFP-GR is localized in the cytoplasm, and no ras or BPV transcripts are detected in the nuclei. This indicates that the nuclear translocation of GFP-GR and subsequent transcriptional activity have not occurred due to the lack of hormonal stimulation.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the tumors in the saline-treated control mouse (Fig-20)?",
+    "images": [
+      "PMC514571_1479-0556-2-7-4.jpg",
+      "PMC514571_1479-0556-2-7-4.jpg_4.jpg"
+    ],
+    "gt": "The bioluminescence image (Fig-20) shows multiple large tumor masses in the abdominal region, characterized by intense red and yellow fluorescence, indicating high metabolic activity or vascularization. These tumors vary significantly in size, with the largest tumor on the upper right back showing signs of necrosis. The surrounding tissues appear less fluorescent, highlighting the contrast between normal tissue and rapidly proliferating cancerous cells, indicating an advanced stage of malignancy without therapeutic intervention.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-20"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the soft tissue mass in (Fig-3)?",
+    "images": [
+      "PMC3286456_pone.0032111.g002.jpg",
+      "PMC3286456_pone.0032111.g002.jpg_3.jpg"
+    ],
+    "gt": "The coronal CT image (Fig-3) reveals a well-defined, 22 mm x 13 mm soft tissue mass in the orbital region with significant destruction of the lateral orbital wall. No calcifications or cystic components are noted within the lesion.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the cumulus-oocyte-complexes (COCs) in (Fig-4)?",
+    "images": [
+      "PMC8774721_genes-13-00142-g002.jpg",
+      "PMC8774721_genes-13-00142-g002.jpg_1.jpg"
+    ],
+    "gt": "In (Fig-4), the cumulus-oocyte-complexes (COCs) display noticeable variation in cell density and morphology. The COCs appear as aggregates with distinct cellular structures, where the oocytes are surrounded by cumulus cells. At this concentration of BPF (0.005 mg/mL), there is some variation in cumulus expansion and cell density, but the overall appearance is similar to the lower doses, with multilayered cumulus cell expansion and a light/transparent color.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What are the key visible imaging features of the post-operative CT scan (Fig-2) that demonstrate the stability of the screws at L5?",
+    "images": [
+      "PMC8410763_41598_2021_95232_Fig1_HTML.jpg",
+      "PMC8410763_41598_2021_95232_Fig1_HTML.jpg_1.jpg"
+    ],
+    "gt": "The post-operative CT scan (Fig-2) at 24 months shows no signs of screw loosening around the L5 vertebra. All screws appear to be well-positioned and securely anchored within the bone structure, with a uniform density observed around the hardware and no visible gaps or radiolucent lines indicating potential instability. This indicates a successful surgical outcome and stable fixation over time.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What are the key visible characteristics of the biofilms in the subgingival zones depicted in (Fig-6)?",
+    "images": [
+      "PMC6667012_medoral-24-e511-g003.jpg",
+      "PMC6667012_medoral-24-e511-g003.jpg_1.jpg"
+    ],
+    "gt": "The subgingival zones in (Fig-6) show biofilms that are less extensive and primarily composed of dead bacteria, marked in red. This indicates a lower presence of living bacteria and suggests a significant amount of non-viable bacterial components in these specific zones.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What specific visual features are evident in the microemulsion morphology shown in (Fig-8)?",
+    "images": [
+      "PMC6965356_fmicb-10-02976-g001.jpg",
+      "PMC6965356_fmicb-10-02976-g001.jpg_2.jpg"
+    ],
+    "gt": "The polarized light microscopy image (Fig-8) reveals a complex, multi-colored microemulsion morphology after 24 hours of incubation. Visible are intricate patterns and structures with varying colors including blue, green, yellow, orange, and red hues, indicating different orientations or phases within the sample. Two distinct arrows point to areas where these color variations converge, suggesting points of interest for further analysis.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-8"
+    ]
+  },
+  {
+    "question": "What specific imaging features are observed in the pancreatic head mass (T) in (Fig-2)?",
+    "images": [
+      "PMC5372679_ijms-18-00667-g001.jpg",
+      "PMC5372679_ijms-18-00667-g001.jpg_1.jpg"
+    ],
+    "gt": "The pancreatic head mass (T) in (Fig-2) is observed to be invading the duodenal wall, as indicated by arrowheads. However, the posterior-inferior pancreaticoduodenal artery remains unaffected and is clearly visible, marked by an arrow. This suggests that while there is significant local invasion of surrounding structures, the preservation of this vessel may influence surgical planning options.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific anatomical structures are affected by the mass effect of the saccular dilatation in (Fig-1)?",
+    "images": [
+      "PMC4689903_CRIRA2015-903150.001.jpg",
+      "PMC4689903_CRIRA2015-903150.001.jpg_1.jpg"
+    ],
+    "gt": "The axial contrast-enhanced CT scan (Fig-1) shows that the saccular dilatation in the left common carotid artery exerts a mass effect, causing compression and anterior displacement of the trachea. No additional abnormalities or significant lymphadenopathy are noted within this sectional view.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What does the colocalization of EdU (red) and DAPI (blue) indicate in the cells shown in (Fig-3)?",
+    "images": [
+      "PMC3599336_1471-2202-14-24-2.jpg",
+      "PMC3599336_1471-2202-14-24-2.jpg_3.jpg"
+    ],
+    "gt": "The colocalization of EdU (red) and DAPI (blue) in the cells shown in (Fig-3) indicates active DNA synthesis, as EdU-labeled cells appear purple. This suggests that these cells are actively proliferating.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What specific anatomical location and activation pattern are observed in the left ventral striatum for the anticipation of rewards compared to punishments in (Fig-4)?",
+    "images": [
+      "PMC3809516_gr3.jpg",
+      "PMC3809516_gr3.jpg_1.jpg"
+    ],
+    "gt": "The fMRI image (Fig-4) shows stronger activation in the left ventral striatum, specifically at coordinates −11, 11, −10, during the anticipation of rewards compared to punishments (SVC p<0.05). No other significant activations or abnormalities are noted within this slice of the brain scan.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "What specific structural changes are visible in the LPS-treated vessel compared to the control artery in (Fig-7)?",
+    "images": [
+      "PMC3784175_CDI2013-476856.003.jpg",
+      "PMC3784175_CDI2013-476856.003.jpg_8.jpg"
+    ],
+    "gt": "The fluorescence microscopy image (Fig-7) shows a thickened intima-media thickness (IMT) in the LPS-treated vessel, marked by an arrow. Cellular details reveal increased smooth muscle cell proliferation and extracellular matrix deposition within the IMT of the treated sample, indicating vascular inflammation and structural remodeling. These changes are absent in the control artery.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7"
+    ]
+  }
+]

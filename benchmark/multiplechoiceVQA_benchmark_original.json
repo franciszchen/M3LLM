@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Based on Fig-3, what does the positive staining for E-cadherin in the \"ductal\" cells indicate?\nA. Altered cellular behavior typical of lobular carcinoma in situ\nB. Presence of ground-glass opacity indicative of malignancy\nC. Absence of E-cadherin expression in the ductal cells\nD. Intact cell adhesion properties typical of normal ductal structures", 
+    "images": [
+      "PMC3772705_1746-1596-8-114-3.jpg",
+      "PMC3772705_1746-1596-8-114-3.jpg_1.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "According to Fig-11, what feature most strongly indicates the localization of GPC5 within the primary cilium?\nA. Low-level staining in GPC5ΔGAG-transfected cells  \nB. High-level staining in GPC5-transfected cells  \nC. Absence of staining in GPC3-transfected cells  \nD. Presence of enlarged mediastinal lymph nodes",
+    "images": [
+      "PMC3044117_JCB_201008087R_RGB_Fig7.jpg",
+      "PMC3044117_JCB_201008087R_RGB_Fig7.jpg_13.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-11"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, which feature suggests a higher degree of malignancy in the posterior section compared to the anterior section?\nA. Smaller and more dispersed areas of neoplastic cells  \nB. Absence of neoplastic cells  \nC. Uniform distribution of neoplastic cells  \nD. Larger tumor mass with irregular borders",
+    "images": [
+      "PMC8622091_life-11-01172-g001.jpg",
+      "PMC8622091_life-11-01172-g001.jpg_3.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, what does the absence of inflammatory cell infiltration within the vessel wall suggest about the nature of the observed vasculopathy?\nA. Inflammatory vasculitis\nB. Non-inflammatory necrotising vasculopathy\nC. Thrombotic microangiopathy\nD. Glomerulonephritis",
+    "images": [
+      "PMC10507776_AMS-19-5-122684-g001.jpg",
+      "PMC10507776_AMS-19-5-122684-g001.jpg_5.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-3, what is the effect of iloprost on the migration of Arid5b−/− myoblasts compared to the DMSO control?\nA. Iloprost significantly increases the migration of Arid5b−/− myoblasts.  \nB. Iloprost has no effect on the migration of Arid5b−/− myoblasts.  \nC. Iloprost reduces the migration of Arid5b−/− myoblasts to a level similar to Arid5b+/+ myoblasts.  \nD. Iloprost causes complete cessation of migration in both Arid5b+/+ and Arid5b−/− myoblasts.",
+    "images": [
+      "PMC5893174_fj.201700453RRf8.jpg",
+      "PMC5893174_fj.201700453RRf8.jpg_0.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "According to Fig-4D, which feature is indicative of a specialized epithelial cell involved in mucin production and transport?\nA. Presence of numerous cilia  \n  B. Absence of microvilli  \n  C. Fenestrated membrane extending deep into the cell  \n  D. Uniform cell surface without any protrusions",
+    "images": [
+      "PMC7164685_pone.0231423.g004.jpg",
+      "PMC7164685_pone.0231423.g004.jpg_1.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "Based on Fig-7, what does the Hounsfield Unit (HU) difference map highlight?\nA. Significant misalignments in the vertebral bodies  \nB. Minor variations in density measurements between CT and sCT  \nC. Abnormalities in soft tissues surrounding the spinal column  \nD. Major discrepancies in the structural integrity of the spine",
+    "images": [
+      "PMC10055493_nihpp-2303.11378v2-f0004.jpg",
+      "PMC10055493_nihpp-2303.11378v2-f0004.jpg_8.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "Based on Fig-1, which of the following clinical findings is consistent with the condition shown?\nA. Soft tissue inflammation and swelling on the palate \nB. Mobility of the dental implant \nC. Bone resorption around the implant  \nD. Signs of peri-implantitis with pus discharge",
+    "images": [
+      "PMC3830253_JOMFP-17-319a-g003.jpg",
+      "PMC3830253_JOMFP-17-319a-g003.jpg_3.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-3, which of the following best describes the observed vascular and lymphoid proliferation seen in the histological image?\nA. Normal vascular and lymphoid structures without any abnormalities  \nB. Hyalinized blood vessels penetrating radially into follicles  \nC. Absence of vascular proliferation with isolated lymphoid follicles  \nD. Dilated blood vessels with no lymphoid infiltration",
+    "images": [
+      "PMC8645467_SNI-12-552-g005.jpg",
+      "PMC8645467_SNI-12-552-g005.jpg_0.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "Based on Fig-3, what does the differential fluorescence pattern between panels (A) and (B) indicate about the presence of specific antibodies bound to their targets in the bacterial samples?\nA. Panel (A) shows numerous green fluorescent signals, while panel (B) exhibits minimal fluorescence, indicating effective binding in panel (A) but not in panel (B). \nB. Both panels (A) and (B) show strong green fluorescence, indicating abundant specific antibody binding. \nC. Both panels (A) and (B) show minimal fluorescence, indicating low specific antibody binding.  \nD. Panel (A) shows minimal fluorescence, while panel (B) shows numerous green fluorescent signals, indicating effective binding in panel (B) but not in panel (A).",
+    "images": [
+      "PMC3090145_3255fig3.jpg",
+      "PMC3090145_3255fig3.jpg_2.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "According to Fig-2, how many voxels remained significant after applying family-wise error (FWE) correction in the expected direction (PRO+COL > UE)?\nA. 1100 voxels  \nB. 24,016 voxels  \nC. 43 voxels  \nD. No voxels remained significant",
+    "images": [
+      "PMC10984430_ALZ-20-1827-g002.jpg",
+      "PMC10984430_ALZ-20-1827-g002.jpg_0.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, which of the following best describes the appearance of the almond particles stained with Nile red?\nA. Uniformly distributed lipid droplets of consistent size.\nB. Clusters of brightly fluorescent lipid droplets, varying in size.\nC. No visible lipid droplets, indicating complete digestion.\nD. Lipid droplets evenly spread throughout the tissue with no variation.",
+    "images": [
+      "PMC5628021_gr2.jpg",
+      "PMC5628021_gr2.jpg_5.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-1, which of the following best describes the postmortem bone marrow appearance?\nA. Extensive necrosis with only a few viable cell pockets\nB. Predominantly viable cells with scattered necrotic areas\nC. Uniformly necrotic without any viable cells\nD. Viable cells with mild reticulin fibrosis",
+    "images": [
+      "PMC10243748_autopsy-13-e2023429-g02.jpg",
+      "PMC10243748_autopsy-13-e2023429-g02.jpg_0.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "According to Fig-4, which of the following best describes the spatial distribution of the highest intensity electrical field in the 3D representation of the theta-tACS simulation?\nA. Concentrated in the occipital and temporal lobes of the right hemisphere.\nB. Distributed evenly throughout the entire brain.\nC. Primarily concentrated over the frontal and parietal lobes of the left hemisphere.\nD. Focused predominantly in the cerebellum.",
+    "images": [
+      "PMC9953127_biomedicines-11-00630-g001.jpg",
+      "PMC9953127_biomedicines-11-00630-g001.jpg_4.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "Based on Fig-1B, which of the following histopathological features is most indicative of a complete hydatidiform mole?\nA. Swollen, edematous cells and irregularly shaped nuclei within the chorionic villi  \nB. Presence of a well-formed fetus with normal placental tissue  \nC. Extensive fibrosis and calcifications within the chorionic villi  \nD. Evidence of invasive trophoblastic cells penetrating into the myometrium",
+    "images": [
+      "PMC6160083_medi-97-e12424-g001.jpg",
+      "PMC6160083_medi-97-e12424-g001.jpg_0.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-5, which of the following best describes the observed changes in the chloroplast structure due to As exposure?\nA. Intact outer membrane with disrupted inner membranes and loss of starch grains.\nB. Pronounced outer membrane alterations with intense vesiculation and preserved inner membranes and starch grains.\nC. Disrupted outer membrane with intact inner membranes and no vesiculation.\nD. Complete degradation of the chloroplast with no discernible membrane structures.",
+    "images": [
+      "PMC5395577_fpls-08-00516-g006.jpg",
+      "PMC5395577_fpls-08-00516-g006.jpg_2.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, which anatomical boundary is used to measure the thickness of the vastus lateralis muscle?\nA. Distance between the skin and the superficial edge of the superficial aponeurosis\nB. Distance between the skin and the deep edge of the deep aponeurosis.\nC. Distance between the deep edge and the superficial edge of the superficial aponeurosis\nD. Distance between the deep edge of the superficial aponeurosis and the superficial edge of the deep aponeurosis",
+    "images": [
+      "PMC8125613_sensors-21-03213-g002.jpg",
+      "PMC8125613_sensors-21-03213-g002.jpg_0.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-5, which of the following best describes the observed fibrinogen expression around the blood vessels in the schizophrenic PFC compared to the control?\nA. Fibrinogen expression is significantly reduced around the blood vessels in the schizophrenic PFC.  \nB. Fibrinogen expression is more pronounced around the blood vessels in the schizophrenic PFC.  \nC. Fibrinogen expression is uniformly distributed without any differences between the control and schizophrenic PFC.  \nD. Fibrinogen expression is absent in both the control and schizophrenic PFC.",
+    "images": [
+      "PMC5706803_oncotarget-08-93382-g004.jpg",
+      "PMC5706803_oncotarget-08-93382-g004.jpg_5.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "According to Fig-1, what does the presence of a non-occlusive thrombus within the M1 trunk suggest?\nA. Complete occlusion of the M1 trunk  \nB.Evidence of additional vascular abnormalities   \nC. Significant stenosis leading to severe ischemia  \nD. Partial obstruction without complete occlusion",
+    "images": [
+      "PMC7228792_cureus-0012-00000007678-i02.jpg",
+      "PMC7228792_cureus-0012-00000007678-i02.jpg_0.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What is the most likely diagnosis for Child 3 based on the clinical photographs showing abnormal curvature of the fingers and toes?\nA. Osteogenesis Imperfecta  \n  B. Marfan Syndrome  \n  C. Distal Arthrogryposis Type 1 (DBQD Type 1)  \n  D. Ehlers-Danlos Syndrome",
+    "images": [
+      "PMC7487677_13023_2020_1492_Fig1_HTML.jpg",
+      "PMC7487677_13023_2020_1492_Fig1_HTML.jpg_2.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "According to Fig-6, what does the lack of co-expression between slc18a2 and GFP in the midbrain and rostral hindbrain suggest about these regions' neuronal populations?\nA. The midbrain and rostral hindbrain contain primarily dopaminergic neurons.\nB. The midbrain and rostral hindbrain contain primarily non-monoaminergic neurons.\nC. The midbrain and rostral hindbrain contain primarily serotonergic neurons.\nD. The midbrain and rostral hindbrain contain primarily noradrenergic neurons.",
+    "images": [
+      "PMC10433395_fnana-17-1196868-g0003.jpg",
+      "PMC10433395_fnana-17-1196868-g0003.jpg_3.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "According to Fig-7, what does the bright green birefringence observed in the liver tissue sections indicate?\nA. Significant amyloid deposition indicative of systemic amyloidosis\nB.  Normal liver parenchyma without amyloid deposits \nC. Inflammation due to silver nitrate treatment\nD. Presence of non-specific staining artifacts",
+    "images": [
+      "PMC3393718_pone.0039899.g001.jpg",
+      "PMC3393718_pone.0039899.g001.jpg_9.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "Based on Fig-1, which of the following structures in the brain cortex of S. chilensis exhibits strong MCT4 immunostaining?\nA. Glial cells  \nB. Blood vessels and rosette-like structures  \nC. Neurons  \nD. Lateral ventricle",
+    "images": [
+      "PMC3289654_pone.0032409.g009.jpg",
+      "PMC3289654_pone.0032409.g009.jpg_1.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, which of the following imaging features most strongly suggests necrotizing pneumonia?\nA.  Cavities containing air within the pulmonary infiltrates \nB. Ground-glass opacities without cavitation  \nC. Bilateral pleural effusion  \nD. Diffuse interstitial fibrosis",
+    "images": [
+      "PMC9498291_diagnostics-12-02058-g002.jpg",
+      "PMC9498291_diagnostics-12-02058-g002.jpg_1.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "According to Fig-1, what does the measurement of DLS height (α) represent in the OCT image?\nA. The mean distance from the Bruch membrane to the sclerochoroidal junction.\nB. The highest point in the raster scan from the Bruch membrane to the outer border of the RPE layer.\nC. The average thickness of the 1 mm circle of the foveal center.\nD. The extent of CNV district measured using ANGIOTOOL software.",
+    "images": [
+      "PMC7892557_41598_2021_83650_Fig1_HTML.jpg",
+      "PMC7892557_41598_2021_83650_Fig1_HTML.jpg_2.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-6, what does the significant signal correlation between the micro-ARG and IHC staining suggest about the pathological changes in PSP patients?\nA. Localized accumulation or activity of tau protein aggregates.\nB. Presence of neurofibrillary tangles (NFTs) without tau protein aggregation. \nC. High levels of off-target binding to neuromelanin-containing cells.\nD. No significant pathological changes in the brain section.",
+    "images": [
+      "PMC6667408_259_2019_4397_Fig5_HTML.jpg",
+      "PMC6667408_259_2019_4397_Fig5_HTML.jpg_0.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "According to Fig-7, what change in the imaging findings from August to November indicates an improvement in the patient's condition?\nA. Persistent peritrigonal abnormality with hyperintense signals\n  B. New enhancement in the right parahippocampal gyrus \n  C. Increased temporal lobe swelling and global cerebral edema\n  D. Resolution of the peritrigonal abnormality and reduced temporal lobe swelling",
+    "images": [
+      "PMC8137234_bmjno-2020-000096f02.jpg",
+      "PMC8137234_bmjno-2020-000096f02.jpg_6.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, what does the shift in profilin localization indicate about the role of the first 40 amino acids of WT-FBXO7 isoform 1?\nA. It indicates that these amino acids are necessary for the nuclear export of profilin.\nB. It suggests that these amino acids are sufficient to translocate profilin into the nucleus.\nC. It implies that these amino acids prevent profilin from interacting with cytoskeletal elements.\nD. It shows that these amino acids cause profilin to remain exclusively in the cytoplasm.",
+    "images": [
+      "PMC3037939_pone.0016983.g006.jpg",
+      "PMC3037939_pone.0016983.g006.jpg_0.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "According to Fig-2, what does the quantitative analysis of mitochondria under increasing doses of MB-6 demonstrate?\nA. An increase in type 1 mitochondria (sharp, elongated cristae) and a decrease in types 2 and 3.\n  B. A uniform increase in all types of mitochondria regardless of dose. \n  C. No significant changes in the proportion of any type of mitochondria.\n  D.  A dose-dependent decline in type 1 mitochondria (sharp, elongated cristae) and an increase in types 2 (rounded, ballooned cristae) and 3 (ruptured membranes).",
+    "images": [
+      "PMC8488156_fcell-09-725474-g002.jpg",
+      "PMC8488156_fcell-09-725474-g002.jpg_0.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-4(D), which of the following findings is consistent with the image depiction of the embryo at day 12?\nA. Visible heartbeat and increased fluid in the embryonic cavity \nB. Presence of enlarged mediastinal lymph nodes and pleural effusion   \nC. No visible heartbeat and reduced fluid in the embryonic cavity  \nD. Well-defined amniotic membrane without any signs of hemorrhage",
+    "images": [
+      "PMC4037759_1477-7827-12-38-4.jpg",
+      "PMC4037759_1477-7827-12-38-4.jpg_1.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "Based on Fig-8, which of the following best describes the interaction observed between MCF10.DCIS-lenti-RFP cells and primary LECs?\nA. MCF10.DCIS cells form tubular structures, while LECs form spheroids.\nB. MCF10.DCIS cells and LECs both form tubular structures. \nC.  MCF10.DCIS cells form spheroids, while LECs form triangular prism-like structures.\nD. MCF10.DCIS cells and LECs both form spheroidal structures.",
+    "images": [
+      "PMC8656640_cancers-13-06044-g001.jpg",
+      "PMC8656640_cancers-13-06044-g001.jpg_8.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-8"
+    ]
+  },
+  {
+    "question": "Based on Fig-1, which of the following best describes the significance of the multiple tiny enhancing foci seen bilaterally on the MRI brain?\nA. They are likely benign cysts with no clinical significance.\nB. They represent metastatic lesions from a primary lung cancer.\nC. They indicate acute hemorrhagic strokes in the brain.\nD. They are calcified granulomas from previous infections.",
+    "images": [
+      "PMC4419420_IJRI-25-109-g013.jpg",
+      "PMC4419420_IJRI-25-109-g013.jpg_1.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "According to the fluorescence microscopy results shown in the compound figure, what is the subcellular localization of Fes1L compared to Fes1S?\nA. Both Fes1L and Fes1S are localized primarily in the nucleus.\nB. Fes1L is localized evenly throughout the cytosol, while Fes1S is enriched in the nucleus. \nC. Fes1L is enriched in the nucleus, while Fes1S is localized evenly throughout the cytosol.\nD. Both Fes1L and Fes1S are localized evenly throughout the cytosol.",
+    "images": [
+      "PMC4831876_1210fig3.jpg",
+      "PMC4831876_1210fig3.jpg_6.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "Based on Fig-7, what does the concentration of SEPTIN7 along certain regions of the cytoskeleton suggest about its potential role in the cell?\nA. SEPTIN7 is involved primarily in DNA replication and cell division.  \nB. SEPTIN7 plays a role in structural organization or intracellular transport mechanisms.  \nC. SEPTIN7 is responsible for the synthesis of actin filaments.  \nD. SEPTIN7 functions exclusively in the degradation of cellular waste.",
+    "images": [
+      "PMC9355566_elife-75863-fig3-figsupp2.jpg",
+      "PMC9355566_elife-75863-fig3-figsupp2.jpg_3.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "What histological finding is characteristic of the spleen in the Control group as shown in Fig-1?\nA.  Well-defined white pulp with non-activated follicles and unremarkable red pulp\nB. Moderate lymphocyte depletion in the white pulp \nC. Markedly expanded red pulp\nD. Lymphoid hyperplasia and fibrosis in both white and red pulp",
+    "images": [
+      "PMC6676460_gr7.jpg",
+      "PMC6676460_gr7.jpg_0.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, which of the following characteristics is most consistent with the diagnosis of multiple biliary hamartoma (von Meyenburg complex)?\nA. Multiple high-density areas with irregular margins\nB. Significant dilation of intrahepatic bile ducts\nC.  Multiple low-density areas ranging from 3 to 5 mm in diameter\nD. Heterogeneous enhancement patterns indicative of malignancy",
+    "images": [
+      "PMC5124993_WJG-22-9865-g002.jpg",
+      "PMC5124993_WJG-22-9865-g002.jpg_1.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "According to Fig-1, what does the green highlight on the composite biatrial map indicate?\nA. An area of highest rotational driver occurrences  \nB. Areas where the atrial segments were excluded due to noise  \nC. Regions with excessive noise in the unipolar electrograms  \nD.  A selected focal point of interest for further analysis",
+    "images": [
+      "PMC7993562_pone.0248951.g002.jpg",
+      "PMC7993562_pone.0248951.g002.jpg_1.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-8, what morphological feature is indicated by the arrowheads in the cells treated with 2 × IC50 of cisplatin?\nA. Swollen mitochondria  \nB. Uniformly distributed chromatin  \nC. Increased cytoplasmic volume  \nD.  Pyknotic/fragmented nucleus",
+    "images": [
+      "PMC9609024_pharmaceutics-14-02013-g003.jpg",
+      "PMC9609024_pharmaceutics-14-02013-g003.jpg_2.jpg"
+    ],
+    "gt": "D",
+    "image_indices": [
+      "Fig-0",
+      "Fig-8"
+    ]
+  },
+  {
+    "question": "According to Fig-4, what does the phalloidin staining reveal about the apical junctions in M. incognita compared to H. glycines?\nA. Identical patterns of apical junctions  \nB. No apical junctions present   \nC.  Distinct patterns of apical junctions \nD. Uniform distribution of filamentous actin structures",
+    "images": [
+      "PMC6416850_13227_2019_118_Fig16_HTML.jpg",
+      "PMC6416850_13227_2019_118_Fig16_HTML.jpg_4.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "Based on Fig-5, what is the observed effect of siRNA-mediated downregulation of c-FLIP on the expression of caspase-8 and caspase-3 after treatment with GGTI-298?\nA. Increased expression of caspase-8 and caspase-3\nB. Decreased expression of caspase-8 and caspase-3\nC. No change in the expression of caspase-8 and caspase-3\nD. Increased expression of only caspase-8",
+    "images": [
+      "PMC2824632_1476-4598-9-23-6.jpg",
+      "PMC2824632_1476-4598-9-23-6.jpg_4.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "Based on Fig-3, which of the following best describes the newly detected enhancing wall thickening at the ureteropelvic junction?\nA. Indicates successful complete ablation of the renal tumor without any complications.\nB. Suggests the presence of a new, untreated renal tumor adjacent to the ureteropelvic junction.\nC. May indicate early signs of ureteropelvic junction stricture or inflammation due to the RFA procedure.\nD. Represents a normal anatomic variation that does not require further clinical attention.",
+    "images": [
+      "PMC9514441_jksr-83-317-g001.jpg",
+      "PMC9514441_jksr-83-317-g001.jpg_0.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "Based on Fig-3, which of the following best describes the role of the filtration openings indicated by the cross points of the colored lines in the OCT image?\nA. They are crucial for fluid drainage in glaucoma treatment procedures.\nB. They indicate areas of significant scarring and blockage.\nC. They represent the boundaries of the scleral flap.\nD. They signify the presence of fluid-filled cavities without any functional significance.",
+    "images": [
+      "PMC6642551_12886_2019_1159_Fig1_HTML.jpg",
+      "PMC6642551_12886_2019_1159_Fig1_HTML.jpg_2.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, what is the most likely origin of the heterogeneous mass seen in the mediastinum?\nA. Left atrium\nB. Right atrium\nC. Aortic root\nD. Pericardium",
+    "images": [
+      "PMC4377395_CRIC2015-281716.004.jpg",
+      "PMC4377395_CRIC2015-281716.004.jpg_0.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "Based on Fig-1, which brain region demonstrates a significant interaction between the magnitude of reward feedback and expectation based on the reward probabilities assigned to the target color?\nA. Posterior cingulate cortex\nB. Ventral precuneus\nC. Right orbitofrontal cortex (OFC)\nD. Anterior cingulate cortex",
+    "images": [
+      "PMC5390735_nsw141f4.jpg",
+      "PMC5390735_nsw141f4.jpg_0.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "According to Fig-3, what does the near-complete restoration of the ellipsoid zone (EZ) line suggest about the patient's condition one month after surgery?\nA. Significant improvement in visual acuity with potential for further recovery.\n  B. Persistent disruption in the outer retinal layers, indicating poor prognosis.\n  C. No change in visual acuity, suggesting the surgery was ineffective.\n  D. Complete restoration of all retinal layers, indicating full recovery.",
+    "images": [
+      "PMC9555881_OPTH-16-3391-g0002.jpg",
+      "PMC9555881_OPTH-16-3391-g0002.jpg_5.jpg"
+    ],
+    "gt": "A",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "Based on Fig-6, which group shows minimal fibrosis, primarily localized around small blood vessels without affecting major cardiac structures?\nA. Group A  \nB. Group B  \nC. Group C  \nD. Group D",
+    "images": [
+      "PMC8960019_SCI2022-3742678.004.jpg",
+      "PMC8960019_SCI2022-3742678.004.jpg_5.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "Based on Fig-2, what does the presence of darkly stained regions in the confocal laser microscopy image suggest about the binding of anti-FLAG mAb to the inner surface of T. infestans midguts?\nA. No binding of anti-FLAG mAb to the midgut tissues\n  B. Specific binding of anti-FLAG mAb to FLAG-tagged proteins within the parasite lysate\n  C. Uniform distribution of untagged proteins throughout the midgut tissues\n  D. Non-specific binding of anti-FLAG mAb to the midgut tissues",
+    "images": [
+      "PMC6544316_pntd.0007418.g003.jpg",
+      "PMC6544316_pntd.0007418.g003.jpg_1.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "According to Fig-5, which of the following best describes the observed POSTN expression pattern in relation to colorectal carcinoma (CRC) progression?\nA. POSTN expression is consistently low in both normal mucosa and CRC tissues.\nB. POSTN expression is highest in normal mucosa and decreases in primary and metastatic CRC tissues.\nC. POSTN expression is highest in metastatic CRC tissues compared to primary CRC tissues and normal mucosa.\nD. POSTN expression is equally intense in normal mucosa, primary CRC tissues, and metastatic CRC tissues.",
+    "images": [
+      "PMC4808034_oncotarget-07-0798-g001.jpg",
+      "PMC4808034_oncotarget-07-0798-g001.jpg_1.jpg"
+    ],
+    "gt": "C",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "According to Fig-1, what is the correct method for measuring bowel wall thickness using ultrasound?\nA. Measure parallel to the anterior wall of the bowel, including haustrations and mucosal folds.\nB. Measure perpendicular to the anterior wall of the bowel, avoiding haustrations and mucosal folds.\nC. Measure the distance between the serosa and the mucosa without considering the proper muscle layer.\nD. Measure the total thickness of the bowel wall from the lumen to the outermost layer.",
+    "images": [
+      "PMC10311616_WJG-29-3595-g001.jpg",
+      "PMC10311616_WJG-29-3595-g001.jpg_1.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "Based on Fig-5, what does the confocal imaging analysis suggest about the endothelial barrier function in fabp11a mutants compared to controls?\nA. Endothelial barrier function is compromised, with increased dextran extravasation in fabp11a mutants.  \nB. Endothelial barrier function remains intact, with no significant difference in dextran extravasation between fabp11a mutants and controls.  \nC. Endothelial barrier function is enhanced, with reduced dextran extravasation in fabp11a mutants.  \nD. Endothelial barrier function is completely lost, with dextran uniformly distributed throughout the brain parenchyma in fabp11a mutants.",
+    "images": [
+      "PMC5387095_fphys-08-00214-g0004.jpg",
+      "PMC5387095_fphys-08-00214-g0004.jpg_6.jpg"
+    ],
+    "gt": "B",
+    "image_indices": [
+      "Fig-0",
+      "Fig-5"
+    ]
+  }
+]

@@ -1,0 +1,748 @@
+[
+  {
+    "question": "How do the coronary angiograms in Fig-1, Fig-3, and Fig-4 demonstrate the progression and treatment of coronary artery disease, particularly focusing on the occlusions and stenotic lesions?",
+    "gt": "The coronary angiograms in Fig-1, Fig-3, and Fig-4 illustrate the progression and treatment of coronary artery disease through detailed visualizations of occlusions and stenotic lesions. Fig-1 shows a total occlusion in the proximal left anterior descending artery, which was immediately treated with a drug-eluting stent upon hospitalization. Fig-3 highlights diffuse stenosis in the right coronary artery, successfully managed with drug-eluting stents on the following day. Fig-4 displays multiple stenotic lesions in the proximal and middle segments of the left circumflex artery, treated with drug-eluting stents on day 7 of hospitalization. These images collectively demonstrate the stepwise approach to treating significant coronary artery blockages, ensuring improved blood flow and reduced risk of myocardial ischemia.",
+    "images": [
+      "PMC6880439_13256_2019_2267_Fig2_HTML.jpg",
+      "PMC6880439_13256_2019_2267_Fig2_HTML.jpg_0.jpg",
+      "PMC6880439_13256_2019_2267_Fig2_HTML.jpg_1.jpg",
+      "PMC6880439_13256_2019_2267_Fig2_HTML.jpg_2.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+
+  {
+    "question": "How do the morphological changes in pMACs differ among the three treatments shown in Fig-1, Fig-2, and Fig-3?",
+    "gt": "The morphological changes in pMACs differ significantly among the three treatments:\n  - In Fig-1 (DMEM/F12-treated pMACs), the cells maintain normal morphology with a regular round shape, abundant clear cytoplasm, and ample intercellular spaces, indicating no signs of activation.\n  - In Fig-2 (TCM-treated pMACs), the cells show moderate activation with a polyhedral shape, large pseudopodia, abundant granules in the cytoplasm, and narrow intercellular spaces, indicating an active immune response.\n  - In Fig-3 (LPS-treated pMACs), the cells exhibit excessive activation with irregular shapes, doublet or multiple configurations, cell membrane blebbing, cell body atrophy, and nuclear condensation or fragmentation, indicating advanced stages of cell death.",
+    "images": [
+      "PMC4687714_JCMM-19-2741-g003.jpg",
+      "PMC4687714_JCMM-19-2741-g003.jpg_2.jpg",
+      "PMC4687714_JCMM-19-2741-g003.jpg_1.jpg",
+      "PMC4687714_JCMM-19-2741-g003.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What specific brain regions and their corresponding MNI coordinates are highlighted in the sagittal MRI views (Fig-1, Fig-2, Fig-3) to show significant negative correlations between gray-matter volume and TAS-20 total or DIF scores?",
+    "gt": "The sagittal MRI views (Fig-1, Fig-2, Fig-3) highlight specific brain regions with significant negative correlations between gray-matter volume and TAS-20 total or DIF scores. These regions include the anterior cingulate cortex (ACC) and the left inferior frontal gyrus, with MNI coordinates indicating the precise locations of these clusters. The statistical significance is set at p < 0.005, and the cluster sizes exceed 100 mm\u00b3, providing evidence that reduced gray-matter volume in these areas is associated with increased alexithymia severity and difficulties in identifying emotions among ALS patients.",
+    "images": [
+      "PMC6066614_fneur-09-00566-g0001.jpg",
+      "PMC6066614_fneur-09-00566-g0001.jpg_1.jpg",
+      "PMC6066614_fneur-09-00566-g0001.jpg_2.jpg",
+      "PMC6066614_fneur-09-00566-g0001.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the axial and sagittal views (Fig-1 and Fig-3) assist in verifying the precise alignment of the target volume and critical structures during HyperArc VMAT SRT treatment?",
+    "gt": "The axial view (Fig-1) shows a distinct red region representing the target volume near the spinal column, with various colored contours indicating different radiation dose levels. This visualization ensures precise targeting and dose distribution. The sagittal view (Fig-3) provides a comprehensive overview of key anatomical structures such as the skull, brainstem, and cervical vertebrae, along with contours delineating target volumes and organs at risk. Together, these views confirm the accurate alignment of the target volume and critical structures, ensuring safe and effective radiation delivery.",
+    "images": [
+      "PMC9121031_ACM2-23-e13561-g003.jpg",
+      "PMC9121031_ACM2-23-e13561-g003.jpg_1.jpg",
+      "PMC9121031_ACM2-23-e13561-g003.jpg_2.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "How do the histological features of cholesteatoma (Fig-1) differ from those of normal external ear skin (Fig-2)?",
+    "gt": "The histological features of cholesteatoma (Fig-1) include a hyperproliferative stratified squamous epithelium (matrix), an inflammatory cell-rich perimatrix, and a cystic layer composed of desquamated, anucleate keratin mass. In contrast, normal external ear skin (Fig-2) shows an intact epithelium and subepithelial connective tissue with hair follicles, indicating a healthy structure without any signs of inflammation or abnormal cell proliferation.",
+    "images": [
+      "PMC9960810_medicina-59-00306-g001.jpg",
+      "PMC9960810_medicina-59-00306-g001.jpg_1.jpg",
+      "PMC9960810_medicina-59-00306-g001.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the MRI sections (Fig-1, Fig-3, and Fig-4) contribute to understanding the specific brain regions affected and the corresponding cognitive and behavioral impairments in a patient with frontotemporal dementia (FTD)?",
+    "gt": "The MRI sections provide critical insights into the brain regions affected in FTD. Fig-1 shows overall cortical atrophy with volumetric reduction and widened sulci, indicative of widespread neurodegeneration. Fig-3 highlights the anterior coronal section, revealing atrophy in the superior, middle, and inferior frontal gyri, correlating with impairments in operative memory, learning, and consolidation, as well as aberrant motor behavior and aggression. Fig-4 illustrates the middle sagittal section, showing atrophy in the marginal callosum fissure, subparietal sulci, and frontal regions, leading to dysexecutive syndrome and impaired decision-making abilities. Together, these sections provide a comprehensive view of the specific brain regions affected and their corresponding cognitive and behavioral deficits in FTD.",
+    "images": [
+      "PMC8299406_crn-0013-0451-g02.jpg",
+      "PMC8299406_crn-0013-0451-g02.jpg_2.jpg",
+      "PMC8299406_crn-0013-0451-g02.jpg_3.jpg",
+      "PMC8299406_crn-0013-0451-g02.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What do the fluorescence microscopy images (Fig-3 and Fig-5) reveal about the presence or absence of COX-1 in platelets and leukocytes from control and COX-1 knockout mice?",
+    "gt": "The fluorescence microscopy images (Fig-3 and Fig-5) demonstrate the absence of COX-1 (magenta staining) in platelets from COX-1 knockout (KO) mice, as seen in both Fig-3 and Fig-5. In contrast, COX-1 is present in certain leukocytes, as evidenced by the magenta spots in Fig-5. This confirms the specific targeting of COX-1 in platelets while maintaining its expression in certain immune cells.",
+    "images": [
+      "PMC9359103_nihms-1825952-f0001.jpg",
+      "PMC9359103_nihms-1825952-f0001.jpg_3.jpg",
+      "PMC9359103_nihms-1825952-f0001.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "How do the selected sub-images (Fig-1, Fig-5, Fig-6) illustrate the differences in Akt phosphorylation between HNSCC tissues and normal tissues, and what does this indicate about Akt activity in tumor versus non-tumor regions?",
+    "gt": "The selected sub-images show distinct differences in Akt phosphorylation between HNSCC tissues and normal tissues. Fig-1 depicts more intense staining of pAkt S473 and pAkt T308 in HNSCC tissues compared to normal tissues, indicating elevated Akt activity in cancerous cells. Fig-5 highlights a significant increase in phosphorylation at Akt T308 compared to S473 in HNSCC patient samples, suggesting a preferential activation of the Akt signaling pathway at T308. Fig-6 demonstrates very weak or no phosphorylation of Akt at both T308 and S473 in the non-tumor part of HNSCC tissues, indicating minimal Akt activity in these regions. Collectively, these images illustrate the localized and enhanced Akt activity in tumor regions compared to non-tumor areas, which may be relevant for understanding tumor progression and potential therapeutic targets.",
+    "images": [
+      "PMC4210546_40164_2014_94_Fig1_HTML.jpg",
+      "PMC4210546_40164_2014_94_Fig1_HTML.jpg_2.jpg",
+      "PMC4210546_40164_2014_94_Fig1_HTML.jpg_0.jpg",
+      "PMC4210546_40164_2014_94_Fig1_HTML.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-6",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "How does the presence or absence of LNG-IUD affect breast parenchymal enhancement (BPE) as seen in the selected sub-images (Fig-1, Fig-3, and Fig-4)?",
+    "gt": "The presence of an LNG-IUD is associated with higher levels of breast parenchymal enhancement (BPE) as seen in the selected sub-images. Fig-1 shows a woman with an LNG-IUD in place for three years, with BPE categorized as MR-ACR 3. Fig-3 depicts a woman without an LNG-IUD, with BPE categorized as MR-ACR 2. Fig-4 illustrates a woman who recently had an LNG-IUD inserted, with BPE categorized as MR-ACR 4. These findings indicate that LNG-IUD use can lead to increased BPE, with more pronounced enhancement seen shortly after insertion compared to longer-term use.",
+    "images": [
+      "PMC9668774_330_2022_8809_Fig4_HTML.jpg",
+      "PMC9668774_330_2022_8809_Fig4_HTML.jpg_0.jpg",
+      "PMC9668774_330_2022_8809_Fig4_HTML.jpg_2.jpg",
+      "PMC9668774_330_2022_8809_Fig4_HTML.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-1",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "How does the immunocolocalization analysis of Hyccin-LacZ activity with NeuN (Fig-1) and GFAP (Fig-3) differ, and what does this suggest about the cellular distribution of Hyccin-LacZ activity in the CNS?",
+    "gt": "The immunocolocalization analysis in Fig-1 shows that Hyccin-LacZ activity colocalizes with the neuronal marker NeuN, indicating its expression in neurons. In contrast, Fig-3 reveals that Hyccin-LacZ activity does not significantly colocalize with the astrocyte marker GFAP, suggesting a lack of interaction with astrocytes. This differential colocalization indicates that Hyccin-LacZ activity is primarily restricted to neuronal cells in the developing CNS, rather than extending to astrocytic populations.",
+    "images": [
+      "PMC3312879_pone.0032180.g003.jpg",
+      "PMC3312879_pone.0032180.g003.jpg_2.jpg",
+      "PMC3312879_pone.0032180.g003.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How does the immunostaining pattern of Bit1 differ between the adenocarcinoma (Fig-6) and large cell carcinoma (Fig-8) sub-images, and what might these differences imply about Bit1 expression and tumor aggressiveness?",
+    "gt": "In the adenocarcinoma (Fig-6), the Bit1 staining is heterogeneous, indicating variable expression levels of the Bit1 protein within the tumor cells. This suggests that Bit1 expression may vary across different regions of the adenocarcinoma, potentially correlating with specific pathological features or tumor aggressiveness. In contrast, the large cell carcinoma (Fig-8) exhibits significant cellular atypia, pleomorphism, and active proliferation, indicative of aggressive tumor behavior. The lack of strong Bit1 staining in these areas implies a lower expression of Bit1, which may contribute to the enhanced aggressiveness and resistance to anoikis in large cell carcinomas.",
+    "images": [
+      "PMC4086906_pone.0101564.g008.jpg",
+      "PMC4086906_pone.0101564.g008.jpg_2.jpg",
+      "PMC4086906_pone.0101564.g008.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-6",
+      "Fig-8"
+    ]
+  },
+  {
+    "question": "How do the photomicrographs and quantitative analysis of TUNEL-positive cells in the selected sub-images (Fig-2, Fig-3, and Fig-4) demonstrate the effects of AGP supplementation on apoptosis in myocardial tissue?",
+    "gt": "The photomicrographs in Fig-2 and Fig-3 show a marked reduction in the number of apoptotic cells, identified by darkly stained nuclei with fragmented appearances, in the AGP-treated group compared to the control group. This is particularly evident in the border zone (BZ), where cellular integrity appears more preserved. Fig-4 provides quantitative support, showing significantly lower ratios of TUNEL-positive cells to total cells in the AGP-treated group, with a statistically significant difference (*P < 0.05) compared to the control group. These findings collectively suggest that AGP supplementation has a protective effect against apoptosis in myocardial tissue.",
+    "images": [
+      "PMC6342534_pnfs-23-309f4.jpg",
+      "PMC6342534_pnfs-23-309f4.jpg_0.jpg",
+      "PMC6342534_pnfs-23-309f4.jpg_2.jpg",
+      "PMC6342534_pnfs-23-309f4.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What joint manifestations are observed in the patient and her father as depicted in Fig-1 and Fig-5, and how do these findings reflect the hereditary aspect of Blau syndrome?",
+    "gt": "Fig-1 shows the patient with fixed flexion deformities at the proximal interphalangeal joints of the fourth and fifth fingers of both hands, characterized by abnormal curvature and immobility. Fig-5 depicts the father with residual deformities at the proximal interphalangeal joints of both hands and feet, marked by joint swelling, misalignment, and possible joint space narrowing or erosions. These findings reflect the hereditary aspect of Blau syndrome, as similar joint manifestations are present in both the patient and her father, indicating a familial pattern of inheritance.",
+    "images": [
+      "PMC8406922_12969_2021_633_Fig1_HTML.jpg",
+      "PMC8406922_12969_2021_633_Fig1_HTML.jpg_1.jpg",
+      "PMC8406922_12969_2021_633_Fig1_HTML.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "How do the cell viability results (Fig-1) and the endocytosis of LP-A96 after dynasore removal (Fig-6) support the reversibility and specificity of dynasore's inhibitory effect?",
+    "gt": "Fig-1 shows that dynasore does not cause cell death, as there is no significant fluorescence from annexin V and propidium iodide staining. This indicates that dynasore specifically inhibits endocytosis without affecting cell viability. Fig-6 demonstrates that after removing dynasore and allowing cells to recover for 4 hours, LP-A96 is successfully internalized, as seen by the red fluorescence. This supports the conclusion that dynasore's inhibitory effect on endocytosis is reversible, confirming its specificity and utility in studying cellular uptake mechanisms.",
+    "images": [
+      "PMC7504496_ijms-21-06157-g0A3.jpg",
+      "PMC7504496_ijms-21-06157-g0A3.jpg_2.jpg",
+      "PMC7504496_ijms-21-06157-g0A3.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What morphological differences are evident in the outflow tract (OFT) and overall cardiac structure between the control and mutant embryos as shown in Fig-3 and Fig-6?",
+    "gt": "In Fig-3, the control OFT sections display normal endothelial cell (Pecam) and GFP expression patterns, indicating proper myocardial tissue localization and gene activity. In contrast, mutant OFT sections exhibit disruptions in the endothelial cell layer and altered GFP expression, suggesting impaired gene function and abnormal development. Fig-6 further illustrates these differences, showing a normal cardiac structure in the control sample with clear atria and ventricle boundaries. Mutant samples, however, present significant structural abnormalities, including double outlet right ventricle (DORV) and persistent truncus arteriosus (PTA), indicating disrupted OFT development due to gene deletions.",
+    "images": [
+      "PMC7069721_elife-50325-fig2-figsupp1.jpg",
+      "PMC7069721_elife-50325-fig2-figsupp1.jpg_0.jpg",
+      "PMC7069721_elife-50325-fig2-figsupp1.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "How do the selected sub-images (Fig-1, Fig-4, and Fig-5) illustrate the impact of purple rice bran extract and protocatechuic acid on cell proliferation and apoptosis in liver tissue?",
+    "gt": "The selected sub-images show that in the experimental animals treated with DEN + PCA, there is a significant increase in GST-P expression (intense red staining), elevated PCNA levels (increased brown staining), and enhanced apoptotic activity (darkly stained nuclei via TUNEL). These findings suggest that the treatment induces higher cell turnover and increased programmed cell death, indicating that PCA and PRBE may modulate cellular processes involved in liver health by reducing cell proliferation and inducing apoptosis.",
+    "images": [
+      "PMC9217852_41598_2022_14888_Fig4_HTML.jpg",
+      "PMC9217852_41598_2022_14888_Fig4_HTML.jpg_6.jpg",
+      "PMC9217852_41598_2022_14888_Fig4_HTML.jpg_1.jpg",
+      "PMC9217852_41598_2022_14888_Fig4_HTML.jpg_5.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What specific brain regions exhibit decreased beta-band activity during sustained threat of unpredictable shock, as shown in the selected sub-images (Fig-3 and Fig-4)?",
+    "gt": "In both Fig-3 and Fig-4, the selected sub-images demonstrate decreased beta-band activity in the sensorimotor and right prefrontal cortex. These regions show significant reductions in mean beta power ratios (THREAT/SAFE, log10-transformed), indicating reduced neural engagement in these critical cognitive and motor control areas under conditions of unpredictability and potential harm. The color-coded brain maps and pial surface reconstructions overlay t-statistic maps, providing visual evidence of these changes.",
+    "images": [
+      "PMC10684633_13415_2023_1132_Fig2_HTML.jpg",
+      "PMC10684633_13415_2023_1132_Fig2_HTML.jpg_2.jpg",
+      "PMC10684633_13415_2023_1132_Fig2_HTML.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "How does the combined analysis of the immunofluorescence images (Fig-1 and Fig-4) and the Western blot (Fig-3) contribute to understanding the expression and localization of PHB1 in the vascular system?",
+    "gt": "The combined analysis of the selected sub-images provides a comprehensive view of PHB1 expression and localization in the vascular system. Fig-1 shows PHB1 expression in both SMCs and ECs within mouse aortic sections, indicating its broad distribution in vascular tissues. Fig-4 reveals that PHB1 localizes primarily to mitochondria within ECs, suggesting its involvement in mitochondrial functions such as energy production and apoptosis regulation. Fig-3 confirms the presence of PHB1 in BAECs and mouse aortic and carotid artery lysates via Western blot analysis, supporting its expression in both in vivo and in vitro models. These findings collectively underscore the importance of PHB1 in vascular biology and its potential roles in various cellular processes.",
+    "images": [
+      "PMC2213620_jcb1800101f01.jpg",
+      "PMC2213620_jcb1800101f01.jpg_5.jpg",
+      "PMC2213620_jcb1800101f01.jpg_0.jpg",
+      "PMC2213620_jcb1800101f01.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-4",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What key findings from the b-SSFP cine images (Fig-2 and Fig-4) and LGE imaging (Fig-7) help in assessing the severity and progression of the patient's hypertrophic cardiomyopathy?",
+    "gt": "The b-SSFP cine images (Fig-2 and Fig-4) reveal a severely dilated left ventricle (LV) with significant systolic dysfunction (LVEF 22%), indicating advanced cardiomyopathy. There is no current LV outflow tract obstruction, but a history of obstructive phenotype ten years ago is noted. The LGE imaging (Fig-7) shows extensive, heterogeneous myocardial fibrosis in the interventricular septum, anterior and inferior LV walls, and papillary muscles of the mitral valve, indicating significant replacement fibrosis and advanced disease progression. These findings collectively suggest severe and progressive HCM, necessitating further clinical evaluation and management.",
+    "images": [
+      "PMC9952999_biomedicines-11-00350-g003.jpg",
+      "PMC9952999_biomedicines-11-00350-g003.jpg_6.jpg",
+      "PMC9952999_biomedicines-11-00350-g003.jpg_1.jpg",
+      "PMC9952999_biomedicines-11-00350-g003.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-2",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "How do the images (Fig-1 and Fig-2) demonstrate the impact of improper threshold-based segmentation on the accuracy of tumor contouring?",
+    "gt": "The images (Fig-1 and Fig-2) demonstrate that improper threshold-based segmentation, indicated by the small red bounding box, leads to inaccurate tumor contouring. The correct segmentation, shown by the blue VOI, avoids false correlations with adjacent structures such as organs or other tumors, ensuring precise delineation of the lesion. This highlights the critical role of appropriate thresholding in achieving accurate tumor contouring and avoiding misinterpretations.",
+    "images": [
+      "PMC10755524_jnumed.122.265340f7.jpg",
+      "PMC10755524_jnumed.122.265340f7.jpg_0.jpg",
+      "PMC10755524_jnumed.122.265340f7.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What ultrastructural changes are observed in the microvessels of LDLR mice fed a high cholesterol diet (Fig-1 and Fig-2) compared to LDLR-/- mice fed a low cholesterol diet (Fig-3)?",
+    "gt": "In LDLR mice fed a high cholesterol diet (Fig-1 and Fig-2), the ultrastructural changes include severely degenerated microvessels with disrupted endothelial cell integrity, vacuolation, narrowed lumens, and significant lipid deposits. In contrast, LDLR-/- mice fed a low cholesterol diet (Fig-3) exhibit thickened basal laminae, expanded perivascular spaces, and degenerating capillary walls. These differences suggest that high cholesterol diets exacerbate vascular degeneration more severely than low cholesterol diets, even in genetically deficient mice.",
+    "images": [
+      "PMC2774302_1750-1326-4-42-7.jpg",
+      "PMC2774302_1750-1326-4-42-7.jpg_2.jpg",
+      "PMC2774302_1750-1326-4-42-7.jpg_0.jpg",
+      "PMC2774302_1750-1326-4-42-7.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-3",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the abdominal X-ray (Fig-1) and ultrasound (Fig-2) contribute to the diagnosis of duodenal obstruction in this case?",
+    "gt": "The abdominal X-ray (Fig-1) reveals the double-bubble sign, characterized by gas distention in the stomach and duodenum, suggesting an obstruction. The ultrasound (Fig-2) confirms the presence of pancreatic tissue partially surrounding the duodenum, which is indicative of annular pancreas. Together, these imaging findings provide strong evidence for duodenal obstruction due to annular pancreas, supporting the clinical diagnosis and guiding further management decisions.",
+    "images": [
+      "PMC6696746_rb-52-04-0275-g01.jpg",
+      "PMC6696746_rb-52-04-0275-g01.jpg_0.jpg",
+      "PMC6696746_rb-52-04-0275-g01.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What histopathological features are evident in the H&E stained sections of primary colorectal tumor tissues and their corresponding organoid models, and how do these features compare between the two?",
+    "gt": "The H&E stained sections of primary colorectal tumor tissues and their corresponding organoid models show several histopathological features. Primary tumor tissues exhibit densely packed cells with hyperchromatic nuclei, nuclear pleomorphism, frequent mitotic figures, and areas of necrosis, indicative of aggressive tumor behavior. Organoids also display similar histopathological features such as glandular structures and inflammatory infiltrates but with more organized cellular architecture compared to the primary tumors. These comparisons suggest that while organoids retain key histopathological features of the original tumors, there are notable differences in cell density and organization that may impact experimental outcomes or therapeutic responses.",
+    "images": [
+      "PMC7433887_pone.0235319.g001.jpg",
+      "PMC7433887_pone.0235319.g001.jpg_0.jpg",
+      "PMC7433887_pone.0235319.g001.jpg_6.jpg",
+      "PMC7433887_pone.0235319.g001.jpg_7.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-7",
+      "Fig-4",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the heterogeneous and high uptake patterns in [68Ga]Ga-ABY-025 PET/CT (Fig-8 and Fig-4) influence the interpretation of treatment response in patients with HER2-positive disease?",
+    "gt": "In Fig-8, the heterogeneous uptake pattern suggests varying metabolic activity within the lesions, indicating a mixed response to treatment. Lesions with higher [68Ga]Ga-ABY-025 uptake tend to show better therapeutic responses. In contrast, Fig-4 demonstrates a complete metabolic response in a patient with initially high [68Ga]Ga-ABY-025 uptake (SUVmax, 21), indicating effective treatment. These patterns help in assessing the overall effectiveness of the therapy and guide further clinical decisions.",
+    "images": [
+      "PMC10478820_jnumed.122.265364f3.jpg",
+      "PMC10478820_jnumed.122.265364f3.jpg_2.jpg",
+      "PMC10478820_jnumed.122.265364f3.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-8",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "How do the normalized area dynamics and morphology of AS cells compare between those expressing myoIIDN and the control group?",
+    "gt": "The normalized area dynamics of AS cells expressing myoIIDN (gray) and the control group (black) show similar fluctuating patterns over a 26-minute period, with no significant differences noted between the groups. The control group (Fig-5) exhibits normal cell morphology and distribution, while the cells expressing myoIIDN (Fig-6) also demonstrate comparable dynamic behavior without marked alterations.",
+    "images": [
+      "PMC3727928_2350fig2.jpg",
+      "PMC3727928_2350fig2.jpg_0.jpg",
+      "PMC3727928_2350fig2.jpg_6.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-6",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "How do the histological images (Fig-9 and Fig-6) and quantitative data (Fig-10) collectively support the effect of PPAR\u03b3 modulators on follicular development and maturation in mouse ovaries?",
+    "gt": "The histological images (Fig-9 and Fig-6) demonstrate multiple follicles at various developmental stages, indicating successful follicular development and preservation of follicle integrity without significant signs of degeneration. The quantitative data (Fig-10) show significant differences in the number and percentage of follicles between treatment groups, particularly highlighting a higher number of primary follicles and a lower number of primordial follicles in GW9662- and cPA-treated groups compared to the control group. Additionally, the cPA-treated ovaries exhibit a lower ratio of zona pellucida remnants (ZPRs), indicating reduced atresia. Collectively, these findings suggest that PPAR\u03b3 modulators positively influence follicular development and maturation, promoting the progression from primordial to primary follicles while reducing atresia.",
+    "images": [
+      "PMC7247159_ijms-21-03120-g004.jpg",
+      "PMC7247159_ijms-21-03120-g004.jpg_0.jpg",
+      "PMC7247159_ijms-21-03120-g004.jpg_2.jpg",
+      "PMC7247159_ijms-21-03120-g004.jpg_7.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-9",
+      "Fig-10",
+      "Fig-6"
+    ]
+  },
+  {
+    "question": "What specific features in the RPE cells of aged Cln3\u0394ex1-6 mice, as shown in Fig-1 and Fig-2, support the hypothesis of impaired autophagic and lysosomal pathways?",
+    "gt": "In Fig-1, the presence of numerous electron-dense single-membrane phagosomes containing phagocytosed photoreceptor outer segments (POS) and double membrane-bound vacuolar/autophagosome-like structures in the basal region of the RPE suggests active phagocytic activity and accumulation of autophagosomes. In Fig-2, the detailed visualization of an autophagosome with multiple membranes encapsulating cytoplasmic material further confirms the accumulation of autophagosomes. These features collectively indicate impaired autophagic and lysosomal pathways, contributing to the accumulation of storage material and dysfunctional cellular processes in RPE cells of aged Cln3\u0394ex1-6 mice.",
+    "images": [
+      "PMC4654058_ddv40601.jpg",
+      "PMC4654058_ddv40601.jpg_4.jpg",
+      "PMC4654058_ddv40601.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the pre-operative (Fig-1) and post-operative (Fig-3) laryngoscopic images reflect the progression and resolution of acute epiglottitis?",
+    "gt": "The pre-operative direct laryngoscopic image (Fig-1) shows a severely swollen epiglottis with pus extruding from the aryepiglottic folds, indicative of acute epiglottitis and a high risk of airway obstruction. The post-operative transnasal laryngoscopic image (Fig-3) at Day 7 post-operatively reveals a normal-shaped epiglottis with a clearly visible glottic airway during abduction, indicating successful treatment and resolution of the acute inflammation, ensuring patency of the airway.",
+    "images": [
+      "PMC10444310_rjad481f2.jpg",
+      "PMC10444310_rjad481f2.jpg_2.jpg",
+      "PMC10444310_rjad481f2.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the fluorescence imaging characteristics of the bile duct hamartoma (Fig-2) and the focal nodular hyperplasia (Fig-3) help differentiate them from malignant lesions?",
+    "gt": "The fluorescence imaging characteristics of the bile duct hamartoma and the focal nodular hyperplasia help differentiate them from malignant lesions through specific patterns. In Fig-2, the bile duct hamartoma shows weak, diffuse fluorescence without a distinctive rim-type pattern, which is indicative of a benign lesion rather than a malignant one. In Fig-3, the focal nodular hyperplasia exhibits near-infrared fluorescence, suggesting the presence of ICG uptake. While this fluorescence indicates some degree of biliary activity, the absence of a rim-type fluorescence pattern further supports the benign nature of the lesion compared to typical malignant lesions.",
+    "images": [
+      "PMC5199623_464_2016_5007_Fig4_HTML.jpg",
+      "PMC5199623_464_2016_5007_Fig4_HTML.jpg_3.jpg",
+      "PMC5199623_464_2016_5007_Fig4_HTML.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "How do the effects of retinoic acid (RA) treatment on incisor length and color vary when the treatment starts at different embryonic stages (E13.5 and E14.5)?",
+    "gt": "The selected sub-images (Fig-3, Fig-4, Fig-7) show that RA treatment beginning at E13.5 results in noticeable reductions in incisor length and lightening of color, whereas treatment starting at E14.5 leads to less severe changes. Specifically, Fig-3 depicts a moderate reduction in length and lightening of color, while Figs-4 and 7 show progressively less severe reductions in size and alterations in pigmentation. This indicates that the severity of the effects decreases as the start of RA treatment is delayed, highlighting the importance of the timing of RA exposure during embryonic development.",
+    "images": [
+      "PMC5217128_fphys-07-00673-g0001.jpg",
+      "PMC5217128_fphys-07-00673-g0001.jpg_6.jpg",
+      "PMC5217128_fphys-07-00673-g0001.jpg_3.jpg",
+      "PMC5217128_fphys-07-00673-g0001.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-3",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "What differences in TF expression and nuclear envelope localization are observed in the fluorescence microscopy images (Fig-2, Fig-4, and Fig-5) of tissue sections from control, LPS-, and SAA-treated mice?",
+    "gt": "In Fig-2, which uses FITC-conjugated anti-TF antibodies, minimal TF staining is observed in vehicle-treated tissues, while increased TF expression is evident in both LPS- and SAA-treated samples, particularly in the glomeruli and tubular epithelium. In Fig-4 and Fig-5, DAPI staining highlights the nuclear envelope, revealing increased fluorescence intensity in response to LPS and SAA treatments compared to controls. These findings suggest that SAA and LPS treatments induce TF accumulation and cellular activity, particularly in the glomeruli and tubular epithelium.",
+    "images": [
+      "PMC6416175_fimmu-10-00380-g0008.jpg",
+      "PMC6416175_fimmu-10-00380-g0008.jpg_1.jpg",
+      "PMC6416175_fimmu-10-00380-g0008.jpg_5.jpg",
+      "PMC6416175_fimmu-10-00380-g0008.jpg_3.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-5",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How does the progression of acute macular neuroretinopathy (AMN) manifest in the selected SD-OCT images (Fig-1, Fig-2, and Fig-3)?",
+    "gt": "The progression of AMN is evident in the selected SD-OCT images. Fig-1 shows a hyperreflective band extending outward from the outer plexiform layer during the acute phase. By day 4 (Fig-2), there is disruption in the outer retinal layers, indicating significant photoreceptor damage. At day 45 (Fig-3), the outer retinal layers show substantial thinning and disruption, suggesting ongoing retinal pathology that could impact visual acuity.",
+    "images": [
+      "PMC8138200_cop-0012-0293-g03.jpg",
+      "PMC8138200_cop-0012-0293-g03.jpg_1.jpg",
+      "PMC8138200_cop-0012-0293-g03.jpg_0.jpg",
+      "PMC8138200_cop-0012-0293-g03.jpg_2.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What common characteristics can be observed in the necrosuppurative lesions of the liver and uterus as depicted in Fig-2 and Fig-4?",
+    "gt": "Both the liver and uterine lesions in Fig-2 and Fig-4 exhibit central areas of necrosis surrounded by abundant intralesional colonies of bacterial rods and variable numbers of degenerated neutrophils. These features suggest a severe inflammatory response consistent with an active bacterial infection in both organs.",
+    "images": [
+      "PMC7912865_12917_2021_2796_Fig1_HTML.jpg",
+      "PMC7912865_12917_2021_2796_Fig1_HTML.jpg_3.jpg",
+      "PMC7912865_12917_2021_2796_Fig1_HTML.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-4"
+    ]
+  },
+  {
+    "question": "How do the measurements depicted in Fig-1 and Fig-2 contribute to the assessment of patellar alignment and potential instability?",
+    "gt": "In Fig-1, Line 1 is drawn through the deepest cartilaginous point of the trochlear groove, forming a 90\u00b0 angle with the posterior condylar line. This establishes a reference point for the trochlear groove. In Fig-2, Line 2 is drawn in parallel to Line 1 from the center of the patellar tendon, extending to the original posterior condylar line. The distance between these two lines represents the TT-TG distance. This measurement provides crucial information on the alignment between the tibial tubercle and the trochlear groove, helping to identify any potential patellar instability or tracking abnormalities.",
+    "images": [
+      "PMC7183663_13018_2020_1661_Fig1_HTML.jpg",
+      "PMC7183663_13018_2020_1661_Fig1_HTML.jpg_0.jpg",
+      "PMC7183663_13018_2020_1661_Fig1_HTML.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "What specific imaging characteristics of the masses in Fig-1 and Fig-2 suggest potential malignancy, and how do these characteristics differ between the arterial and portal phases?",
+    "gt": "In Fig-1, the 3.6\u00d74.8 cm mass in segment 6 of the liver during the arterial phase exhibits heterogeneous enhancement and irregular margins, which are suggestive of hepatocellular carcinoma (HCC). In Fig-2, the 3.3\u00d72.6 cm mass at the porta hepatis and the portion of the segment 6 mass during the portal phase show continued enhancement, indicating persistent abnormality. The heterogeneous enhancement and irregular margins in the arterial phase (Fig-1) are more indicative of HCC, whereas the portal phase (Fig-2) shows ongoing enhancement, consistent with malignancy but without the distinct arterial phase characteristics.",
+    "images": [
+      "PMC2687661_kjim-22-283-g001.jpg",
+      "PMC2687661_kjim-22-283-g001.jpg_0.jpg",
+      "PMC2687661_kjim-22-283-g001.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the CT images (Fig-1, Fig-2, Fig-3) demonstrate the progression of ischemic changes in the brain following a perioperative stroke?",
+    "gt": "The CT images show a clear progression of ischemic changes in the brain. Fig-1 initially reveals a slight hypodensity in the right frontal and insular cortex, indicating early ischemic changes. Fig-2, taken after recanalization, shows a more pronounced low density in the same regions, suggesting ongoing ischemia despite the intervention. Fig-3, taken seven days later, demonstrates ischemic edema in the frontal operculum and temporal pole, indicating the evolution and expansion of the ischemic area over time. These images collectively provide evidence of the progression from early ischemic changes to more extensive edema, reflecting the ongoing nature of the ischemic process.",
+    "images": [
+      "PMC8133088_CCR3-9-e04246-g001.jpg",
+      "PMC8133088_CCR3-9-e04246-g001.jpg_1.jpg",
+      "PMC8133088_CCR3-9-e04246-g001.jpg_2.jpg",
+      "PMC8133088_CCR3-9-e04246-g001.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-1",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the visualizations in Fig-1, Fig-3, and Fig-4 differ in terms of stent strut detection and guidewire navigation, and what implications do these differences have for clinical decision-making?",
+    "gt": "In Fig-1 and Fig-3, all three imaging systems agree on the visualization of the guidewire rewiring into a side branch and the presence of undetected stent struts. These images show consistent findings, which support the reliability of the imaging systems in identifying the guidewire and potential undetected stent struts. In contrast, Fig-4 illustrates a case of disagreement, where version 1.1 fails to detect the stent struts adequately, while version 1.2 and the offline 3D system provide clearer visualization. This difference highlights the improved performance of version 1.2 in detecting stent struts, which is crucial for accurate clinical decision-making and ensuring optimal stent placement. The enhanced visualization in version 1.2 and the offline 3D system reduces the risk of missing critical details that could lead to complications such as restenosis or thrombosis.",
+    "images": [
+      "PMC7497438_12928_2019_629_Fig4_HTML.jpg",
+      "PMC7497438_12928_2019_629_Fig4_HTML.jpg_2.jpg",
+      "PMC7497438_12928_2019_629_Fig4_HTML.jpg_3.jpg",
+      "PMC7497438_12928_2019_629_Fig4_HTML.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-4",
+      "Fig-1",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What do the IHC staining patterns in the tumor spheres formed by ALDHhigh and ALDHlow SiHa cells (Fig-5, Fig-3, and Fig-7) reveal about the expression levels of stem cell-associated transcription factors?",
+    "gt": "The IHC staining patterns in the tumor spheres formed by ALDHhigh and ALDHlow SiHa cells reveal differential expression levels of stem cell-associated transcription factors. In ALDHhigh cells, there is notable brown nuclear staining, indicating higher expression levels of these markers, whereas ALDHlow cells exhibit lower or absent staining. This differential expression supports the idea that ALDHhigh cells possess higher stemness characteristics, which may be significant for tumor progression and therapeutic resistance.",
+    "images": [
+      "PMC3926841_oncotarget-04-2462-g006.jpg",
+      "PMC3926841_oncotarget-04-2462-g006.jpg_8.jpg",
+      "PMC3926841_oncotarget-04-2462-g006.jpg_11.jpg",
+      "PMC3926841_oncotarget-04-2462-g006.jpg_6.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-5",
+      "Fig-3",
+      "Fig-7"
+    ]
+  },
+  {
+    "question": "What morphological changes are observed in the murine B16F10 cells in Fig-2 and Fig-3, and how do these changes relate to the treatment with cirsimaritin?",
+    "gt": "In both Fig-2 and Fig-3, the murine B16F10 cells exhibit an increase in dendritic branching, characterized by abundant and well-defined dendrites extending from the cell bodies. These morphological changes suggest that the treatment with cirsimaritin promotes dendritogenesis, leading to the formation of a more complex network of dendrites. This observation supports the role of cirsimaritin in inducing early stages of melanogenesis, as evidenced by the enhanced dendritic structures in the cells.",
+    "images": [
+      "PMC4425108_ijms-16-08772-g001a.jpg",
+      "PMC4425108_ijms-16-08772-g001a.jpg_0.jpg",
+      "PMC4425108_ijms-16-08772-g001a.jpg_2.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the expressions of TGF-\u03b21 and TGF-\u03b22 mRNAs differ between the infarct area and the surrounding brain regions, as shown in Fig-1 and Fig-6?",
+    "gt": "In Fig-1, TGF-\u03b21 mRNA expression is highly induced both at the perimeter of the lesion and within the infarct area 72 hours post-MCAO, with significant accumulation noted in the corpus callosum. In contrast, Fig-6 shows that TGF-\u03b22 mRNA is present in only a few cells at the perimeter of the infarct area, while maintaining a normal distribution in the cerebral cortex outside the lesion. This suggests that TGF-\u03b21 has a more extensive and pronounced upregulation response compared to TGF-\u03b22, potentially indicating distinct roles in tissue repair mechanisms post-ischemic injury.",
+    "images": [
+      "PMC3466286_pone.0046731.g003.jpg",
+      "PMC3466286_pone.0046731.g003.jpg_2.jpg",
+      "PMC3466286_pone.0046731.g003.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-6",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the clinical, dermoscopic, and RCM findings (Fig-1, Fig-2, and Fig-3) contribute to the diagnosis and characterization of melanoma in situ?",
+    "gt": "The clinical and dermoscopic findings (Fig-1) reveal a tan to dark brown patch with an atypical network, indicative of melanocytic proliferation. The RCM mosaic image (Fig-2) shows large, bright cells and dendritic processes in the upper epidermis, supporting the presence of Pagetoid spread of melanocytes. The higher magnification RCM image (Fig-3) demonstrates large, bright, nucleated cells with pleomorphic characteristics and a disarranged pattern, consistent with melanoma in situ. Collectively, these findings provide strong evidence for the diagnosis of melanoma in situ and characterize the extent of cellular abnormalities and architectural disruption.",
+    "images": [
+      "PMC5956038_13671_2018_218_Fig7_HTML.jpg",
+      "PMC5956038_13671_2018_218_Fig7_HTML.jpg_2.jpg",
+      "PMC5956038_13671_2018_218_Fig7_HTML.jpg_0.jpg",
+      "PMC5956038_13671_2018_218_Fig7_HTML.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-1",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the different stages of hemorrhage (Fig-2) and edema (Fig-5) correlate with the severity of lung injury?",
+    "gt": "The different stages of hemorrhage and edema in the selected sub-images (Fig-2 and Fig-5) directly correlate with the severity of lung injury. In Fig-2, the stages range from absent hemorrhage (A) to severe diffuse massive infiltrate (D), indicating increasing levels of bleeding. In Fig-5, the stages progress from absent edema (A) to abundant edema entirely filling the alveoli in more than 50% of the lung section (D), indicating increasing fluid accumulation. Both pathologies reflect the extent of lung injury, with higher stages suggesting more severe damage and potential impairment of gas exchange.",
+    "images": [
+      "PMC10750358_fcimb-13-1297281-g001.jpg",
+      "PMC10750358_fcimb-13-1297281-g001.jpg_3.jpg",
+      "PMC10750358_fcimb-13-1297281-g001.jpg_5.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-5"
+    ]
+  },
+  {
+    "question": "How do the ROIs in the control pedunculated tubular adenoma (Fig-1) and the pedunculated T1 colorectal cancer (Fig-2) differ in terms of their molecular profiles, specifically regarding proliferation rates (Ki-67 staining) and structural integrity (pan-cytokeratin staining)?",
+    "gt": "The ROIs in the control pedunculated tubular adenoma (Fig-1) show lower proliferation rates indicated by Ki-67 staining compared to those in the pedunculated T1 colorectal cancer (Fig-2). Additionally, the structural integrity, as shown by pan-cytokeratin staining, is more uniform and less disrupted in the control adenoma than in the cancerous tissue. These differences suggest that the control adenoma has fewer proliferating cells and better-preserved cellular architecture, consistent with its benign nature, whereas the T1 colorectal cancer exhibits increased cell proliferation and more irregular structural features, indicative of malignancy.",
+    "images": [
+      "PMC10816845_ijms-25-01103-g005.jpg",
+      "PMC10816845_ijms-25-01103-g005.jpg_0.jpg",
+      "PMC10816845_ijms-25-01103-g005.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "What are the key differences in the banding patterns and interactions between *C. albicans* and *S. aureus* at the initial stage (t=0 hours) and after 9 and 12 hours post-inoculation as depicted in the selected sub-images?",
+    "gt": "At the initial stage (t=0 hours), the biofilm consists of uniformly small, round cells with no distinct banding patterns, indicating minimal cellular diversity and early-stage biofilm development (Fig-2). After 9 hours post-inoculation, a serrated interface is observed between the *C. albicans* and *S. aureus* bands, with *C. albicans* hyphae penetrating the *S. aureus* band (Fig-6). By 12 hours post-inoculation, distinct banding patterns emerge: a peripheral band of *S. aureus*, a middle band of *C. albicans*, and an internal discontinuous band of *S. aureus* (Fig-3). These observations highlight the evolution of spatial organization and interaction between the two species over time.",
+    "images": [
+      "PMC10866020_mic-170-1426-g002.jpg",
+      "PMC10866020_mic-170-1426-g002.jpg_2.jpg",
+      "PMC10866020_mic-170-1426-g002.jpg_3.jpg",
+      "PMC10866020_mic-170-1426-g002.jpg_4.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-6",
+      "Fig-2",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "What changes in the omental metastases and peri-portal lymphadenopathy are observed between the CT scans taken after cycle 3 (Fig-1) and cycle 6 (Fig-2)?",
+    "gt": "Between the CT scans taken after cycle 3 (Fig-1) and cycle 6 (Fig-2), there is a marked reduction in omental metastases and peri-portal lymphadenopathy. Fig-1 shows extensive omental carcinomatosis and mesenteric metastases, along with significant peri-portal lymphadenopathy. In contrast, Fig-2 demonstrates a decrease in the size and number of omental metastases and reduced peri-portal lymphadenopathy, indicating a positive response to the CAPOX-B treatment regimen.",
+    "images": [
+      "PMC6027424_biomedicines-06-00046-g003.jpg",
+      "PMC6027424_biomedicines-06-00046-g003.jpg_1.jpg",
+      "PMC6027424_biomedicines-06-00046-g003.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the CT and MRI images (Fig-1 and Fig-2) help differentiate between scar tissue and potential tumor recurrence in the postoperative changes of the patient's neck?",
+    "gt": "The CT scan (Fig-1) shows postoperative changes with an intermediate density tissue in the infratemporal fossa near the right pterygoid process, indicating uncertainty between scar tissue and tumor recurrence. The MRI scan (Fig-2), taken one month later, reveals a larger lesion in the floor of the mouth, measuring 1.9 x 3.5 x 3.9 cm, which is inseparable from the right mylohyoid muscle and other floor of mouth muscles. The rapid growth of the lesion over this period suggests a higher likelihood of tumor recurrence rather than scar tissue formation, although definitive diagnosis would require further clinical evaluation and possibly biopsy.",
+    "images": [
+      "PMC5922506_cureus-0010-00000002238-i01.jpg",
+      "PMC5922506_cureus-0010-00000002238-i01.jpg_1.jpg",
+      "PMC5922506_cureus-0010-00000002238-i01.jpg_0.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the histological features observed in the experimental group (Fig-1 and Fig-2) differ from those in the control group (Fig-3)?",
+    "gt": "In the experimental group (Fig-1 and Fig-2), the histological sections show extensive inflammatory cell infiltration, significant vascular injury with disrupted endothelial lining and thrombus formation, and areas of myocardial necrosis, corresponding to an ISHLT grade 4 rejection. In contrast, the control group (Fig-3) exhibits mild infiltration without evident necrosis, corresponding to an ISHLT grade 1B-2, indicating moderate inflammation but no severe damage or cell death.",
+    "images": [
+      "PMC4061216_ETM-08-01-0237-g01.jpg",
+      "PMC4061216_ETM-08-01-0237-g01.jpg_2.jpg",
+      "PMC4061216_ETM-08-01-0237-g01.jpg_0.jpg",
+      "PMC4061216_ETM-08-01-0237-g01.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1",
+      "Fig-3"
+    ]
+  },
+  {
+    "question": "How do the staining patterns of decorin and collagen IX in the superficial and deeper zones of tarsometatarsal joint cartilage differ according to the selected sub-images (Fig-2 and Fig-3)?",
+    "gt": "In the superficial zone of tarsometatarsal joint cartilage, both decorin and collagen IX are highly enriched and show some overlap. However, in the deeper two-thirds of the tissue, collagen IX is predominantly localized in the territorial matrix surrounding chondrocytes, while decorin is more concentrated in the interterritorial matrix. This differential localization highlights the unique roles of these molecules in different zones of the cartilage structure.",
+    "images": [
+      "PMC2133020_JCB16547.f10.jpg",
+      "PMC2133020_JCB16547.f10.jpg_2.jpg",
+      "PMC2133020_JCB16547.f10.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  },
+  {
+    "question": "How do the axial CT and fused axial FDG PET-CT images (Fig-1 and Fig-2) help in distinguishing the peripheral squamous cell carcinoma from the underlying fibrotic lung tissue?",
+    "gt": "The axial CT image (Fig-1) shows the tumor's irregular margins and heterogeneous density, along with reticular opacities and honeycombing consistent with UIP. The fused axial FDG PET-CT image (Fig-2) reveals increased metabolic activity in the tumor, with an SUVmax of 12.5, which is significantly higher than the lower metabolic activity in the fibrotic lung parenchyma. This differential uptake helps in clearly distinguishing the high metabolic activity of the tumor from the lower metabolic activity of the fibrotic areas, thus aiding in the accurate diagnosis and differentiation of the squamous cell carcinoma from the underlying UIP pattern.",
+    "images": [
+      "PMC9973524_EDU-0147-2022.02.jpg",
+      "PMC9973524_EDU-0147-2022.02.jpg_0.jpg",
+      "PMC9973524_EDU-0147-2022.02.jpg_1.jpg"
+    ],
+    "image_indices": [
+      "Fig-0",
+      "Fig-2",
+      "Fig-1"
+    ]
+  },
+  {
+    "question": "How do the images of myoblasts (Fig-2 and Fig-3) transferred from laminin 521 to alternate substrates demonstrate their robust differentiation capabilities?",
+    "images": [
+      "PMC5154152_13395_2016_116_Fig4_HTML.jpg",
+      "PMC5154152_13395_2016_116_Fig4_HTML.jpg_2.jpg",
+      "PMC5154152_13395_2016_116_Fig4_HTML.jpg_3.jpg"
+    ],
+    "gt": "Both Fig-2 and Fig-3 depict myoblasts that were initially expanded on laminin 521 and then transferred to alternate substrates. Despite the change in substrates, the myoblasts show robust differentiation, as evidenced by the strong green fluorescence indicating MHC expression and the well-defined blue Hoechst staining of the nuclei. This demonstrates that the myoblasts maintain their differentiation capabilities effectively, suggesting that the initial culture conditions on laminin 521 are critical for sustaining their myogenic potential.",
+    "image_indices": [
+      "Fig-0",
+      "Fig-3",
+      "Fig-2"
+    ]
+  }
+
+]

@@ -1,0 +1,8 @@
+{
+  "task": "multi-choice",
+  "model": "healthgpt",
+  "num_samples": 50,
+  "num_correct": 45,
+  "accuracy": 0.9,
+  "accuracy_pct": 90.0
+}

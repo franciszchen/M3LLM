@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What are the imaging characteristics that differentiate between a benign and malignant thyroid tumour, and how do these characteristics influence clinical management?",
+    "images_puretext": [
+      "PMC3936553_kja-17-148-g001.jpg"
+    ],
+    "gt": "Imaging characteristics that differentiate between benign and malignant thyroid tumours include the following:\n  - **Benign Tumours**: Typically appear well-defined, homogeneous, and may have a central area of calcification. They often show a uniform signal intensity on MRI and low to moderate FDG uptake on PET scans.\n  - **Malignant Tumours**: Often appear irregularly shaped, with poorly defined margins, and may exhibit heterogeneity in signal intensity due to necrosis, haemorrhage, or infiltration of surrounding tissues. They usually demonstrate higher FDG uptake on PET scans, reflecting increased metabolic activity.\n\nThese imaging characteristics guide clinical management by helping to determine the need for biopsy, the extent of surgical resection, and the necessity for postoperative surveillance. For instance, a tumour with high peripheral signal intensity and low central signal intensity, as seen in this case, might prompt further investigation to rule out malignancy, possibly through fine-needle aspiration biopsy or additional imaging studies.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the advantages and mechanisms of action of drug-eluting stents in the treatment of coronary artery disease?",
+    "images_puretext": [
+      "PMC6880439_13256_2019_2267_Fig2_HTML.jpg"
+    ],
+    "gt": "Drug-eluting stents (DES) are coated with medications that are slowly released into the artery wall, preventing excessive tissue growth that could lead to restenosis. The primary advantage of DES is their ability to maintain vessel patency over the long term, reducing the need for repeat procedures. They work by inhibiting cell proliferation and migration within the vessel wall, thereby minimizing the formation of scar tissue that can narrow the artery again. This mechanism helps to ensure sustained blood flow to the myocardium, improving patient outcomes and reducing the risk of recurrent ischemia.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical imaging findings that differentiate pseudocoarctation of the aorta from true coarctation, and how do these findings impact surgical planning?",
+    "images_puretext": [
+      "PMC4687714_JCMM-19-2741-g003.jpg"
+    ],
+    "gt": "Pseudocoarctation of the aorta is characterized by an elongated and kinked aortic arch without true narrowing, often accompanied by an anomalous origin of the left vertebral artery. In contrast, true coarctation involves a discrete narrowing of the aorta, typically at the isthmus. Imaging findings that differentiate pseudocoarctation from true coarctation include the presence of an elongated aortic arch that does not show a significant reduction in caliber, and the absence of a true stenotic segment. Additionally, in pseudocoarctation, the isthmic portion of the descending aorta is not adjacent to the spine and is surrounded by aerated lung tissue, which is not typically seen in true coarctation. These imaging characteristics are crucial for surgical planning, as they guide the type of repair needed. For pseudocoarctation, surgical correction may involve resection of the elongated arch and end-to-end anastomosis, whereas true coarctation might require a different approach, such as subclavian flap or patch augmentation, depending on the extent and location of the narrowing.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the diagnostic methods used to identify *Borrelia* bacteria in tissue samples, and how do these methods contribute to the diagnosis of spirochetal infections?",
+    "images_puretext": [
+      "PMC3954163_f1000research-2-304-g0001.jpg"
+    ],
+    "gt": "Diagnostic methods for identifying *Borrelia* bacteria in tissue samples include silver nitrate staining techniques like Dieterle and Warthin-Faulkner stains, which specifically detect spirochetes due to their unique staining properties. Additionally, immunofluorescence assays using anti-*Borrelia* antibodies can highlight the presence of *Borrelia* bacteria in tissues. These methods are crucial for confirming the presence of *Borrelia* and aiding in the diagnosis of spirochetal infections such as Lyme disease. By visualizing the spirochetes and detecting the immune response to *Borrelia*, these techniques provide valuable evidence for both active and past infections, guiding appropriate clinical management and treatment strategies.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the primary benefits and challenges of using kV-CBCT in conjunction with rigid registration techniques for patient setup and verification in advanced radiotherapy treatments like HyperArc VMAT SRT?",
+    "images_puretext": [
+      "PMC9121031_ACM2-23-e13561-g003.jpg"
+    ],
+    "gt": "The primary benefits of using kV-CBCT in conjunction with rigid registration techniques include enhanced precision and accuracy in patient positioning and target alignment. Real-time imaging allows for immediate verification of the patient's position relative to the treatment plan, reducing the risk of errors and ensuring that the radiation dose is delivered accurately to the intended target. Additionally, the ability to perform both automatic and manual adjustments enhances the overall safety and efficacy of the treatment.\n\nHowever, there are also several challenges associated with this approach. One major challenge is the potential for increased radiation exposure due to the frequent use of kV-CBCT for verification. Another challenge is the technical complexity involved in performing rigid registration, which requires skilled operators to interpret the images and make necessary adjustments. Ensuring consistent and reliable registration outcomes can be difficult, especially when dealing with soft tissue deformations. Despite these challenges, the use of kV-CBCT and rigid registration remains a critical component in achieving high precision in advanced radiotherapy treatments.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the primary mechanisms by which RNase activity is inhibited during RNA sample processing, and why is this critical for maintaining RNA stability?",
+    "images_puretext": [
+      "PMC7533677_pnas.2011221117fig08.jpg"
+    ],
+    "gt": "RNase activity is primarily inhibited during RNA sample processing through the use of RNase inhibitors and chemical agents like sodium iodide (NaI). RNase inhibitors bind to RNases, preventing them from degrading RNA molecules. Sodium iodide at high concentrations (such as 2 M) disrupts the structure of RNases, thereby inhibiting their enzymatic activity. Maintaining RNA stability is critical because degraded RNA can lead to false negative results in molecular diagnostics, compromising the accuracy and reliability of tests like RT-LAMP. Ensuring RNA integrity throughout the sample processing workflow is essential for obtaining valid diagnostic outcomes.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the mechanisms by which adipose-derived stem cells (ASCs) enhance the angiogenic capabilities of endothelial progenitor cells (EPCs) through paracrine signaling?",
+    "images_puretext": [
+      "PMC8758088_pone.0261498.g005.jpg"
+    ],
+    "gt": "Adipose-derived stem cells (ASCs) enhance the angiogenic capabilities of endothelial progenitor cells (EPCs) through paracrine signaling by secreting various growth factors and cytokines, such as VEGFA and ANGPT1. These factors promote angiogenesis by stimulating the proliferation, migration, and tube formation of EPCs. Specifically, VEGFA increases vascular permeability and stimulates endothelial cell proliferation, while ANGPT1 and ANGPT2 support the maintenance and maturation of blood vessels. Additionally, ASCs can upregulate genes associated with angiogenesis in EPCs, such as CDH5, FLt1, Tie2, and VEGF, further enhancing their ability to form new blood vessels. This paracrine interaction plays a critical role in tissue repair and vascular regeneration.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the size of liposomes influence their pharmacokinetics and biodistribution in the body?",
+    "images_puretext": [
+      "PMC8146086_pharmaceutics-13-00636-g002.jpg"
+    ],
+    "gt": "The size of liposomes significantly influences their pharmacokinetics and biodistribution. Smaller liposomes (<100 nm) generally have a longer circulation time due to reduced uptake by the reticuloendothelial system (RES), whereas larger liposomes (>200 nm) are more rapidly cleared from the bloodstream. Liposomes around 250 nm, like those described here, can achieve a balance between prolonged circulation and efficient targeting to specific tissues, such as tumors, through the enhanced permeability and retention (EPR) effect. Additionally, the size affects cellular uptake mechanisms; smaller particles are more likely to enter cells via endocytosis, while larger particles may require receptor-mediated pathways.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical histopathological features of cholesteatoma, and how do they differ from those of normal external ear skin?",
+    "images_puretext": [
+      "PMC9960810_medicina-59-00306-g001.jpg"
+    ],
+    "gt": "Cholesteatoma typically exhibits several histopathological features, including a hyperproliferative stratified squamous epithelium (the matrix), a perimatrix rich in inflammatory cells, and an inner layer of anucleate keratin. These features indicate active pathological processes involving abnormal cell proliferation and inflammation. In contrast, normal external ear skin shows an intact stratified squamous epithelium and subepithelial connective tissue containing hair follicles, without signs of inflammation or abnormal cell proliferation. Histopathological examination using hematoxylin and eosin staining is crucial for distinguishing these conditions and guiding appropriate clinical management.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical clinical manifestations and diagnostic imaging features of frontotemporal dementia (FTD), and how do these findings influence clinical management?",
+    "images_puretext": [
+      "PMC8299406_crn-0013-0451-g02.jpg"
+    ],
+    "gt": "Frontotemporal dementia (FTD) is characterized by progressive degeneration of the frontal and temporal lobes, leading to cognitive and behavioral changes. Typical clinical manifestations include personality changes, social disinhibition, apathy, and executive function deficits. Diagnostic imaging features include volumetric reduction and widening of cerebral sulci due to cortical atrophy, particularly in the frontal and temporal regions. MRI findings often reveal abnormalities in the superior, middle, and inferior frontal gyri, which correlate with specific cognitive and behavioral symptoms such as memory deficits, learning difficulties, and aberrant motor behaviors. These imaging findings help confirm the diagnosis and guide clinical management strategies, including the use of cognitive-behavioral interventions, pharmacological treatments, and supportive care to address the patient's needs.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do growth factors such as M-CSF and RANKL influence the differentiation and function of osteoclasts in co-culture systems?",
+    "images_puretext": [
+      "PMC9318333_ijms-23-07875-g008.jpg"
+    ],
+    "gt": "Growth factors like M-CSF (Macrophage Colony-Stimulating Factor) and RANKL (Receptor Activator of Nuclear factor-kappa B Ligand) play crucial roles in osteoclast differentiation and function. M-CSF promotes the survival and proliferation of osteoclast precursors, while RANKL is essential for the differentiation of these precursors into mature osteoclasts. RANKL binding to its receptor, RANK, on osteoclast precursors triggers signaling pathways that lead to osteoclastogenesis, including the activation of NF-κB and other transcription factors. Once differentiated, osteoclasts are capable of bone resorption, a process critical for maintaining bone homeostasis. Therefore, the presence of these growth factors in co-culture systems significantly enhances the formation and functional activity of osteoclasts.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What is the role of endothelin B receptor (ETB) in regulating immune cell infiltration and lung inflammation, and how does its deficiency contribute to the development of pulmonary hypertension?",
+    "images_puretext": [
+      "PMC9221837_fimmu-13-895501-g004.jpg"
+    ],
+    "gt": "Endothelin B receptor (ETB) plays a crucial role in modulating immune cell infiltration and lung inflammation. ETB deficiency leads to increased accumulation of immune cells, such as B and T lymphocytes, around blood vessels in the lungs. This accumulation results in chronic inflammation, which can contribute to the development of pulmonary hypertension by causing vascular remodeling and increased vascular resistance. The absence of ETB disrupts the normal regulation of immune responses in the lung, leading to persistent inflammation and subsequent pathological changes that characterize pulmonary hypertension.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the mechanisms through which traditional Chinese medicines like Mangxiao and Dahuang might exert anti-inflammatory effects in the lungs, and how do these compare to conventional COPD treatments?",
+    "images_puretext": [
+      "PMC3762168_ECAM2013-547837.001.jpg"
+    ],
+    "gt": "Traditional Chinese medicines such as Mangxiao and Dahuang are believed to exert anti-inflammatory effects in the lungs through various mechanisms, including antioxidant activity, inhibition of pro-inflammatory cytokines, and modulation of immune responses. For example, Mangxiao and Dahuang may inhibit the production of reactive oxygen species (ROS) and reduce the expression of pro-inflammatory cytokines like TNF-α and IL-6, thereby alleviating lung inflammation. These mechanisms compare favorably to conventional COPD treatments such as corticosteroids and bronchodilators, which primarily focus on reducing inflammation and opening airways, respectively. However, the exact molecular pathways and specific active compounds responsible for the therapeutic effects of these herbs require further investigation to fully understand their potential in treating COPD.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What is the role of COX-1 in platelet function and thromboxane production, and how does its deletion specifically affect platelet biology and vascular homeostasis?",
+    "images_puretext": [
+      "PMC9359103_nihms-1825952-f0001.jpg"
+    ],
+    "gt": "COX-1 plays a crucial role in platelet function and thromboxane production, which are essential for hemostasis and clot formation. Thromboxane A2, a product of COX-1 activity, promotes platelet aggregation and vasoconstriction. Deletion of COX-1 specifically in platelets leads to the absence of thromboxane A2 production in these cells, potentially affecting their ability to aggregate and respond to injury. However, since COX-1 is still present in other tissues such as the endothelium, circulating levels of thromboxane A2 may remain relatively stable, preserving some aspects of vascular homeostasis. The higher circulating levels of 6-keto-PGF1α (a prostacyclin metabolite) in platelet-COX-1-ko mice suggest a compensatory mechanism where other sources of COX-1 continue to produce prostacyclin, which opposes thromboxane's effects and helps maintain vascular integrity.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the phosphorylation of Akt at residues S473 and T308 contribute to the pathogenesis of head and neck squamous cell carcinoma (HNSCC)?",
+    "images_puretext": [
+      "PMC4210546_40164_2014_94_Fig1_HTML.jpg"
+    ],
+    "gt": "Phosphorylation of Akt at residues S473 and T308 plays a crucial role in the pathogenesis of HNSCC by promoting cell survival, proliferation, and resistance to apoptosis. Akt is a key downstream effector of the PI3K/Akt/mTOR pathway, which is frequently dysregulated in various cancers, including HNSCC. Phosphorylation at S473 and T308 activates Akt, leading to the inhibition of pro-apoptotic proteins and the activation of prosurvival pathways. This results in enhanced tumor cell survival and proliferation, contributing to the aggressive nature of HNSCC. The higher phosphorylation at T308 compared to S473 in HNSCC suggests a more robust activation of Akt, which could be a potential therapeutic target for intervention.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the use of levonorgestrel intrauterine device (LNG-IUD) affect breast parenchymal enhancement (BPE) on dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI), and what are the implications for clinical interpretation?",
+    "images_puretext": [
+      "PMC9668774_330_2022_8809_Fig4_HTML.jpg"
+    ],
+    "gt": "The use of LNG-IUD has been shown to influence BPE on DCE-MRI. Specifically, LNG-IUD use can lead to increased BPE, as evidenced by higher BI-RADS categories (e.g., from MR-ACR 2 to MR-ACR 4). Conversely, removal of the LNG-IUD can result in decreased BPE (e.g., from MR-ACR 3 to MR-ACR 2). This highlights the need for clinicians to consider hormonal contraceptive use when interpreting DCE-MRI results, as these changes can impact the assessment of breast density and potential risk factors.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the potential implications of Hyccin-LacZ activity being restricted to neurons in the developing CNS, and how might this influence our understanding of neurodevelopmental processes?",
+    "images_puretext": [
+      "PMC3312879_pone.0032180.g003.jpg"
+    ],
+    "gt": "The restriction of Hyccin-LacZ activity to neurons in the developing CNS suggests that Hyccin may play a critical role in neuronal function or development. This could include processes such as synaptic formation, neurotransmission, or neuronal survival. Understanding the specific functions of Hyccin in neurons could provide insights into various neurodevelopmental disorders where neuronal differentiation and connectivity are impaired. Additionally, this localization pattern may guide future studies on the molecular mechanisms underlying neuronal-specific gene expression and the regulation of neural circuits during development.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the downregulation of Bit1 expression in non-small cell lung cancer (NSCLC) tissues compare to normal lung tissue, and what are the potential implications of this finding for diagnostic and prognostic contexts?",
+    "images_puretext": [
+      "PMC4086906_pone.0101564.g008.jpg"
+    ],
+    "gt": "Bit1 expression is significantly downregulated in NSCLC tissues compared to normal lung tissue, as evidenced by immunostaining analysis using a specific Bit1 antibody on lung tumor tissue arrays. This downregulation is consistently observed across different subtypes of NSCLC, including squamous cell carcinoma, adenocarcinoma, and large cell carcinoma. The statistical significance of this difference, confirmed through ANOVA and Tukey post-hoc analysis, suggests that Bit1 could serve as a potential biomarker for NSCLC. Further research is required to understand the role of Bit1 in lung carcinogenesis and its utility in diagnostic and prognostic contexts, potentially aiding in early detection and personalized treatment strategies.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the advantages of full-arch intraoral scanning over traditional methods for capturing dental arch data, especially in partially edentulous cases?",
+    "images_puretext": [
+      "PMC6342534_pnfs-23-309f4.jpg"
+    ],
+    "gt": "Full-arch intraoral scanning offers several advantages over traditional methods such as impressions with physical materials. It provides higher precision and detail, allowing for more accurate measurements and anatomical representation. The digital nature of the scans also facilitates easier storage, transfer, and integration with CAD/CAM systems for prosthetic design and fabrication. Additionally, intraoral scanning reduces the discomfort and risk of allergic reactions associated with traditional impression materials, and it can be completed more quickly, improving patient experience and efficiency in clinical workflows.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical clinical manifestations and genetic characteristics of Blau syndrome, and how do these features support its diagnosis?",
+    "images_puretext": [
+      "PMC8406922_12969_2021_633_Fig1_HTML.jpg"
+    ],
+    "gt": "Blau syndrome is an autoinflammatory disorder characterized by chronic granulomatous inflammation affecting multiple organs, particularly the eyes, joints, and skin. Typical clinical manifestations include uveitis, arthritis (often with camptodactyly), and skin lesions. Genetic testing reveals mutations in the NOD2 gene, which is inherited in an autosomal dominant pattern. This genetic inheritance explains the familial clustering observed in the patient's family, supporting the diagnosis of Blau syndrome. Early recognition and genetic testing are crucial for confirming the diagnosis and guiding appropriate management.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do micro-CT and histological imaging techniques contribute to the evaluation of bone regeneration in calvarial defects, and what statistical methods are typically used to compare the efficacy of different scaffolds?",
+    "images_puretext": [
+      "PMC7504496_ijms-21-06157-g0A3.jpg"
+    ],
+    "gt": "Micro-CT imaging provides a three-dimensional view of the bone structure, allowing for the assessment of the volume and density of newly formed bone. Histological imaging, on the other hand, offers detailed two-dimensional images that reveal the presence of collagen fibers, woven and mature bone tissue, and vascularization. These imaging techniques are crucial for quantifying and characterizing bone regeneration. To statistically compare the efficacy of different scaffolds, researchers often use one-way ANOVA to analyze the mean values of newly formed bone areas across groups, followed by Tukey's post hoc test to determine specific differences between pairs of groups. This approach helps in identifying which scaffolds are more effective in promoting bone regeneration.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does picrosirius staining help in assessing the structural integrity of the aorta, and what specific features can be identified using this technique?",
+    "images_puretext": [
+      "PMC7733454_41598_2020_78674_Fig6_HTML.jpg"
+    ],
+    "gt": "Picrosirius staining is a specialized histological technique that highlights collagen fibers in red, allowing for the detailed visualization of the extracellular matrix within tissues. This staining method helps in assessing the structural integrity of the aorta by revealing the distribution and organization of collagen fibers in the different layers of the aortic wall, including the tunica intima, media, and adventitia. Specifically, picrosirius staining can identify features such as the presence of thin collagenous fibers in the tunica media, which are interspersed among organized layers of smooth muscle cells and elastic lamellae, and the coarse collagen fibers in the tunica adventitia. By examining these features, pathologists can detect abnormalities such as fibrosis, necrosis, or alterations in the arrangement of elastic lamellae, which may indicate pathological changes in the aortic wall.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do neural crest cells (NCCs) contribute to normal heart development, and what are the implications of their disrupted condensation and endocardial epithelial-mesenchymal transition in Dullard mutants?",
+    "images_puretext": [
+      "PMC7069721_elife-50325-fig2-figsupp1.jpg"
+    ],
+    "gt": "Neural crest cells (NCCs) play a crucial role in heart development by contributing to various cardiac structures, including the outflow tract (OFT), conduction system, and valves. During normal development, NCCs migrate to the heart and undergo an epithelial-mesenchymal transition (EMT) to form the cushion mesenchyme, which is essential for the formation of the OFT septum. Disrupted condensation and EMT of NCCs in Dullard mutants lead to abnormal OFT development, resulting in defects such as asymmetrical endocardial breakdown and premature septation. These disruptions affect the proper formation of cardiac structures, leading to congenital heart defects and impaired heart function.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do GST-P and PCNA markers contribute to the assessment of hepatocyte proliferation, and what role does TUNEL staining play in identifying apoptotic cells?",
+    "images_puretext": [
+      "PMC9217852_41598_2022_14888_Fig4_HTML.jpg"
+    ],
+    "gt": "GST-P (glutathione S-transferase pi) and PCNA (proliferating cell nuclear antigen) are widely used markers in assessing hepatocyte proliferation. GST-P is often associated with oxidative stress and is a biomarker for early-stage hepatocellular carcinoma. PCNA, on the other hand, is a protein essential for DNA replication and is indicative of active cell division. TUNEL (terminal deoxynucleotidyl transferase dUTP nick end labeling) staining is a method used to identify apoptotic cells by detecting DNA fragmentation, a hallmark of programmed cell death. By combining these markers, researchers can evaluate the balance between cell proliferation and apoptosis, which is crucial for understanding the mechanisms underlying liver health and disease progression.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical sonographic findings associated with acute inflammation in muscle tissue, and how do these findings evolve over time as the inflammation resolves?",
+    "images_puretext": [
+      "PMC5155720_ijsc-9-239f3.jpg"
+    ],
+    "gt": "Acute inflammation in muscle tissue typically presents sonographically with increased echogenicity, heterogeneous texture, and the presence of hypoechoic regions, which indicate areas of fluid accumulation or edema. Over time, as inflammation resolves, these hypoechoic regions diminish in size and number, and the overall muscle texture becomes more homogeneous. This evolution reflects the body's natural healing processes, including reduction in edema, resolution of inflammatory cells, and regeneration of muscle fibers.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does beta-band activity in the sensorimotor and prefrontal areas relate to cognitive processing and motor control, and what implications might reduced beta-band activity have during periods of perceived threat?",
+    "images_puretext": [
+      "PMC10684633_13415_2023_1132_Fig2_HTML.jpg"
+    ],
+    "gt": "Beta-band activity (14-30 Hz) is associated with cognitive processing and motor control. It reflects active engagement in tasks requiring attention, working memory, and executive functions. Reduced beta-band activity in the sensorimotor and prefrontal areas during periods of perceived threat suggests a shift in neural activity patterns, potentially indicating a disengagement from ongoing cognitive tasks and motor preparation. This reduction may reflect a state of heightened alertness and readiness to respond to unexpected events, as the brain prioritizes threat-related processing over routine cognitive and motor functions.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do Nissl and myelin basic protein (MBP) staining techniques contribute to understanding the cytoarchitecture and myeloarchitecture of the primary sensory cortices?",
+    "images_puretext": [
+      "PMC5840148_fnagi-10-00052-g0001.jpg"
+    ],
+    "gt": "Nissl staining highlights the cellular structure by staining the cell bodies of neurons, providing insights into the distribution and density of neuronal somata within the cortex. Myelin basic protein (MBP) staining delineates myelinated fibers, allowing visualization of the white matter tracts and the extent of myelination in the cortex. Together, these techniques provide comprehensive information on the structural organization of the primary sensory cortices, enabling researchers to assess the stability of these regions across different ages.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What mechanisms might underlie the anti-metastatic effects of JG6 in breast cancer, and how do these mechanisms contribute to the reduction in pulmonary metastatic nodules?",
+    "images_puretext": [
+      "PMC4116503_oncotarget-05-3568-g005.jpg"
+    ],
+    "gt": "JG6 likely exerts its anti-metastatic effects through several mechanisms, including inhibition of tumor cell invasion and migration. By targeting pathways involved in cell adhesion, motility, and angiogenesis, JG6 can prevent cancer cells from detaching from the primary tumor and invading surrounding tissues. Additionally, JG6 may interfere with the ability of cancer cells to form new blood vessels, thereby limiting their ability to establish secondary tumors in distant organs like the lungs. These combined actions result in a significant reduction in the number and size of pulmonary metastatic nodules observed in the animal model.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does doxorubicin (DOX) induce neuronal damage, and what mechanisms might explain the neuroprotective effects of CeNPs in mitigating this damage?",
+    "images_puretext": [
+      "PMC9394293_pharmaceuticals-15-00918-g004.jpg"
+    ],
+    "gt": "Doxorubicin (DOX) induces neuronal damage through several mechanisms, including oxidative stress, DNA damage, and disruption of cellular metabolism. It leads to enlarged nuclei with blebs, loss of nucleoli, and irregular mitochondria, indicative of cellular stress and apoptosis. CeNPs (cetyltrimethylammonium bromide nanoparticles) mitigate this damage by providing antioxidant properties, stabilizing the nuclear envelope, and preserving mitochondrial function. This protection helps maintain the integrity of neuronal organelles and reduces the severity of axonal degeneration, thereby preserving neuronal function and structure.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does proper threshold-based segmentation using a bounding box contribute to the accurate identification and analysis of lesions in medical imaging?",
+    "images_puretext": [
+      "PMC10755524_jnumed.122.265340f7.jpg"
+    ],
+    "gt": "Proper threshold-based segmentation using a bounding box contributes significantly to the accurate identification and analysis of lesions in medical imaging by isolating the region of interest (ROI) from surrounding structures. This technique allows for precise delineation of the lesion, minimizing the risk of including adjacent tissues with similar uptake patterns. By setting appropriate thresholds, one can ensure that only the relevant tissue or lesion is analyzed, thereby improving diagnostic accuracy and reducing the likelihood of false positives or negatives. Additionally, accurate segmentation facilitates quantitative analysis, such as measuring lesion volume or assessing changes over time, which is crucial for monitoring disease progression or treatment efficacy.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do different fluorescent tags, such as mEOS2 and tdEOS, affect the assembly dynamics and clustering of HIV-1 Gag proteins, and what are the implications for the structural integrity of the Gag lattice?",
+    "images_puretext": [
+      "PMC6357049_viruses-11-00072-g002.jpg"
+    ],
+    "gt": "Different fluorescent tags can significantly influence the assembly dynamics and clustering of HIV-1 Gag proteins. For instance, the mEOS2 tag typically forms smaller, more defined clusters, whereas the tdEOS tag tends to lead to larger, potentially disruptive clusters. These differences can impact the structural integrity of the Gag lattice, as larger clusters might interfere with proper lattice formation and stability. Therefore, the choice of fluorescent tag is crucial for accurately studying the assembly process and ensuring valid results. Careful selection and optimization of experimental conditions are essential to minimize phototoxicity and preserve the natural assembly dynamics of Gag proteins.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the common causes of the double-bubble sign on an abdominal X-ray, and how is annular pancreas typically diagnosed and managed?",
+    "images_puretext": [
+      "PMC6696746_rb-52-04-0275-g01.jpg"
+    ],
+    "gt": "The double-bubble sign on an abdominal X-ray is commonly caused by duodenal obstruction, which can result from various conditions including annular pancreas, duodenal atresia, and congenital bands. Annular pancreas is typically diagnosed through imaging modalities such as ultrasound, which can identify the presence of pancreatic tissue surrounding the duodenum. Management of annular pancreas generally involves surgical intervention, such as duodenoduodenostomy, to bypass the obstruction and restore normal gastrointestinal function. Postoperative outcomes are usually favorable when the condition is correctly identified and treated promptly.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do mutations in the Wnt signaling pathway affect the growth and maintenance of tumor organoids derived from colorectal cancer patient samples?",
+    "images_puretext": [
+      "PMC7433887_pone.0235319.g001.jpg"
+    ],
+    "gt": "Mutations in the Wnt signaling pathway, particularly in genes like APC and CTNNB1, can significantly impact the growth and maintenance of tumor organoids. APC mutations lead to the accumulation of β-catenin, a key component of the Wnt pathway, which promotes cell proliferation and survival. CTNNB1 mutations result in constitutive activation of β-catenin, further enhancing these effects. In the context of organoid culture, these mutations may necessitate the presence of additional growth factors, such as Wnt and R-spondin, to support organoid growth. Understanding these genetic alterations is crucial for developing targeted therapies and modeling disease progression accurately in vitro.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do SUVmax values from [68Ga]Ga-ABY-025 PET/CT and [18F]F-FDG PET/CT contribute to the assessment of treatment response in patients with HER2-positive disease?",
+    "images_puretext": [
+      "PMC10478820_jnumed.122.265364f3.jpg"
+    ],
+    "gt": "SUVmax values provide quantitative measures of tracer uptake in tumors, which can indicate the level of tumor activity. In [68Ga]Ga-ABY-025 PET/CT, high SUVmax values correlate with active disease, while lower values might suggest a reduced metabolic activity. After treatment, a decrease in [18F]F-FDG PET/CT SUVmax values signifies a positive response, indicating reduced tumor metabolism. Conversely, an increase in SUVmax values on [18F]F-FDG PET/CT suggests disease progression, even after targeted therapy. Heterogeneous SUVmax values across different lesions can indicate varying responses to treatment within the same patient, providing valuable insights for personalized therapeutic approaches.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical clinical signs and imaging findings of acute epiglottitis, and what are the primary treatment modalities used to manage this condition?",
+    "images_puretext": [
+      "PMC10444310_rjad481f2.jpg"
+    ],
+    "gt": "Acute epiglottitis typically presents with symptoms such as fever, dyspnea, stridor, hoarseness, and drooling. Clinical signs include a swollen epiglottis with pus extruding from the aryepiglottic folds, as seen on laryngoscopic examination. Imaging findings, such as lateral neck radiography and CT, may reveal a swollen epiglottis and multiloculated abscesses involving the epiglottis, paraglottic, and parapharyngeal spaces. Immediate interventions include emergency intubation to secure the airway, followed by surgical drainage and initiation of broad-spectrum antibiotics, such as ceftriaxone and metronidazole. Regular follow-up is essential to ensure complete resolution and recovery.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do different types of benign liver lesions manifest under fluorescence imaging, and what are the underlying mechanisms of indocyanine green (ICG) uptake in these lesions?",
+    "images_puretext": [
+      "PMC5199623_464_2016_5007_Fig4_HTML.jpg"
+    ],
+    "gt": "Different types of benign liver lesions manifest differently under fluorescence imaging. Cysts typically do not show up under fluorescence, while bile duct hamartomas exhibit weak fluorescence without a distinct rim-type pattern, helping to distinguish them from malignant tumors. Focal nodular hyperplasia (FNH) also demonstrates near-infrared (NIR) fluorescence. The mechanism of ICG uptake in these lesions is not fully understood but may involve disturbances in biliary excretion and molecular mechanisms such as immature hepatocytes and anion transporter down-regulation. These variations in fluorescence patterns provide important insights into the nature of the lesions and aid in surgical decision-making.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does serum amyloid A (SAA) influence tissue factor (TF) accumulation in renal tissues, and what are the potential clinical implications of this interaction?",
+    "images_puretext": [
+      "PMC6416175_fimmu-10-00380-g0008.jpg"
+    ],
+    "gt": "Serum amyloid A (SAA) promotes the accumulation of tissue factor (TF) in renal tissues, leading to increased TF expression compared to controls treated with lipopolysaccharide (LPS) or sterile PBS. This interaction can contribute to renal pathology, potentially exacerbating conditions such as thrombosis and inflammation. Clinically, understanding this mechanism could inform the development of targeted therapies aimed at modulating SAA levels or TF expression to prevent renal damage.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the potential complications and outcomes associated with bilateral total hip arthroplasty, and how do these compare between patients who use closed suction drainage (CSD) and those who do not?",
+    "images_puretext": [
+      "PMC9181737_ijms-23-06273-g005.jpg"
+    ],
+    "gt": "Potential complications of bilateral total hip arthroplasty include periprosthetic joint infections, periprosthetic fractures, and iliopsoas tenotomy due to chronic inguinal pain. Outcomes such as Harris Hip Score (HHS), UCLA activity score, patient satisfaction, and combined range of motion (ROM) are important metrics for evaluating surgical success. Studies comparing patients who use closed suction drainage (CSD) and those who do not have shown no significant differences in these metrics at final follow-up. Both groups had similar implant survival rates, with minor differences in specific complications, such as periprosthetic joint infections and femoral component revisions. Overall, both approaches can lead to successful long-term outcomes with minimal complications when proper surgical techniques are employed.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the TT-TG distance relate to the risk of patellar instability, and what are the clinical implications of an increased TT-TG measurement?",
+    "images_puretext": [
+      "PMC7183663_13018_2020_1661_Fig1_HTML.jpg"
+    ],
+    "gt": "The TT-TG distance is a critical measurement in assessing the risk of patellar instability. An increased TT-TG distance indicates a greater lateral pull on the patella, which can lead to patellar dislocation. Clinically, an elevated TT-TG measurement suggests a higher likelihood of patellar instability and may necessitate further diagnostic evaluations, such as additional imaging studies or physical examinations. Surgical interventions might be considered if conservative management fails, aiming to realign the patella and improve knee stability.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do enhanced CT scans contribute to the characterization of liver masses, and what specific imaging features suggest malignancy or metastatic disease?",
+    "images_puretext": [
+      "PMC2687661_kjim-22-283-g001.jpg"
+    ],
+    "gt": "Enhanced CT scans are essential for characterizing liver masses by providing detailed information about the size, shape, and enhancement pattern of the lesions. Specific imaging features that suggest malignancy or metastatic disease include ill-defined margins, irregular shapes, and dynamic enhancement patterns. For example, a mass that enhances heterogeneously on the arterial phase and washes out on the portal venous phase is more indicative of malignancy. Additionally, the presence of multiple masses, particularly those involving both the liver parenchyma and the porta hepatis, can suggest metastatic disease or primary malignancies like hepatocellular carcinoma and cholangiocarcinoma. These imaging features guide further diagnostic steps, such as biopsy or additional imaging studies, to confirm the nature and extent of the lesions.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the typical imaging features and management strategies for acute ischemic stroke following endovascular thrombectomy?",
+    "images_puretext": [
+      "PMC8133088_CCR3-9-e04246-g001.jpg"
+    ],
+    "gt": "Typical imaging features of acute ischemic stroke include low-density areas on non-contrast CT scans, representing ischemic changes in the affected brain regions. Management strategies post-endovascular thrombectomy include continuous monitoring for signs of reperfusion and complications such as intracerebral hemorrhage. Anticoagulation or antiplatelet therapies like aspirin are often initiated to prevent further clot formation. Neurological assessments are conducted regularly to evaluate recovery and detect any residual deficits. In cases with residual arterial stenosis, interventions like carotid artery stenting may be considered to reduce future stroke risk.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key challenges in detecting stent struts using different versions of 3D reconstruction systems, and how do these challenges impact the clinical decision-making process?",
+    "images_puretext": [
+      "PMC7497438_12928_2019_629_Fig4_HTML.jpg"
+    ],
+    "gt": "Detecting stent struts using different versions of 3D reconstruction systems presents several challenges. Variations in software algorithms can lead to discrepancies in stent strut visualization, with some versions failing to accurately detect or reconstruct struts, especially in complex configurations such as bifurcations. This can result in false negatives, where stent struts are missed, or false positives, where artifacts are misinterpreted as struts. Such inaccuracies can significantly impact clinical decision-making by potentially leading to incorrect assessments of stent placement, incomplete identification of complications, and suboptimal treatment planning. Ensuring robust validation and standardization of these systems is crucial to minimize these challenges and improve patient outcomes.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do Bruton's tyrosine kinase (BTK) inhibitors affect the phagocytic ability and ROS production in immune cells, and what are the clinical implications of these effects?",
+    "images_puretext": [
+      "PMC6443008_oncotarget-10-1943-g006.jpg"
+    ],
+    "gt": "BTK inhibitors, such as ibrutinib, target the BTK signaling pathway, which plays a critical role in various immune cell functions, including phagocytosis and ROS production. Inhibiting BTK can lead to reduced phagocytic ability in certain immune cells, such as inflammatory monocytes (IIF), particularly against E. coli, while enhancing phagocytosis of zymosan, indicating differential modulation of bacterial versus fungal phagocytosis pathways. Additionally, BTK inhibition increases ROS production in IIF, which can contribute to inflammation and oxidative stress. Clinically, these effects can influence the efficacy of BTK inhibitors in treating conditions like chronic lymphocytic leukemia (CLL) and Waldenström macroglobulinemia, where BTK inhibition is beneficial. However, they also raise concerns about potential side effects related to altered immune responses and increased oxidative stress, necessitating careful monitoring and management of patients receiving these therapies.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does dendritogenesis contribute to the process of melanogenesis in melanocytes, and what are the potential therapeutic implications of enhancing dendritic branching?",
+    "images_puretext": [
+      "PMC4425108_ijms-16-08772-g001a.jpg"
+    ],
+    "gt": "Dendritogenesis in melanocytes plays a crucial role in melanogenesis by facilitating the distribution of melanin to keratinocytes. Enhanced dendritic branching allows for better contact and transfer of melanin granules, leading to uniform pigmentation and protection against UV damage. Therapeutically, enhancing dendritic branching could be beneficial in conditions like vitiligo, where dendritic extensions are compromised, leading to patchy depigmentation. By promoting dendritic growth, treatments could improve pigment distribution and enhance skin color uniformity.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does matrix rigidity influence the expansion of myelin membrane sheets in oligodendrocytes, and what are the implications for myelination processes?",
+    "images_puretext": [
+      "PMC2760528_1471-2121-10-71-3.jpg"
+    ],
+    "gt": "Matrix rigidity significantly influences the expansion of myelin membrane sheets in oligodendrocytes. Higher matrix rigidity is associated with reduced myelin membrane sheet expansion, while lower rigidity promotes increased expansion. This mechanical cue is critical for understanding myelination processes, as it affects the extent and efficiency of myelin formation around axons. Therapeutically, manipulating matrix rigidity could be explored to enhance myelination in conditions where myelin loss occurs, such as in multiple sclerosis or other demyelinating diseases.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do TGF-β isoforms differentially regulate tissue repair and inflammation following ischemic injury, and what are the potential mechanisms underlying these effects?",
+    "images_puretext": [
+      "PMC3466286_pone.0046731.g003.jpg"
+    ],
+    "gt": "TGF-β isoforms (TGF-β1, TGF-β2, and TGF-β3) play distinct roles in tissue repair and inflammation after ischemic injury. TGF-β1 is highly induced and plays a central role in promoting fibrosis and wound healing by stimulating the production of extracellular matrix proteins and suppressing inflammatory responses. It also influences immune cell recruitment and activation, contributing to both pro-inflammatory and anti-inflammatory phases. TGF-β2 and TGF-β3 have more localized and less pronounced effects; TGF-β2 is involved in neuronal survival and axonal regeneration, while TGF-β3 is associated with glial cell proliferation and scar formation. The differential regulation of these isoforms suggests a complex interplay between promoting tissue repair and modulating inflammatory responses, which can influence the overall outcome of ischemic injury.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does MCP-1 contribute to the recruitment of monocytes/macrophages in verruciform xanthoma, and what is the significance of this chemotactic activity in the pathogenesis of the lesion?",
+    "images_puretext": [
+      "PMC3469401_1752-1947-6-260-2.jpg"
+    ],
+    "gt": "MCP-1 (Monocyte Chemoattractant Protein-1) plays a critical role in the recruitment of monocytes/macrophages to sites of inflammation. It acts as a potent chemokine that attracts these cells to areas where there is ongoing tissue damage or infection. In verruciform xanthoma, MCP-1 expression in differentiating keratinocytes and macrophage clusters suggests an active inflammatory response. The chemotactic activity of MCP-1 is significant because it helps to orchestrate the local immune response, facilitating the accumulation of monocytes/macrophages that contribute to the characteristic histological features of the lesion, such as the presence of foamy cells. Understanding this process is essential for elucidating the pathogenesis of verruciform xanthoma and potentially identifying therapeutic targets to modulate the inflammatory response.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do fractional anisotropy (FA) and mean diffusivity (MD) values typically change in white matter tracts affected by neurological disorders, and what clinical implications might these changes have?",
+    "images_puretext": [
+      "PMC5956038_13671_2018_218_Fig7_HTML.jpg"
+    ],
+    "gt": "Fractional Anisotropy (FA) measures the directionality of water diffusion in tissues and is typically reduced in white matter tracts affected by neurological disorders due to increased isotropic diffusion caused by axonal damage or demyelination. Mean Diffusivity (MD) is an overall measure of diffusion and generally increases in pathological states as a result of edema or tissue destruction. Reduced FA and increased MD values can indicate early stages of neurodegeneration, inflammation, or other pathological processes. Clinically, these changes can help diagnose conditions like multiple sclerosis, Alzheimer's disease, and other neurodegenerative disorders, guiding treatment decisions and monitoring disease progression.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do hemorrhage, edema, and exudate/fibrin deposits contribute to the assessment of lung injury severity, and what are the typical histopathological features associated with each?",
+    "images_puretext": [
+      "PMC10750358_fcimb-13-1297281-g001.jpg"
+    ],
+    "gt": "Hemorrhage, edema, and exudate/fibrin deposits are crucial indicators of lung injury severity. Hemorrhage is characterized by the presence of red blood cells in the lung tissue, indicating vascular damage. Edema refers to fluid accumulation in the alveoli, reflecting impaired gas exchange and fluid regulation. Exudate/fibrin deposits are signs of an inflammatory response, where fibrin forms clots within the alveoli. Histopathologically, hemorrhage ranges from absent to severe, with red blood cells covering over 50% of the lung section. Edema progresses from mild streaked patterns to abundant fluid filling the alveoli entirely. Exudate/fibrin deposits start as none and progress to patchy coverage exceeding 50% of the section. These features help clinicians assess the extent of lung injury and guide appropriate treatment decisions.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the antibodies used in molecular profiling (pan-cytokeratin, Ki-67, Desmin, and SYTO-83) contribute to distinguishing between benign and malignant lesions in colorectal cancer studies?",
+    "images_puretext": [
+      "PMC10816845_ijms-25-01103-g005.jpg"
+    ],
+    "gt": "Pan-cytokeratin highlights the overall cellular structure and helps identify epithelial cells. Ki-67 staining indicates cell proliferation, with higher expression typically seen in more aggressive cancers. Desmin marks muscle differentiation, which can help distinguish between normal muscle tissue and areas affected by cancer. SYTO-83 stains DNA, providing information on the nuclear content and potential aneuploidy, which is often associated with malignancy. Together, these markers offer a comprehensive view of cellular characteristics and help differentiate between benign and malignant lesions by highlighting differences in cell structure, proliferation rates, and genetic alterations.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  }
+]

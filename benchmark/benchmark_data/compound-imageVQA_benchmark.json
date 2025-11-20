@@ -1,0 +1,502 @@
+[
+  {
+    "question": "How does the presence of newborn neurons (Tuj-1+ cells) in the lesion site of canines treated with the NeuroRegen scaffold combined with MSCs compare to other groups, and what does this indicate about neuroregeneration?",
+    "images": [
+      "PMC5337930_srep43559-f2.jpg"
+    ],
+    "gt": "The NeuroRegen scaffold combined with MSCs resulted in a significantly higher number of newborn neurons (Tuj-1+ cells) in the lesion site compared to the control and non-functionalized scaffold groups. This indicates enhanced neurogenesis and suggests that the combination therapy promotes neural regeneration and potentially improves functional recovery.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the distribution of CD11c+ dendritic cells correlate with the severity of experimental autoimmune encephalomyelitis (EAE) in the compound figure?",
+    "images": [
+      "PMC3533869_1742-2094-9-245-1.jpg"
+    ],
+    "gt": "The distribution of CD11c+ dendritic cells correlates with the severity of EAE. In mice with more severe EAE, there is increased accumulation of DCs in CNS lesions, particularly around blood vessels and demyelinating areas marked by anti-MBP antibodies. This suggests that DCs migrate to CNS lesions in response to inflammation, potentially contributing to antigen presentation and disease progression.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What were the key findings and surgical interventions observed in the intraoperative and postoperative imaging of Fig-0?",
+    "images": [
+      "PMC4717593_13019_2016_408_Fig2_HTML.jpg"
+    ],
+    "gt": "The intraoperative imaging revealed severe stenotic changes and thickened ascending aorta with diseased aortic valve cusps and an aneurysmal change at the left ventricular apex. The surgical interventions included median sternotomy, cardiopulmonary bypass, and aortic root replacement with a 19-mm SJM Regent valve. Postoperative 3D CT imaging confirmed successful repair but also noted slight stenosis of the innominate artery and abdominal aorta shrinkage.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does overexpression of Dectin-1 in RAW 264.7 macrophages affect the binding of *Pneumocystis carinii* and subsequent MIP-2 production?",
+    "images": [
+      "PMC2194130_20030932f7a.jpg"
+    ],
+    "gt": "Overexpression of Dectin-1 in RAW 264.7 macrophages significantly enhances the binding of *Pneumocystis carinii* and leads to increased MIP-2 production. This indicates a stronger inflammatory response to the fungal infection, highlighting the critical role of Dectin-1 in the immune system's recognition and response to *P. carinii*.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the quantification of Sox2 and atoh1a+ expression reveal about the relationship between these markers in the identified epidermal cell population?",
+    "images": [
+      "PMC9901935_elife-85800-fig1-figsupp3.jpg"
+    ],
+    "gt": "The quantification reveals that 99% of atoh1a:nls-Eos+ cells express Sox2, and 70% of Sox2+ cells are atoh1a+. This indicates a strong association between Sox2 and atoh1a expression in the identified epidermal cell population, suggesting a key role for Sox2 in the differentiation and function of these cells, which are likely Merkel cells (MCs).",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the consequences of HCP-6 depletion on chromosome segregation during meiosis I and II in *C. elegans*?",
+    "images": [
+      "PMC2172564_200408061f3.jpg"
+    ],
+    "gt": "Depletion of HCP-6 leads to the formation of DNA bridges between segregating chromosomes during anaphase stages of both meiosis I and II, resulting in defective chromosome segregation. This effect is more pronounced during meiosis II, indicating that condensin is crucial for proper homologue segregation in meiosis I but is even more critical for sister chromatid segregation in meiosis II.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does single-voxel thresholding compare to mean rCBV from nine-voxel ROIs in depicting the histologic tumor fraction in recurrent GBM biopsies?",
+    "images": [
+      "PMC3379799_nos11204.jpg"
+    ],
+    "gt": "Single-voxel thresholding depicts the histologic tumor fraction more accurately than the mean rCBV from nine-voxel ROIs. It provides a nine-fold higher spatial resolution and better captures the variability in rCBV values, leading to a more precise identification of tumor subregions within biopsy samples.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key histological and immunohistochemical features that support the diagnosis of dedifferentiated liposarcoma in Fig-0?",
+    "images": [
+      "PMC5064295_rt-2016-3-6282-g002.jpg"
+    ],
+    "gt": "The key histological features supporting the diagnosis of dedifferentiated liposarcoma include sheets of atypical spindle cells with hyperchromatic nuclei and moderate amounts of amphophilic cytoplasm, the presence of osteosarcomatous differentiation with tumoral osteoid and osteocytes, marked atypia, necrosis, and a high mitotic index. Immunohistochemical findings include strong nuclear expression of CDK4 and p16 positivity, along with MDM2 gene amplification confirmed by FISH.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do apical ruffles observed in the live-imaged micro-patterned Lifeact-MDCK cells provide insights into actin dynamics and cellular processes?",
+    "images": [
+      "PMC5442143_JOA-230-766-g003.jpg"
+    ],
+    "gt": "Apical ruffles in live-imaged micro-patterned Lifeact-MDCK cells indicate active actin polymerization and cytoskeletal rearrangements. These ruffles suggest ongoing cellular processes such as membrane trafficking and cell motility, which are crucial for understanding cell polarity, adhesion, and morphogenesis in epithelial tissues. The dynamics observed in these ruffles provide valuable insights into the underlying mechanisms of actin dynamics and cellular behavior.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What morphological changes are observed in RpoS-deficient spirochetes compared to wild-type spirochetes during the later stages of feeding?",
+    "images": [
+      "PMC3280991_ppat.1002532.g004.jpg"
+    ],
+    "gt": "During the later stages of feeding, RpoS-deficient spirochetes transform into round bodies with irregular vesicles and protoplasmic cylinders, whereas wild-type spirochetes form confluent networks. This transformation highlights the role of RpoS in maintaining normal spirochete morphology and localization within the midgut environment.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What were the key findings from the autopsy that contributed to determining the cause of death in Fig-0?",
+    "images": [
+      "PMC5448248_HV-18-26-g005.jpg"
+    ],
+    "gt": "The autopsy findings included a massive right pulmonary hemorrhagic infarct caused by pulmonary thromboemboli, extensive pleural adhesions, and a hypertrophied left ventricle with a fibrocalcific constrictive annular band, all of which contributed to determining the cause of death.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the compound figure reveal about the structural characteristics and visualization techniques of amyloid fibrils?",
+    "images": [
+      "PMC9172111_d2sc00645f-f4.jpg"
+    ],
+    "gt": "The compound figure shows that amyloid fibrils have a cross-β-sheet structure with β-strands forming intermolecular β-sheets orthogonal to the fiber axis. Negative-stain electron microscopy (EM) visualizes these fibrils, revealing their characteristic morphology and organization. This visualization technique helps in understanding the molecular architecture of amyloid fibrils and their roles in biological processes, such as biofilm formation.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does onabotulinumtoxin-A (BoNT-A) injection affect the percentage of contractile material in muscle tissue, and how does HMB supplementation influence this effect?",
+    "images": [
+      "PMC8638725_JRM-53-9-2820-g003.jpg"
+    ],
+    "gt": "Onabotulinumtoxin-A (BoNT-A) injection significantly reduces the percentage of contractile material in muscle tissue, decreasing it from 93 ± 5% in the control group to 75 ± 16% in the BoNT-A group. HMB supplementation partially mitigates this effect, resulting in 85 ± 4% contractile material in the BoNT-A+HMB group. This suggests that BoNT-A decreases muscle contractility, and HMB can slightly counteract this reduction.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key histopathological and functional changes observed in the LPS-induced sepsis model compared to the control group?",
+    "images": [
+      "PMC6091847_10.1177_0300060517737434-fig3.jpg"
+    ],
+    "gt": "In the LPS-induced sepsis model, key histopathological changes include haemorrhage, oedema, and rupture of myocardial fibers in the left ventricle anterior wall. Functionally, there is a significant decrease in cardiac output and stroke volume, an increase in lactate levels, and a greater need for fluid resuscitation. These changes underscore the severe tissue damage and inflammation associated with sepsis, leading to impaired cardiac function.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What structural differences are observed between control and PRPF31-mutated iRPE cells in the compound figure?",
+    "images": [
+      "PMC9381579_41536_2022_235_Fig2_HTML.jpg"
+    ],
+    "gt": "In the compound figure, control iRPE cells exhibit the presence of desmosomes and basal membranes, while PRPF31-mutated iRPE cells (specifically Cys247X) lack these structures. Both cell types have apical microvilli and basal nuclei, and tight junctions are present in both, but the absence of desmosomes and basal membranes in the mutated cells indicates impaired cell-to-cell adhesion and polarization.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does docosahexaenoic acid (DHA) treatment affect GPR120 expression in pediatric NAFLD patients, and what does this imply for potential therapeutic strategies?",
+    "images": [
+      "PMC3913708_pone.0088005.g002.jpg"
+    ],
+    "gt": "Docosahexaenoic acid (DHA) treatment leads to a significant increase in GPR120 expression in hepatocytes of pediatric NAFLD patients. This finding suggests that DHA might have a therapeutic role in managing NAFLD by enhancing GPR120 expression, which is associated with improved lipid metabolism and reduced inflammation.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of the T1-driven image registration pipeline illustrated in Fig-0?",
+    "images": [
+      "PMC7779564_gr1.jpg"
+    ],
+    "gt": "The primary purpose of the T1-driven image registration pipeline is to normalize and align Magnetization Transfer (MT) images across multiple subjects, creating a consistent study-wise template and ultimately a group template. This process ensures accurate registration, enabling reliable visualization and segmentation of specific brain structures like the Locus Coeruleus (LC).",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key findings regarding the anatomical relationship between the SLF I and the cingulum as depicted in the compound figure?",
+    "images": [
+      "PMC9093186_fneur-13-794618-g0003.jpg"
+    ],
+    "gt": "The compound figure shows that the SLF I and the cingulum have a great proximity in their fiber tracts. The study by Wang et al. suggests that SLF I is indistinguishable from the cingulum and proposes excluding SLF I from the definition of the SLF, which now consists of dorsal (SLF II) and ventral (SLF III) segments. This anatomical insight is crucial for understanding brain connectivity and diagnosing neurological disorders affecting these pathways.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the different dose rate calculation methods (ADR, DADR, DTDR) and their corresponding DRVHs in Fig-0 affect the interpretation of dose rate distribution in proton therapy?",
+    "images": [
+      "PMC8616118_cancers-13-05790-g002.jpg"
+    ],
+    "gt": "In Fig-0, the dose rate calculation methods (ADR, DADR, DTDR) reveal distinct quantitative results, with DADR yielding the highest dose rates in most voxels, followed by DTDR and ADR. The corresponding DRVHs confirm these observations, showing differences in dose rate distributions. These differences are crucial for understanding the precise dose delivery in proton therapy and optimizing treatment plans, especially when aggregating dose rates and voxels from multiple fields for DRVH calculations, such as determining V40Gy/s.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the presence of *Legionella pneumophila* affect the digestion process of *Wolbachia magna* as shown in the compound image?",
+    "images": [
+      "PMC7829821_microorganisms-09-00174-g003.jpg"
+    ],
+    "gt": "The presence of *Legionella pneumophila* disrupts the digestion process of *Wolbachia magna*. When other bacterial strains are unavailable, W. magna phagocytoses L. pneumophila, leading to intracellular growth observed after 72 hours in many trophozoites. Additionally, the presence of *E. coli* does not affect W. magna's growth or activity, but it slows down the digestion process when W. magna contains L. pneumophila",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the differential labeling by MF20 and A4.1025 reveal about the myocardial segments in the dogfish heart?",
+    "images": [
+      "PMC6558913_12983_2019_318_Fig1_HTML.jpg"
+    ],
+    "gt": "The differential labeling by MF20 and A4.1025 reveals distinct MyHC isoform expression patterns across various myocardial segments in the dogfish heart. MF20 uniformly labels the atrial, conal, and ventricular myocardium, whereas A4.1025 specifically labels the sinus venosus, atrium, and the apex of the ventricle, suggesting different functional and structural properties among these segments.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the histological features of the seminiferous tubules differ between the cisplatin-treated group and the combined treatment group (CMBG)?",
+    "images": [
+      "PMC8074130_animals-11-01142-g009.jpg"
+    ],
+    "gt": "The cisplatin-treated group exhibits thickened basement membranes, reduced germinal lining, and fewer spermatozoa, indicative of testicular dysfunction. In contrast, the combined treatment group (CMBG) shows mildly thickened basement membranes, average germinal lining with full spermatogenesis, and normal interstitium with average Leydig cells, indicating partial restoration of normal testicular function.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the differential expression of ERdj8 in RGK1 and RGM1 cells affect the phagosome size, as shown in Fig-0?",
+    "images": [
+      "PMC10684771_42003_2023_5598_Fig7_HTML.jpg"
+    ],
+    "gt": "The higher expression level of ERdj8 in RGK1 cells, indicated by an 11% higher average fluorescence intensity, correlates with larger phagosomes (0.3–2 μm) compared to the smaller phagosomes (~0.3 μm) in RGM1 cells. This suggests that ERdj8 plays a critical role in regulating phagosomal function and size.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the compound image reveal about the success of stent implantation and the status of the left anterior descending artery (LAD)?",
+    "images": [
+      "PMC10154107_JTHC-17-249-g002.jpg"
+    ],
+    "gt": "The compound image shows successful stent implantation and post-dilation in the LMCA and circumflex artery, with good flow and suitable stent expansion. However, it also reveals an occlusion at the ostial section of the LAD, indicating incomplete revascularization and the need for additional interventions to prevent myocardial damage.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key features of intraplaque neoangiogenesis observed in the compound image?",
+    "images": [
+      "PMC10741508_biomedicines-11-03275-g001.jpg"
+    ],
+    "gt": "The key features of intraplaque neoangiogenesis observed in the compound image include the presence of newly formed vessels with reduced or collapsed lumens, dilated branching vessels with irregular lumens, and a lack of smooth muscle actin (SMA)-positive smooth muscle cells or discontinuous coverage. Additionally, revascularized plaques exhibit thin-walled neovascularized vessels lined by CD31-positive endothelium, along with endothelial cell buds, indicating ongoing angiogenesis.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does mefenamic acid (MFA) treatment affect the infarct volume and total ischemic damage in MCAO-induced ischemic stroke?",
+    "images": [
+      "PMC6374636_fnins-13-00064-g002.jpg"
+    ],
+    "gt": "Mefenamic acid (MFA) treatment at 1 mg/kg significantly reduces total ischemic damage by 47% and infarct volume by 80% compared to vehicle-treated controls. Additionally, MFA notably reduces edema volume by 54%, highlighting its neuroprotective effects in reducing brain damage following MCAO.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the subcellular localization of SK2 change with different levels of SK2 overexpression in NIH3T3 cells?",
+    "images": [
+      "PMC5323123_oncotarget-07-64886-g005.jpg"
+    ],
+    "gt": "In NIH3T3 cells, low-level SK2 overexpression leads to plasma membrane localization, while high-level overexpression results in strong nuclear localization. This localization pattern was confirmed through immunofluorescence staining and confocal microscopy, highlighting how varying expression levels influence SK2's subcellular distribution and functional roles.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do hp-lysate (HPL) and polyP affect the outgrowth of epithelial cells from corneo-scleral explants compared to control conditions?",
+    "images": [
+      "PMC9066647_c9ra04409d-f3.jpg"
+    ],
+    "gt": "In the presence of hp-lysate (HPL), there is a significant increase in cell density around the explants by day 1, which intensifies by days 2 and 3. PolyP induces even more extensive multilayered cell outgrowth. In contrast, under control conditions without any supplements, minimal cell outgrowth is observed. These findings highlight the role of HPL and polyP in promoting cellular proliferation and migration, which is crucial for understanding ocular surface regeneration.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key observations regarding the behavior and migration patterns of porcine brain endothelial cells (PBECs) as shown in the compound figure?",
+    "images": [
+      "PMC3694295_gr2.jpg"
+    ],
+    "gt": "The key observations include rapid initial attachment of capillary fragments to a collagen/fibronectin substrate within  9 hours, followed by the emergence of cell processes. Over time, endothelial cells migrate away from the initial explant site. Detailed examination using Transwell inserts reveals the formation of adherens junctions marked by p100/p120 catenins, along with the presence of non-endothelial cells labeled with antibodies to smooth muscle-specific actin, indicating a complex cellular environment.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does dose modulation affect the image quality and radiation exposure during MDCT imaging of the left ventricle as shown in Fig-0?",
+    "images": [
+      "PMC2842564_12350_2009_9173_Fig4_HTML.jpg"
+    ],
+    "gt": "Dose modulation in MDCT imaging reduces radiation exposure by adjusting the tube current during acquisition. It maintains high-quality images during the end-diastolic phase when the tube current is maximal but results in increased image noise in the end-systolic phase due to reduced tube current. This technique effectively balances image quality and radiation dose management.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key histological findings and their clinical significance in the diagnosis of the paradental cyst shown in Fig-0?",
+    "images": [
+      "PMC10431234_JISP-27-434-g003.jpg"
+    ],
+    "gt": "The key histological findings in Fig-0 include hyperplastic cystic lining epithelium, inflamed connective tissue capsule, multinucleated giant cells, hyaline rings, and implanted vegetable/plant material confirmed by PAS-positive staining. These findings indicate a chronic inflammatory response and granulomatous reaction to foreign material, which are critical for diagnosing a paradental cyst with a foreign body reaction and guiding appropriate clinical management.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the use of contours and specific echo-types in cross-sectional views aid in the assessment of patellar tendon structure?",
+    "images": [
+      "PMC6639951_13102_2019_124_Fig4_HTML.jpg"
+    ],
+    "gt": "Contours and specific echo-types in cross-sectional views help in delineating and quantifying different areas within the patellar tendon. By representing varying degrees of echogenicity with distinct colors, these contours allow for the accurate measurement and comparison of tendon structure. The relative percentages of different echo-types provide insights into the tendon's structural integrity and any potential pathological changes, aiding in both diagnostic and research purposes.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does sustained expression of D-GADD45 affect cell death in wing imaginal discs, and what role does the JNK pathway play?",
+    "images": [
+      "PMC6562583_genes-10-00378-g001.jpg"
+    ],
+    "gt": "Sustained expression of D-GADD45 increases apoptosis and reduces disc size in wing imaginal discs. The JNK pathway is activated by D-GADD45 upregulation, and inhibiting JNK reduces apoptosis, indicating that JNK is crucial for D-GADD45-induced cell death.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the series of imaging tests in Fig-0 reveal about the post-surgical status of the esophageal anastomosis?",
+    "images": [
+      "PMC10658932_fonc-13-1157563-g003.jpg"
+    ],
+    "gt": "The imaging tests in Fig-0 show that the esophageal anastomosis is generally healing well post-surgery. There is no leakage or obstruction, although there is slight narrowing at the upper anastomosis and delayed larynx emptying. The mucosa is smooth, and the lower edge of the anastomosis is spacious and free of ulceration. Overall, these findings indicate functional recovery with minor issues.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key structures forming the Main Proliferative Zone (MPZ) in the compound image, and what does the distribution of proliferating cells suggest about neurogenesis in the adult mouse brain?",
+    "images": [
+      "PMC4222938_pone.0111453.g003.jpg"
+    ],
+    "gt": "The Main Proliferative Zone (MPZ) in the compound image includes the rostral migratory stream (RMS), lateral walls of the caudate, and supra alveus cells. The distribution of proliferating cells, as indicated by EdU-labeled nuclei and DCX-expressing cells, suggests active cell division and potential neuronal regeneration in these regions. Additionally, the presence of proliferating cells in areas like the choroid plexus and inner capsule indicates ongoing cell replacement in the adult mouse brain, highlighting the dynamic nature of neurogenesis.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the lack of positive staining for vitellogenin in Figure 0 indicate about the developmental stage of the ovary?",
+    "images": [
+      "PMC2999438_f01_01.jpg"
+    ],
+    "gt": "The lack of positive staining for vitellogenin in Figure 0 indicates that the ovary is in a stage 1, previtellogenic, non-activated state, where it has not yet initiated the process of vitellogenesis necessary for egg development.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What do the diffuse increases in signal intensity and reduced muscle volume observed in the MRI sequences suggest about the underlying muscle pathology?",
+    "images": [
+      "PMC6824318_fneur-10-01138-g0001.jpg"
+    ],
+    "gt": "The diffuse increases in signal intensity observed on T1WI and T2WI with fat suppression sequences suggest inflammation or edema in the affected muscles, indicating conditions such as myositis or muscle injury. The high signal intensity on T2WI with fat suppression further supports active inflammatory changes. The reduction in muscle volume, particularly in the medial heads of the bilateral gastrocnemius muscles, suggests atrophy or muscle wasting, likely secondary to chronic inflammation or other underlying pathology.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What key histopathological features are evident in the compound image of subcutaneous tissue, and what is the final diagnosis based on these findings?",
+    "images": [
+      "PMC10477728_gr3.jpg"
+    ],
+    "gt": "The key histopathological features evident in the compound image include necrosis of the subcutis with prominent fibrosis and lipomembranous fat necrosis with chronic degenerative changes, including foci of calcium deposits. The final diagnosis is dystrophic calcification, supported by the absence of intramural calcification or vasculopathy.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What is the clinical significance of the increased liver attenuation observed on CT in Fig-0 after nine years of amiodarone therapy?",
+    "images": [
+      "PMC10899361_11604_2023_1505_Fig10_HTML.jpg"
+    ],
+    "gt": "The increased liver attenuation observed on CT in Fig-0, rising from 57 HU to 97 HU over nine years of amiodarone therapy, indicates amiodarone deposition in the liver. Despite this increase, there were no signs of abnormal liver function or hepatitis. This finding highlights the need for careful differentiation between amiodarone deposition and other conditions like iron overload, which may require additional diagnostic modalities.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the confocal and DIC images in Fig-0 contribute to understanding the localization of MIP-GFP within *S. cerevisiae* cells?",
+    "images": [
+      "PMC8287684_12934_2021_1610_Fig1_HTML.jpg"
+    ],
+    "gt": "The confocal and DIC images in Fig-0 provide a comprehensive view of MIP-GFP localization within *S. cerevisiae*. Confocal micrographs highlight the fluorescence of MIP-GFP, indicating its presence in internal membranes, cell walls, and the extracellular environment. The DIC images, when merged with the fluorescent images, enhance the visualization of cellular structures, thereby providing a detailed and precise analysis of MIP-GFP's spatial distribution within the yeast cells.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the X-gal staining and H&E staining in the compound figure reveal about the Muc4 knockout (KO) mouse corneas?",
+    "images": [
+      "PMC10442421_41598_2023_40491_Fig1_HTML.jpg"
+    ],
+    "gt": "The X-gal staining in the compound figure indicates the activation of the Muc4 promoter along the corneal surface with a spiraling pattern, suggesting centripetal epithelial cell migration. H&E staining shows no significant morphological differences or inflammation between Muc4 KO and wild-type (WT) mice, confirming the integrity of the corneal and conjunctival epithelia.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the imaging findings in Fig-0 contribute to the staging and treatment planning of the patient with bladder cancer?",
+    "images": [
+      "PMC8654419_cureus-0013-00000019375-i01.jpg"
+    ],
+    "gt": "The imaging findings in Fig-0, including CT and T2-weighted MRI, provide critical information for staging bladder cancer. CT reveals left hydronephrosis, indicating urinary obstruction, a bladder tumor on the right lateral wall with invasion into the surrounding fibroadipose tissue, and right external iliac lymph node involvement, suggesting regional metastasis. These findings support the staging of cT3bN1M0, indicating muscle-invasive disease with nodal involvement. This comprehensive assessment guides the selection of appropriate systemic chemotherapy and local management strategies to address both the primary tumor and metastatic disease.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What are the key findings from RNA sequencing and immunohistochemistry in the BCCAS mouse model, and how do they correlate with the observed ischemic lesions?",
+    "images": [
+      "PMC7188838_41598_2020_63183_Fig3_HTML.jpg"
+    ],
+    "gt": "RNA sequencing from the BCCAS mouse model reveals significant upregulation of genes such as Apoe, Cd33, and Ms4a clusters, along with APP-Aβ degradation genes, during subacute hypoperfusion. This upregulation correlates with microglia infiltration and reduced cerebral blood flow. Immunohistochemistry using markers like GFAP and IBA1 shows astrocytosis and microglia infiltration in the affected areas, indicating significant gliosis. These findings support the hypothesis that severe subacute hypoperfusion triggers APP misfolding and Aβ oligomer formation, particularly in the CA1 region of the hippocampus.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the persistence of nodules and mass shadows on chest CT after anti-infective treatment suggest about the underlying condition?",
+    "images": [
+      "PMC9210899_WJCC-10-5380-g003.jpg"
+    ],
+    "gt": "The persistence of nodules and mass shadows on chest CT after anti-infective treatment suggests that the underlying condition may not be primarily infectious. Further diagnostic steps, such as biopsy or additional imaging, are needed to determine the exact etiology and guide appropriate management.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What is the purpose of using oblique coronal and sagittal reformations in conjunction with axial MRI slices for visualizing the subthalamic nuclei in this compound image?",
+    "images": [
+      "PMC8902041_fnhum-16-829198-g002.jpg"
+    ],
+    "gt": "Oblique coronal and sagittal reformations are used to ensure that the substantia nigra is not obscured on the selected axial MRI slice. This step is critical for confirming the accuracy of the anatomical visualization of the subthalamic nuclei (STN). By cross-checking with these reformations, radiologists can verify that adjacent structures are not inadvertently included or excluded, thereby enhancing the precision of the anatomical assessment and supporting reliable clinical interpretations.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What does the enrichment of Cx40 and Nav1.5 in atrial muscle bundles at HH Stage 29 suggest about the molecular diversification of these structures?",
+    "images": [
+      "PMC4264946_pone.0115207.g002.jpg"
+    ],
+    "gt": "The enrichment of Cx40 and Nav1.5 in atrial muscle bundles at HH Stage 29 suggests a functional diversification of these structures from the thin-walled myocardium, indicating distinct molecular profiles and roles in cardiac development and function.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How does the balance of MMP-2 and TIMP expression in SVGD (-) patients relate to the stability of the saphenous vein graft as shown in Figure 3?",
+    "images": [
+      "PMC3787554_BMRI2013-730721.003.jpg"
+    ],
+    "gt": "The balanced MMP-2 and TIMP expression in SVGD (-) patients, with MMP-2 being weaker (IRS score 1) and TIMP-2 and TIMP-3 being stronger (IRS scores 8 and 6, respectively), supports the stability of the saphenous vein graft. This balance suggests a protective effect against graft degradation, aligning with the stable angiographic findings.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "Which superimposition technique is considered the gold standard for maximal accuracy in Fig-0?",
+    "images": [
+      "PMC4338241_pone.0118810.g001.jpg"
+    ],
+    "gt": "The gold standard for maximal accuracy in Fig-0 is the superimposition technique using the anterior cranial base plus foramen magnum (AC + F) due to its stable anatomical form.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "What specific histopathological features are observed in the compound image confirming the diagnosis of oral lichen planus?",
+    "images": [
+      "PMC3677628_ISRN.DENTISTRY2013-362750.001.jpg"
+    ],
+    "gt": "The compound image confirms the diagnosis of oral lichen planus through the observation of hyperkeratosis, parakeratosis, degeneration of the basal cell layer, and lymphocyte infiltration in the superficial lamina propria and subjacent to the epithelium. These features are characteristic of the chronic inflammatory condition and support the diagnosis.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  },
+  {
+    "question": "How do the temporal dynamics of inhibitory control differ between adolescents and adults, as depicted in Fig-0?",
+    "images": [
+      "PMC4061489_fnhum-08-00453-g002.jpg"
+    ],
+    "gt": "In the compound figure, adults exhibit earlier activation of the right inferior frontal gyrus (IFG) between 200 and 250 ms, while adolescents show later activation of the left IFG between 250 and 300 ms. Additionally, adolescents display heightened activation in the right temporal and inferior parietal regions, indicating greater attentional demands during inhibitory control tasks. These differences highlight the immaturity of inhibitory control networks in adolescents compared to adults.",
+    "image_indices": [
+      "Fig-0"
+    ]
+  }
+]
