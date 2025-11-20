@@ -38,6 +38,9 @@ MIMIC-unified-inference/
 
 ## 🚀 Getting Started 
 
+### Step 0 prepare dataset
+get the access and download the MIMIC dataset from [link](https://physionet.org/content/mimic-cxr/2.1.0/)
+
 ### Step 1: Set Environment Variables
 
 ```bash
