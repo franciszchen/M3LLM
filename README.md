@@ -14,18 +14,14 @@ Our model demonstrates strong performance on the PMC-MI-Benchmark, a comprehensi
 <!-- Insert PMC-MI-Benchmark results image here -->
 ![PMC-MI-Benchmark Results](assets/PMC-MI-multi-image.png)
 ![PMC-MI-Benchmark Results](assets/PMC-MI-textonly-multichoice.png)
-**Key Results:**
-- [Add specific metrics and comparisons here]
 
 ### Public Benchmarks
 
-M3LLM achieves competitive performance across various public medical VQA benchmarks:
+M3LLM achieves competitive performance across various public medical VQA benchmarks (MMMU-Med and OmnimedVQA):
 
 <!-- Insert public benchmark results image here -->
 ![Public Benchmark Results](assets/Public-benchmark.png)
 
-**Evaluated Benchmarks:**
-- [List benchmarks and key results]
 
 ### MIMIC Evaluation
 
@@ -34,8 +30,6 @@ Performance evaluation on MIMIC-CXR and related clinical datasets:
 <!-- Insert MIMIC results image here -->
 ![MIMIC Results](assets/MIMIC.png)
 
-**Clinical Capabilities:**
-- [Highlight clinical reasoning capabilities]
 
 ---
 
@@ -112,53 +106,24 @@ cd M3LLM
 ```
 
 ### Step 2: Set Up Environment
+We should have two conda environments.
+#### For Evaluation
 
-```bash
-# Create conda environment
-conda create -n m3llm python=3.10
-conda activate m3llm
+Please refer to the setup guidance in the [`benchmark/`](benchmark/) folder for evaluation-specific environment configuration.
 
-# Install PyTorch (adjust CUDA version as needed)
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#### For Training
 
-# Install dependencies
-pip install transformers accelerate deepspeed
-pip install wandb pandas tqdm pillow
-pip install flash-attn --no-build-isolation
-```
+Follow the installation instructions from the official [InternVL repository](https://github.com/OpenGVLab/InternVL):
+
 
 ### Step 3: Prepare Data
 
-If you want to use our synthetic data generation pipeline:
-
+Please download our preprocessed training data:
 ```bash
-cd Instruction_data_generation
-# Configure your paths in the scripts
-# Run the pipeline stages sequentially (1 → 2 → 3 → 4 → 5)
+# [links or instructions to be added]
 ```
 
-Or download our preprocessed training data:
-```bash
-# Instructions for downloading preprocessed data
-# [Add download links or instructions]
-```
-
-### Step 4: Configure Training
-
-Update the configuration files with your paths:
-
-```bash
-cd InternVL/internvl_chat/shell/data
-# Edit PMC-data.json with your data paths
-
-cd ../internvl3.0/2nd_finetune
-# Edit training scripts:
-# - Set WANDB_API_KEY
-# - Set OUTPUT_DIR
-# - Adjust GPU settings
-```
-
-### Step 5: Start Training
+### Step 4: Start Training
 
 ```bash
 cd InternVL
@@ -207,10 +172,10 @@ M3LLM/
 
 We release the following model checkpoints:
 
-| Model | Training Method | Download Link | Size |
-|-------|----------------|---------------|------|
-| M3LLM-LoRA | LoRA (rank 16) | [Coming Soon] | ~XX MB |
-| M3LLM-Full | Full Finetuning | [Coming Soon] | ~XX GB |
+| Model | Training Method | Download Link |
+|-------|----------------|---------------|
+| M3LLM-LoRA | LoRA (rank 16) | [Coming Soon] |
+| M3LLM-Full | Full Finetuning | [Coming Soon] |
 
 ### Loading the Model
 
@@ -251,6 +216,17 @@ Please also cite the base model:
 }
 ```
 
+If you are using MIMIC-cxr dataset, please cite:
+```bibtex
+@inproceedings{mimic_xray,
+  title={Learning to exploit temporal structure for biomedical vision-language processing},
+  author={Bannur, Shruthi and Hyland, Stephanie and Liu, Qianchu and Perez-Garcia, Fernando and Ilse, Maximilian and Castro, Daniel C and Boecking, Benedikt and Sharma, Harshita and Bouzid, Kenza and Thieme, Anja and others},
+  booktitle={CVPR},
+  pages={15016--15027},
+  year={2023}
+}
+```
+
 ---
 
 ## 🤝 Contributing
@@ -270,39 +246,4 @@ This project is released under the [MIT License](LICENSE).
 The InternVL codebase is subject to its original license terms. Please refer to the [InternVL repository](https://github.com/OpenGVLab/InternVL) for details.
 
 ---
-
-## 🙏 Acknowledgments
-
-- [InternVL](https://github.com/OpenGVLab/InternVL) for the foundational vision-language model
-- [HuggingFace](https://huggingface.co/) for the model hosting and inference infrastructure
-- [PMC Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) for medical image data
-- All contributors and collaborators who made this project possible
-
----
-
-## 📧 Contact
-
-For questions or collaborations, please contact:
-- [Your Name/Team]
-- Email: [your.email@institution.edu]
-- GitHub Issues: [https://github.com/franciszchen/M3LLM/issues](https://github.com/franciszchen/M3LLM/issues)
-
----
-
-## 🔗 Related Resources
-
-- 🏥 [PMC-MI-Benchmark](link-to-benchmark)
-- 📚 [Paper](link-to-paper)
-- 🤗 [Model on HuggingFace](link-to-hf-model)
-- 📊 [Training Logs](link-to-wandb)
-
----
-
-<div align="center">
-  
-**Built with ❤️ for advancing medical AI**
-
-⭐ If you find this project helpful, please consider giving it a star!
-
-</div>
 
