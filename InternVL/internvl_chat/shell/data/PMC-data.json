@@ -1,0 +1,51 @@
+{
+    "qa-puretext":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/puretext.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "40382"    
+    },
+    "qa-bbox":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/boundingboxVQA.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "40293"    
+    },
+    "qa-single_subimage":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/single_subimage.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "40287"    
+    },
+    "qa-multiple_subimage":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/multiple_subimage.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "39462"    
+    },
+    "qa-subimage-option":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/subimage_option.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "40295"    
+    },
+
+    "qa-compound-image":{
+      "root": "your_data_path/images/",
+      "annotation": "./full_training_data/compound_image.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 1,
+      "repeat_time": 1,
+      "length": "37029"    
+    }
+}

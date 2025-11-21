@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model checkpoints and outputs
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+output_*/
+runs/
+wandb/
+
+# Training logs
+*.log
+*.txt
+training_log.txt
+
+# Data files (uncomment if you don't want to track data)
+# *.jsonl
+# *.json
+# full_training_data/
+# *.jpg
+# *.png
+# *.jpeg
+
+# DeepSpeed
+.deepspeed_env
+
+# Cache
+.cache/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+
