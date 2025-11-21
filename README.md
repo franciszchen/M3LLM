@@ -119,9 +119,9 @@ Follow the installation instructions from the official [InternVL repository](htt
 ### Step 3: Prepare Data
 
 Please download our preprocessed training data:
-```bash
-# [links or instructions to be added]
-```
+
+[M3LLM training data](https://huggingface.co/datasets/KerwinFu/M3LLM-PMC)
+
 
 ### Step 4: Start Training
 
