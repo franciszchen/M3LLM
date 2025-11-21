@@ -1,7 +1,8 @@
 # M3LLM: Medical Multimodal Large Language Model
 
 **M3LLM** is a specialized medical vision-language model built on [InternVL3-8B](https://huggingface.co/OpenGVLab/InternVL3-8B), finetuned on comprehensive PMC medical imaging datasets to achieve state-of-the-art performance on multi-image medical visual question answering tasks.
-![Overall performance](assets/radar-v4.pdf)
+
+![Overall performance](assets/radar.png)
 ---
 
 ## 📊 Evaluation Results
