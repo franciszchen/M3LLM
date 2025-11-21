@@ -25,7 +25,7 @@ M3LLM achieves competitive performance across various public medical VQA benchma
 
 ### MIMIC Evaluation
 
-Performance evaluation on MIMIC-CXR and related clinical datasets:
+Performance evaluation on MIMIC-CXR :
 
 <!-- Insert MIMIC results image here -->
 ![MIMIC Results](assets/MIMIC.png)
