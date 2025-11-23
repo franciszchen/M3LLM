@@ -118,12 +118,8 @@ Follow the installation instructions from the official [InternVL repository](htt
 
 ### Step 3: Prepare Data
 
-Please download our preprocessed training data (jsonl):
-
-[M3LLM training data](https://huggingface.co/datasets/KerwinFu/M3LLM-PMC)
-
-Please send an email to yihang.fu@yale.edu to get the access to the image data, once you have the access, you can download the data here:
-[M3LLM training data images](https://yaleedu-my.sharepoint.com/:u:/g/personal/yihang_fu_yale_edu/IQB_N1a2S2yCTL8HBKhgeU40AdGyCgqmhF75jt-M76GwTrg?email=zhen.chen%40yale.edu&e=NqKvlw)
+Please download our training data and benchmark data here:
+[Data](https://yaleedu-my.sharepoint.com/:f:/g/personal/yihang_fu_yale_edu/IgD6PrryHADrRpbi3BVbsc1uAY9ZMWMzS6NmI3WBYLOEvlA?e=WZ6dOh)
 
 ### Step 4: Start Training
 
