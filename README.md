@@ -190,6 +190,23 @@ tokenizer = AutoTokenizer.from_pretrained("path/to/m3llm-checkpoint")
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to:
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 📝 Improve documentation
+- 🔧 Submit pull requests
+
+---
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
+
+The InternVL codebase is subject to its original license terms. Please refer to the [InternVL repository](https://github.com/OpenGVLab/InternVL) for details.
+
+---
 ## 📖 Citation
 
 If you find M3LLM useful for your research, please cite:
@@ -224,24 +241,4 @@ If you are using MIMIC-cxr dataset, please cite:
   year={2023}
 }
 ```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to:
-- 🐛 Report bugs
-- 💡 Suggest new features
-- 📝 Improve documentation
-- 🔧 Submit pull requests
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
-
-The InternVL codebase is subject to its original license terms. Please refer to the [InternVL repository](https://github.com/OpenGVLab/InternVL) for details.
-
----
 
