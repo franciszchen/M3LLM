@@ -195,11 +195,11 @@ tokenizer = AutoTokenizer.from_pretrained("path/to/m3llm-checkpoint")
 If you find M3LLM useful for your research, please cite:
 
 ```bibtex
-@article{m3llm2024,
-  title={M3LLM: Medical Multimodal Large Language Model},
-  author={[Your Name and Collaborators]},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+@article{chen2025compound,
+  title={From Compound Figures to Composite Understanding: Developing a Multi-Modal LLM from Biomedical Literature with Medical Multiple-Image Benchmarking and Validation},
+  author={Chen, Zhen and Fu, Yihang and Madera, Gabriel and Giuffre, Mauro and Applebaum, Serina and Kim, Hyunjae and Xu, Hua and Chen, Qingyu},
+  journal={arXiv preprint arXiv:2511.22232},
+  year={2025}
 }
 ```
 
