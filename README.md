@@ -94,7 +94,7 @@ bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-fullmodel.sh
 ```
 📁 **Detailed training documentation**: See [`InternVL/`](InternVL/) for configuration details, hyperparameters, and troubleshooting.
 
-⏱️  **Typical install time**: The installation process typically takes between **5 to 15 minutes** on a "normal" desktop computer with a standard broadband internet connection. This includes the time required to clone the repository, create a Conda environment, and install the necessary dependencies listed in `requirements.txt`.
+
 
 ---
 
@@ -109,6 +109,9 @@ cd M3LLM
 
 ### Step 2: Set Up Environment
 We should have two conda environments.
+
+⏱️  **Typical install time**: The installation process typically takes between **5 to 15 minutes** on a "normal" desktop computer with a standard broadband internet connection. This includes the time required to clone the repository, create a Conda environment, and install the necessary dependencies listed in `requirements.txt`.
+
 #### For Evaluation
 
 Please refer to the setup guidance in the [`benchmark/`](benchmark/) folder for evaluation-specific environment configuration.
@@ -133,7 +136,8 @@ bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-lora.sh
 # For full model training
 bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-fullmodel.sh
 ```
-
+⏱️  **Typical Training time**:
+It takes around 30 hours for one epoch, full parameter training (InternVL-3 8B) using one H200 150G GPU.
 ---
 
 ## 📂 Repository Structure
