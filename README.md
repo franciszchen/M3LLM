@@ -136,9 +136,16 @@ bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-lora.sh
 # For full model training
 bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-fullmodel.sh
 ```
+
 ⏱️  **Typical Training time**:
 It takes around 30 hours for one epoch, full parameter training (InternVL-3 8B) using one H200 150G GPU.
----
+
+
+### Step 5: Run Evaluation
+
+Please check [readme](https://github.com/franciszchen/M3LLM/tree/main/benchmark) for detailed implementation instructions. 
+
+Normally, it takes around 1 hour to finish evaluations (The baseline models we selected are 7B or 8B) on 6 sub-tasks of our PMC-MI-Bench dataset using A100 80G GPU.
 
 ## 📂 Repository Structure
 
