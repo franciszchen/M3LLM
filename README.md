@@ -94,6 +94,8 @@ bash internvl_chat/shell/internvl3.0/2nd_finetune/M3LLM-fulldata-fullmodel.sh
 ```
 📁 **Detailed training documentation**: See [`InternVL/`](InternVL/) for configuration details, hyperparameters, and troubleshooting.
 
+⏱️  **Typical install time**: The installation process typically takes between **5 to 15 minutes** on a "normal" desktop computer with a standard broadband internet connection. This includes the time required to clone the repository, create a Conda environment, and install the necessary dependencies listed in `requirements.txt`.
+
 ---
 
 ## 📦 Installation
